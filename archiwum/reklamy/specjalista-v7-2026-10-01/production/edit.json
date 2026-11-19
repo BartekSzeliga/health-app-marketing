@@ -1,0 +1,17 @@
+{
+  "concept": "Dieta nie kończy się w gabinecie",
+  "duration": 20,
+  "fps": 30,
+  "scenes": [
+    {"from":0,"to":4,"file":"assets/footage/professional-laptop-4065629.mp4","source_start":6,"role":"illustrative professional"},
+    {"from":4,"to":7,"file":"assets/footage/phone-cooking-12691843.mp4","source_start":1,"crop":{"x":1580,"y":0,"w":1216,"h":2160},"role":"phone while preparing meal"},
+    {"from":7,"to":11,"file":"assets/footage/phone-cooking-12691843.mp4","source_start":4,"crop":{"x":1580,"y":0,"w":1216,"h":2160},"blur":true,"role":"moving background behind authentic phone proof"},
+    {"from":11,"to":16,"file":"assets/footage/salad-portrait-6707753.mp4","source_start":1,"role":"illustrative meal; different model"},
+    {"from":16,"to":20,"role":"brand and offer"}
+  ],
+  "footage_speed": 1,
+  "professional_credentials_not_asserted": true,
+  "same_client_story_not_asserted": true,
+  "phone_screen_unmodified": true,
+  "stock_audio_removed": true
+}

@@ -1,0 +1,8 @@
+appId: com.helti.app
+---
+- tapOn: "3 dni"
+- swipe:
+    start: "50%,75%"
+    end: "50%,45%"
+    duration: 500
+- waitForAnimationToEnd

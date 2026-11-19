@@ -1,0 +1,666 @@
+{
+  "nazwa": "Diecik — prowadzenie podopiecznych i własna aplikacja od 600 zł",
+  "data": "2026-11-19",
+  "typ": "reklama",
+  "odbiorca": "specjalista",
+  "cel": "ruch na stronę /aplikacja-dla-firmy; Facebook Feed, Stories i Reels",
+  "motyw": "diecik",
+  "cta": {
+    "plansza": "Umów prezentację",
+    "podpis": "diecik.com/aplikacja-dla-firmy",
+    "przycisk": "Dowiedz się więcej"
+  },
+  "ujawnienie": "Dane przykładowe",
+  "linki": {
+    "strona": "https://diecik.com/aplikacja-dla-firmy"
+  },
+  "pochodzenie": {
+    "data": "2026-11-19 (aplikacja firmowa), 2026-11-09 (panel)",
+    "ekrany": "natywne zrzuty iOS 1206×2622 aplikacji firmowej firmy demonstracyjnej (te same, które są na diecik.com/aplikacja-dla-firmy) oraz zrzut panelu web 1440×1000 z kartą fikcyjnej podopiecznej",
+    "konto": "konta demonstracyjne; bez danych realnych osób",
+    "nagrania": "materiał stockowy z pexels.com na licencji Pexels, użyty ilustracyjnie; pliki w zrodla/material (poza Git), kadry do plansz w zrodla/zdjecia",
+    "obrobka": "ekrany produktu: jednolite skalowanie i ramka, bez retuszu interfejsu; nagrania: kadr do pionu, tempo naturalne, wspólna korekcja barw, bez dźwięku oryginalnego"
+  },
+  "zrodla": {
+    "panelKarta": {
+      "plik": "zrodla/ekrany/panel-karta-podopiecznego.png",
+      "opis": "Panel specjalisty: karta podopiecznej z pomiarami i postępami"
+    },
+    "appWellness": {
+      "plik": "zrodla/ekrany/aplikacja-firmy-wellness.webp",
+      "opis": "Aplikacja firmowa, styl Wellness: dieta od specjalisty z logo firmy"
+    },
+    "appSport": {
+      "plik": "zrodla/ekrany/aplikacja-firmy-sport.webp",
+      "opis": "Aplikacja firmowa, styl Sportowy: ten sam ekran w ciemnym stylu"
+    },
+    "zdjecieKuchnia": {
+      "plik": "zrodla/zdjecia/kuchnia-telefon.jpg",
+      "opis": "Kadr z nagrania 6238332 (18 s): osoba z telefonem w kuchni",
+      "strona": "https://www.pexels.com/video/a-woman-shopping-online-while-sitting-on-a-counter-top-6238332/",
+      "licencja": "Pexels License",
+      "autor": "Thirdman"
+    },
+    "zdjecieTrening": {
+      "plik": "zrodla/zdjecia/po-treningu-telefon.jpg",
+      "opis": "Kadr z nagrania 8551768 (2 s): osoba w stroju sportowym z telefonem",
+      "strona": "https://www.pexels.com/video/a-woman-using-smartphone-8551768/",
+      "licencja": "Pexels License",
+      "autor": "Liliana Drew"
+    },
+    "kuchnia": {
+      "plik": "zrodla/material/pexels-6238332.mp4",
+      "opis": "Osoba z telefonem w kuchni",
+      "strona": "https://www.pexels.com/video/a-woman-shopping-online-while-sitting-on-a-counter-top-6238332/",
+      "licencja": "Pexels License",
+      "autor": "Thirdman"
+    },
+    "posilek": {
+      "plik": "zrodla/material/pexels-9787015.mp4",
+      "opis": "Osoba przy posiłku, telefon na stole",
+      "strona": "https://www.pexels.com/video/a-woman-using-her-cellphone-while-eating-9787015/",
+      "licencja": "Pexels License",
+      "autor": "Marcus Aurelius"
+    },
+    "poTreningu": {
+      "plik": "zrodla/material/pexels-8551768.mp4",
+      "opis": "Osoba w stroju sportowym z telefonem",
+      "strona": "https://www.pexels.com/video/a-woman-using-smartphone-8551768/",
+      "licencja": "Pexels License",
+      "autor": "Liliana Drew"
+    },
+    "trenerNaSali": {
+      "plik": "zrodla/material/pexels-6454295.mp4",
+      "opis": "Trener obserwujący ćwiczącą osobę",
+      "strona": "https://www.pexels.com/video/a-woman-is-lifting-dumbbell-while-her-trainer-is-watching-6454295/",
+      "licencja": "Pexels License",
+      "autor": "Julia Larson"
+    },
+    "silowniaTelefon": {
+      "plik": "zrodla/material/pexels-6326810.mp4",
+      "opis": "Osoba z telefonem na siłowni",
+      "strona": "https://www.pexels.com/video/man-in-sleeveless-t-shirt-typing-on-phone-6326810/",
+      "licencja": "Pexels License",
+      "autor": "Pavel Danilyuk"
+    },
+    "biurkoOkno": {
+      "plik": "zrodla/material/pexels-9130469.mp4",
+      "opis": "Specjalistka pisze na laptopie przy oknie",
+      "autor": "Dario Fernandez Ruz",
+      "strona": "https://www.pexels.com/video/woman-using-laptop-at-home-9130469/",
+      "licencja": "Pexels License"
+    }
+  },
+  "tematy": [
+    {
+      "id": "01-Oferta",
+      "nazwa": "Oferta: prowadzenie i własna aplikacja",
+      "etykieta": "Dla dietetyków i trenerów",
+      "naglowek": [
+        "Prowadzenie podopiecznych",
+        "i własna aplikacja."
+      ],
+      "cena": {
+        "przed": "od",
+        "kwota": "600 zł",
+        "po": "miesięcznie",
+        "dopisek": "brutto"
+      },
+      "dopisek": "Aplikacja z Twoją nazwą i logo w App Store i Google Play.",
+      "uklad": "panel+telefon",
+      "panel": "panelKarta",
+      "ekran": "appWellness",
+      "formaty": [
+        "4x5",
+        "1x1",
+        "9x16"
+      ],
+      "teksty": {
+        "glowny": "Buduj markę z własną aplikacją. Twoi podopieczni mają w telefonie aplikację z Twoją nazwą, logo i kolorami: dietę, treningi, postępy, ankiety i czat. Ty prowadzisz ich w panelu, a publikację w App Store i Google Play oraz aktualizacje bierzemy na siebie. Od 600 zł brutto miesięcznie.",
+        "krotki": "Prowadzenie podopiecznych i własna aplikacja z Twoim logo od 600 zł brutto miesięcznie.",
+        "naglowek": "Własna aplikacja od 600 zł",
+        "opis": "Umów prezentację"
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Oferta ze strony: prowadzenie klientów i własna aplikacja od 600 zł brutto miesięcznie; aplikacja z nazwą, logo i kolorami firmy w App Store i Google Play; publikacja i aktualizacje po stronie Diecika.",
+          "repo": "health-app-frontend",
+          "plik": "src/pages/PublicCompanyApp.tsx",
+          "linie": "166, 332"
+        },
+        {
+          "twierdzenie": "Panel ma kartę podopiecznego z wizytami, pomiarami i postępami.",
+          "repo": "health-app-frontend",
+          "plik": "src/features/trainer/components/TrainerPatientCardHeader.tsx"
+        },
+        {
+          "twierdzenie": "Aplikacja firmy ma trzy style wyglądu i przyjmuje paletę kolorów firmy.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/lib/app-style.ts",
+          "linie": "2–3"
+        },
+        {
+          "twierdzenie": "Firma włącza w aplikacji moduły: dieta, treningi, postępy, ankiety, czat.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/features/app-features/app-features.ts"
+        }
+      ]
+    },
+    {
+      "id": "02-Dietetyk-Buduj-marke",
+      "nazwa": "Buduj markę — dla dietetyków",
+      "etykieta": "Dla dietetyków",
+      "naglowek": [
+        "Buduj",
+        "markę",
+        "z własną",
+        "aplikacją"
+      ],
+      "tresc": [
+        "Prowadzenie podopiecznych",
+        "i aplikacja z Twoim logo"
+      ],
+      "cena": {
+        "przed": "od",
+        "kwota": "600 zł",
+        "po": "miesięcznie",
+        "dopisek": "brutto"
+      },
+      "uklad": "zdjecie+telefon",
+      "zdjecie": "zdjecieKuchnia",
+      "ostrosc": [
+        0.5,
+        0.34
+      ],
+      "ekran": "appWellness",
+      "formaty": [
+        "4x5",
+        "1x1"
+      ],
+      "teksty": {
+        "glowny": "Dietetyku, buduj markę z własną aplikacją. Twoi podopieczni otwierają jadłospis w aplikacji z Twoją nazwą, logo i kolorami, a Ty prowadzisz ich w panelu. Publikację w App Store i Google Play bierzemy na siebie. Prowadzenie podopiecznych i własna aplikacja od 600 zł brutto miesięcznie.",
+        "krotki": "Buduj markę z własną aplikacją. Prowadzenie podopiecznych i aplikacja z Twoim logo od 600 zł brutto miesięcznie.",
+        "naglowek": "Buduj markę z własną aplikacją",
+        "opis": "Umów prezentację"
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Podopieczny widzi plan od specjalisty w aplikacji z logo i kolorami firmy.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/lib/tenant-theme.ts",
+          "linie": "8–16"
+        }
+      ],
+      "film": {
+        "plik": "Film-Dietetyk-Buduj-marke-20s",
+        "kadr45": true,
+        "muzyka": {
+          "plik": "marka/muzyka/kinowy-20s.wav"
+        },
+        "sceny": [
+          {
+            "typ": "material",
+            "czas": 3.6,
+            "material": "kuchnia",
+            "od": 1.0,
+            "etykieta": "Dla dietetyków",
+            "naglowek": [
+              "Buduj",
+              "markę",
+              "z własną",
+              "aplikacją"
+            ],
+            "pozycja": "gora"
+          },
+          {
+            "typ": "ekran",
+            "czas": 4.0,
+            "material": "kuchnia",
+            "od": 4.6,
+            "tytul": "Z Twoją nazwą i logo.",
+            "opis": "Do pobrania w App Store i Google Play.",
+            "ekran": "appWellness"
+          },
+          {
+            "typ": "material",
+            "czas": 3.6,
+            "material": "biurkoOkno",
+            "od": 2.0,
+            "naglowek": [
+              "Podopiecznych",
+              "prowadzisz w panelu."
+            ],
+            "pozycja": "gora",
+            "kadrMaterialu": {
+              "x": 389,
+              "y": 0,
+              "szer": 1598,
+              "wys": 2842
+            },
+            "srodek45": 0.6484
+          },
+          {
+            "typ": "material",
+            "czas": 3.4,
+            "material": "posilek",
+            "od": 2.0,
+            "naglowek": [
+              "Dieta, treningi,",
+              "postępy i czat."
+            ],
+            "pozycja": "dol"
+          },
+          {
+            "typ": "cta",
+            "czas": 5.4,
+            "tlo": "jasne",
+            "haslo": [
+              "Prowadzenie podopiecznych",
+              "i własna aplikacja"
+            ],
+            "cena": {
+              "przed": "od",
+              "kwota": "600 zł",
+              "po": "miesięcznie",
+              "dopisek": "brutto"
+            },
+            "ekran": "appWellness"
+          }
+        ]
+      },
+      "szerokoscNaglowka": 660
+    },
+    {
+      "id": "03-Dietetyk-Twoja-marka",
+      "nazwa": "Twoja marka, Twoje logo — dla dietetyków",
+      "etykieta": "Dla dietetyków",
+      "naglowek": [
+        "Twoja marka,",
+        "Twoje logo",
+        "w App Store",
+        "i Google Play"
+      ],
+      "tresc": [
+        "Prowadzenie podopiecznych",
+        "i własna aplikacja"
+      ],
+      "cena": {
+        "przed": "od",
+        "kwota": "600 zł",
+        "po": "miesięcznie",
+        "dopisek": "brutto"
+      },
+      "uklad": "zdjecie+telefon",
+      "zdjecie": "zdjecieKuchnia",
+      "ostrosc": [
+        0.5,
+        0.34
+      ],
+      "ekran": "appWellness",
+      "formaty": [
+        "4x5",
+        "1x1"
+      ],
+      "teksty": {
+        "glowny": "Twoja marka i Twoje logo w App Store i Google Play. Podopieczni pobierają aplikację z Twoją nazwą i kolorami, a Ty prowadzisz ich w panelu: dieta, treningi, postępy i czat. Publikację bierzemy na siebie. Prowadzenie podopiecznych i własna aplikacja od 600 zł brutto miesięcznie.",
+        "krotki": "Twoja marka, Twoje logo w App Store i Google Play. Prowadzenie podopiecznych i własna aplikacja od 600 zł brutto miesięcznie.",
+        "naglowek": "Twoje logo w App Store i Google Play",
+        "opis": "Umów prezentację"
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Podopieczny widzi plan od specjalisty w aplikacji z logo i kolorami firmy.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/lib/tenant-theme.ts",
+          "linie": "8–16"
+        }
+      ],
+      "film": {
+        "plik": "Film-Dietetyk-Twoja-marka-20s",
+        "kadr45": true,
+        "muzyka": {
+          "plik": "marka/muzyka/kinowy-20s.wav"
+        },
+        "sceny": [
+          {
+            "typ": "material",
+            "czas": 3.6,
+            "material": "kuchnia",
+            "od": 1.0,
+            "etykieta": "Dla dietetyków",
+            "naglowek": [
+              "Twoja marka,",
+              "Twoje logo",
+              "w App Store",
+              "i Google Play"
+            ],
+            "pozycja": "gora",
+            "rozmiar": 76
+          },
+          {
+            "typ": "ekran",
+            "czas": 4.0,
+            "material": "kuchnia",
+            "od": 4.6,
+            "tytul": "Twoja własna aplikacja.",
+            "opis": "Z Twoją nazwą, logo i kolorami.",
+            "ekran": "appWellness"
+          },
+          {
+            "typ": "material",
+            "czas": 3.6,
+            "material": "biurkoOkno",
+            "od": 2.0,
+            "naglowek": [
+              "Podopiecznych",
+              "prowadzisz w panelu."
+            ],
+            "pozycja": "gora",
+            "kadrMaterialu": {
+              "x": 389,
+              "y": 0,
+              "szer": 1598,
+              "wys": 2842
+            },
+            "srodek45": 0.6484
+          },
+          {
+            "typ": "material",
+            "czas": 3.4,
+            "material": "posilek",
+            "od": 2.0,
+            "naglowek": [
+              "Dieta, treningi,",
+              "postępy i czat."
+            ],
+            "pozycja": "dol"
+          },
+          {
+            "typ": "cta",
+            "czas": 5.4,
+            "tlo": "jasne",
+            "haslo": [
+              "Prowadzenie podopiecznych",
+              "i własna aplikacja"
+            ],
+            "cena": {
+              "przed": "od",
+              "kwota": "600 zł",
+              "po": "miesięcznie",
+              "dopisek": "brutto"
+            },
+            "ekran": "appWellness"
+          }
+        ]
+      },
+      "szerokoscNaglowka": 560
+    },
+    {
+      "id": "04-Trener-Buduj-marke",
+      "nazwa": "Buduj markę — dla trenerów",
+      "etykieta": "Dla trenerów",
+      "naglowek": [
+        "Buduj",
+        "markę",
+        "z własną",
+        "aplikacją"
+      ],
+      "tresc": [
+        "Prowadzenie podopiecznych",
+        "i aplikacja z Twoim logo"
+      ],
+      "cena": {
+        "przed": "od",
+        "kwota": "600 zł",
+        "po": "miesięcznie",
+        "dopisek": "brutto"
+      },
+      "uklad": "zdjecie+telefon",
+      "zdjecie": "zdjecieTrening",
+      "ostrosc": [
+        0.62,
+        0.3
+      ],
+      "ekran": "appSport",
+      "formaty": [
+        "4x5",
+        "1x1"
+      ],
+      "teksty": {
+        "glowny": "Trenerze, buduj markę z własną aplikacją. Twoi podopieczni otwierają plan treningowy w aplikacji z Twoją nazwą, logo i kolorami, a Ty prowadzisz ich w panelu. Publikację w App Store i Google Play bierzemy na siebie. Prowadzenie podopiecznych i własna aplikacja od 600 zł brutto miesięcznie.",
+        "krotki": "Buduj markę z własną aplikacją. Prowadzenie podopiecznych i aplikacja z Twoim logo od 600 zł brutto miesięcznie.",
+        "naglowek": "Buduj markę z własną aplikacją",
+        "opis": "Umów prezentację"
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Podopieczny widzi plan od specjalisty w aplikacji z logo i kolorami firmy, także w ciemnym stylu Sportowym.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/lib/app-style.ts",
+          "linie": "2–3"
+        }
+      ],
+      "film": {
+        "plik": "Film-Trener-Buduj-marke-20s",
+        "kadr45": true,
+        "muzyka": {
+          "plik": "marka/muzyka/kinowy-20s.wav"
+        },
+        "sceny": [
+          {
+            "typ": "material",
+            "czas": 3.6,
+            "material": "poTreningu",
+            "od": 0.4,
+            "etykieta": "Dla trenerów",
+            "naglowek": [
+              "Buduj",
+              "markę",
+              "z własną",
+              "aplikacją"
+            ],
+            "pozycja": "gora",
+            "kadrMaterialu": {
+              "x": 0,
+              "y": 0,
+              "szer": 1426,
+              "wys": 2535
+            }
+          },
+          {
+            "typ": "ekran",
+            "czas": 4.0,
+            "material": "poTreningu",
+            "od": 4.2,
+            "tytul": "Z Twoją nazwą i logo.",
+            "opis": "Do pobrania w App Store i Google Play.",
+            "ekran": "appSport"
+          },
+          {
+            "typ": "material",
+            "czas": 3.6,
+            "material": "trenerNaSali",
+            "od": 1.0,
+            "naglowek": [
+              "Podopiecznych",
+              "prowadzisz na sali",
+              "i w panelu."
+            ],
+            "pozycja": "dol",
+            "kadrMaterialu": {
+              "x": 152,
+              "y": 540,
+              "szer": 1856,
+              "wys": 3300
+            }
+          },
+          {
+            "typ": "material",
+            "czas": 3.4,
+            "material": "silowniaTelefon",
+            "od": 2.0,
+            "naglowek": [
+              "Trening, dieta,",
+              "postępy i czat."
+            ],
+            "pozycja": "dol"
+          },
+          {
+            "typ": "cta",
+            "czas": 5.4,
+            "tlo": "jasne",
+            "haslo": [
+              "Prowadzenie podopiecznych",
+              "i własna aplikacja"
+            ],
+            "cena": {
+              "przed": "od",
+              "kwota": "600 zł",
+              "po": "miesięcznie",
+              "dopisek": "brutto"
+            },
+            "ekran": "appSport"
+          }
+        ]
+      },
+      "szerokoscNaglowka": 660
+    },
+    {
+      "id": "05-Trener-Twoja-marka",
+      "nazwa": "Twoja marka, Twoje logo — dla trenerów",
+      "etykieta": "Dla trenerów",
+      "naglowek": [
+        "Twoja marka,",
+        "Twoje logo",
+        "w App Store",
+        "i Google Play"
+      ],
+      "tresc": [
+        "Prowadzenie podopiecznych",
+        "i własna aplikacja"
+      ],
+      "cena": {
+        "przed": "od",
+        "kwota": "600 zł",
+        "po": "miesięcznie",
+        "dopisek": "brutto"
+      },
+      "uklad": "zdjecie+telefon",
+      "zdjecie": "zdjecieTrening",
+      "ostrosc": [
+        0.62,
+        0.3
+      ],
+      "ekran": "appSport",
+      "formaty": [
+        "4x5",
+        "1x1"
+      ],
+      "teksty": {
+        "glowny": "Twoja marka i Twoje logo w App Store i Google Play. Podopieczni pobierają aplikację z Twoją nazwą i kolorami, a Ty prowadzisz ich w panelu: dieta, treningi, postępy i czat. Publikację bierzemy na siebie. Prowadzenie podopiecznych i własna aplikacja od 600 zł brutto miesięcznie.",
+        "krotki": "Twoja marka, Twoje logo w App Store i Google Play. Prowadzenie podopiecznych i własna aplikacja od 600 zł brutto miesięcznie.",
+        "naglowek": "Twoje logo w App Store i Google Play",
+        "opis": "Umów prezentację"
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Podopieczny widzi plan od specjalisty w aplikacji z logo i kolorami firmy, także w ciemnym stylu Sportowym.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/lib/app-style.ts",
+          "linie": "2–3"
+        }
+      ],
+      "film": {
+        "plik": "Film-Trener-Twoja-marka-20s",
+        "kadr45": true,
+        "muzyka": {
+          "plik": "marka/muzyka/kinowy-20s.wav"
+        },
+        "sceny": [
+          {
+            "typ": "material",
+            "czas": 3.6,
+            "material": "poTreningu",
+            "od": 0.4,
+            "etykieta": "Dla trenerów",
+            "naglowek": [
+              "Twoja marka,",
+              "Twoje logo",
+              "w App Store",
+              "i Google Play"
+            ],
+            "pozycja": "gora",
+            "kadrMaterialu": {
+              "x": 0,
+              "y": 0,
+              "szer": 1426,
+              "wys": 2535
+            },
+            "rozmiar": 88
+          },
+          {
+            "typ": "ekran",
+            "czas": 4.0,
+            "material": "poTreningu",
+            "od": 4.2,
+            "tytul": "Twoja własna aplikacja.",
+            "opis": "Z Twoją nazwą, logo i kolorami.",
+            "ekran": "appSport"
+          },
+          {
+            "typ": "material",
+            "czas": 3.6,
+            "material": "trenerNaSali",
+            "od": 1.0,
+            "naglowek": [
+              "Podopiecznych",
+              "prowadzisz na sali",
+              "i w panelu."
+            ],
+            "pozycja": "dol",
+            "kadrMaterialu": {
+              "x": 152,
+              "y": 540,
+              "szer": 1856,
+              "wys": 3300
+            }
+          },
+          {
+            "typ": "material",
+            "czas": 3.4,
+            "material": "silowniaTelefon",
+            "od": 2.0,
+            "naglowek": [
+              "Trening, dieta,",
+              "postępy i czat."
+            ],
+            "pozycja": "dol"
+          },
+          {
+            "typ": "cta",
+            "czas": 5.4,
+            "tlo": "jasne",
+            "haslo": [
+              "Prowadzenie podopiecznych",
+              "i własna aplikacja"
+            ],
+            "cena": {
+              "przed": "od",
+              "kwota": "600 zł",
+              "po": "miesięcznie",
+              "dopisek": "brutto"
+            },
+            "ekran": "appSport"
+          }
+        ]
+      },
+      "szerokoscNaglowka": 560
+    }
+  ],
+  "uwagi": [
+    "Cena „od 600 zł brutto miesięcznie” i zakres oferty pochodzą ze strony diecik.com/aplikacja-dla-firmy, stan na 19.11.2026. Przed emisją potwierdź, że strona nadal je podaje. Do ceny dochodzą opłaty sklepów na koncie firmy (Apple 99 USD rocznie, Google 25 USD jednorazowo) — są opisane na stronie.",
+    "Aplikacja jest publikowana na kontach deweloperskich firmy w App Store i Google Play. Nie obiecujemy publikacji pod nazwą klienta z konta Diecika.",
+    "Nie podajemy terminu wdrożenia ani nie obiecujemy pozyskania klientów lub wyniku finansowego.",
+    "Osoby na zdjęciach i nagraniach to materiał stockowy użyty ilustracyjnie: nie są klientami Diecika i niczego nie rekomendują."
+  ]
+}

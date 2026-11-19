@@ -1,0 +1,522 @@
+{
+  "kampania": "Diecik — prowadzenie podopiecznych i własna aplikacja od 600 zł",
+  "id": "2026-11-19-prowadzenie-i-aplikacja",
+  "data": "2026-11-19",
+  "typ": "reklama",
+  "odbiorca": "specjalista",
+  "cel": "ruch na stronę /aplikacja-dla-firmy; Facebook Feed, Stories i Reels",
+  "motyw": "diecik",
+  "status": "DO_AKCEPTACJI",
+  "utworzono": "2026-11-19T20:19:02.107Z",
+  "wgraneDoMeta": false,
+  "opublikowane": false,
+  "liczby": {
+    "filmy": 8,
+    "grafiki": 11,
+    "kartyKaruzeli": 0
+  },
+  "pliki": [
+    {
+      "plik": "DO_WGRANIA/Film-Dietetyk-Buduj-marke-20s-4x5.mp4",
+      "nazwa": "Film-Dietetyk-Buduj-marke-20s-4x5.mp4",
+      "rodzaj": "film",
+      "temat": "02-Dietetyk-Buduj-marke",
+      "sha256": "933ceb0ccdb104b767e15c975f5f3f2172475cead6e7259a0e922f2045e685af",
+      "bajty": 17074809,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "sekundy": 20,
+      "fps": 30,
+      "klatek": 600,
+      "kontrole": {
+        "wymiary": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "klatki": true,
+        "dlugosc": true,
+        "kwadratowePiksele": true,
+        "bt709": true,
+        "aacStereo48k": true,
+        "pelneDekodowanie": true,
+        "glosnosc": true,
+        "klatkiKluczowe": true
+      },
+      "zaliczone": true,
+      "dzwiek": {
+        "lufs": -15.4,
+        "szczytDbtp": -2.49,
+        "kodek": "aac",
+        "czestotliwosc": 48000,
+        "kanaly": 2
+      },
+      "najwiekszyOdstepKlatekKluczowychS": 1,
+      "planszaKontaktowa": "qa/film/Film-Dietetyk-Buduj-marke-20s-4x5-kontakt.jpg",
+      "okladka": "podglad/okladki/Film-Dietetyk-Buduj-marke-20s.jpg"
+    },
+    {
+      "plik": "DO_WGRANIA/Film-Dietetyk-Buduj-marke-20s.mp4",
+      "nazwa": "Film-Dietetyk-Buduj-marke-20s.mp4",
+      "rodzaj": "film",
+      "temat": "02-Dietetyk-Buduj-marke",
+      "sha256": "b1a9e2db6d708600de04ec950f8f70f32eb086ec20cfc40b85dec61865b996e9",
+      "bajty": 21879247,
+      "szerokosc": 1440,
+      "wysokosc": 2560,
+      "sekundy": 20,
+      "fps": 30,
+      "klatek": 600,
+      "kontrole": {
+        "wymiary": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "klatki": true,
+        "dlugosc": true,
+        "kwadratowePiksele": true,
+        "bt709": true,
+        "aacStereo48k": true,
+        "pelneDekodowanie": true,
+        "glosnosc": true,
+        "klatkiKluczowe": true
+      },
+      "zaliczone": true,
+      "dzwiek": {
+        "lufs": -15.4,
+        "szczytDbtp": -2.49,
+        "kodek": "aac",
+        "czestotliwosc": 48000,
+        "kanaly": 2
+      },
+      "najwiekszyOdstepKlatekKluczowychS": 1,
+      "planszaKontaktowa": "qa/film/Film-Dietetyk-Buduj-marke-20s-kontakt.jpg",
+      "okladka": "podglad/okladki/Film-Dietetyk-Buduj-marke-20s.jpg"
+    },
+    {
+      "plik": "DO_WGRANIA/Film-Dietetyk-Twoja-marka-20s-4x5.mp4",
+      "nazwa": "Film-Dietetyk-Twoja-marka-20s-4x5.mp4",
+      "rodzaj": "film",
+      "temat": "03-Dietetyk-Twoja-marka",
+      "sha256": "29c3d2a3b658dfb5cad368bc4e219ac726c7b46b45ca77e4e1fd052209df36ec",
+      "bajty": 17180447,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "sekundy": 20,
+      "fps": 30,
+      "klatek": 600,
+      "kontrole": {
+        "wymiary": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "klatki": true,
+        "dlugosc": true,
+        "kwadratowePiksele": true,
+        "bt709": true,
+        "aacStereo48k": true,
+        "pelneDekodowanie": true,
+        "glosnosc": true,
+        "klatkiKluczowe": true
+      },
+      "zaliczone": true,
+      "dzwiek": {
+        "lufs": -15.4,
+        "szczytDbtp": -2.49,
+        "kodek": "aac",
+        "czestotliwosc": 48000,
+        "kanaly": 2
+      },
+      "najwiekszyOdstepKlatekKluczowychS": 1,
+      "planszaKontaktowa": "qa/film/Film-Dietetyk-Twoja-marka-20s-4x5-kontakt.jpg",
+      "okladka": "podglad/okladki/Film-Dietetyk-Twoja-marka-20s.jpg"
+    },
+    {
+      "plik": "DO_WGRANIA/Film-Dietetyk-Twoja-marka-20s.mp4",
+      "nazwa": "Film-Dietetyk-Twoja-marka-20s.mp4",
+      "rodzaj": "film",
+      "temat": "03-Dietetyk-Twoja-marka",
+      "sha256": "82f0e272095bad4f1a140914fa9ce1a0602c157dfeec9f29b06dbafd45b6f015",
+      "bajty": 21976480,
+      "szerokosc": 1440,
+      "wysokosc": 2560,
+      "sekundy": 20,
+      "fps": 30,
+      "klatek": 600,
+      "kontrole": {
+        "wymiary": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "klatki": true,
+        "dlugosc": true,
+        "kwadratowePiksele": true,
+        "bt709": true,
+        "aacStereo48k": true,
+        "pelneDekodowanie": true,
+        "glosnosc": true,
+        "klatkiKluczowe": true
+      },
+      "zaliczone": true,
+      "dzwiek": {
+        "lufs": -15.4,
+        "szczytDbtp": -2.49,
+        "kodek": "aac",
+        "czestotliwosc": 48000,
+        "kanaly": 2
+      },
+      "najwiekszyOdstepKlatekKluczowychS": 1,
+      "planszaKontaktowa": "qa/film/Film-Dietetyk-Twoja-marka-20s-kontakt.jpg",
+      "okladka": "podglad/okladki/Film-Dietetyk-Twoja-marka-20s.jpg"
+    },
+    {
+      "plik": "DO_WGRANIA/Film-Trener-Buduj-marke-20s-4x5.mp4",
+      "nazwa": "Film-Trener-Buduj-marke-20s-4x5.mp4",
+      "rodzaj": "film",
+      "temat": "04-Trener-Buduj-marke",
+      "sha256": "829d9cd14ee2c9cb43c777525404d0789103c018d83760be1939dc7e5be9f55b",
+      "bajty": 17475753,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "sekundy": 20,
+      "fps": 30,
+      "klatek": 600,
+      "kontrole": {
+        "wymiary": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "klatki": true,
+        "dlugosc": true,
+        "kwadratowePiksele": true,
+        "bt709": true,
+        "aacStereo48k": true,
+        "pelneDekodowanie": true,
+        "glosnosc": true,
+        "klatkiKluczowe": true
+      },
+      "zaliczone": true,
+      "dzwiek": {
+        "lufs": -15.4,
+        "szczytDbtp": -2.49,
+        "kodek": "aac",
+        "czestotliwosc": 48000,
+        "kanaly": 2
+      },
+      "najwiekszyOdstepKlatekKluczowychS": 1,
+      "planszaKontaktowa": "qa/film/Film-Trener-Buduj-marke-20s-4x5-kontakt.jpg",
+      "okladka": "podglad/okladki/Film-Trener-Buduj-marke-20s.jpg"
+    },
+    {
+      "plik": "DO_WGRANIA/Film-Trener-Buduj-marke-20s.mp4",
+      "nazwa": "Film-Trener-Buduj-marke-20s.mp4",
+      "rodzaj": "film",
+      "temat": "04-Trener-Buduj-marke",
+      "sha256": "12b5f6c8c16d04433e49b87ecffe85cedeccd844149521ddb2329c8d204b2437",
+      "bajty": 24283364,
+      "szerokosc": 1440,
+      "wysokosc": 2560,
+      "sekundy": 20,
+      "fps": 30,
+      "klatek": 600,
+      "kontrole": {
+        "wymiary": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "klatki": true,
+        "dlugosc": true,
+        "kwadratowePiksele": true,
+        "bt709": true,
+        "aacStereo48k": true,
+        "pelneDekodowanie": true,
+        "glosnosc": true,
+        "klatkiKluczowe": true
+      },
+      "zaliczone": true,
+      "dzwiek": {
+        "lufs": -15.4,
+        "szczytDbtp": -2.49,
+        "kodek": "aac",
+        "czestotliwosc": 48000,
+        "kanaly": 2
+      },
+      "najwiekszyOdstepKlatekKluczowychS": 1,
+      "planszaKontaktowa": "qa/film/Film-Trener-Buduj-marke-20s-kontakt.jpg",
+      "okladka": "podglad/okladki/Film-Trener-Buduj-marke-20s.jpg"
+    },
+    {
+      "plik": "DO_WGRANIA/Film-Trener-Twoja-marka-20s-4x5.mp4",
+      "nazwa": "Film-Trener-Twoja-marka-20s-4x5.mp4",
+      "rodzaj": "film",
+      "temat": "05-Trener-Twoja-marka",
+      "sha256": "520cc11402920a89231c3b468c8f501faf39628d24be7826371abb70776c3a16",
+      "bajty": 17566977,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "sekundy": 20,
+      "fps": 30,
+      "klatek": 600,
+      "kontrole": {
+        "wymiary": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "klatki": true,
+        "dlugosc": true,
+        "kwadratowePiksele": true,
+        "bt709": true,
+        "aacStereo48k": true,
+        "pelneDekodowanie": true,
+        "glosnosc": true,
+        "klatkiKluczowe": true
+      },
+      "zaliczone": true,
+      "dzwiek": {
+        "lufs": -15.4,
+        "szczytDbtp": -2.49,
+        "kodek": "aac",
+        "czestotliwosc": 48000,
+        "kanaly": 2
+      },
+      "najwiekszyOdstepKlatekKluczowychS": 1,
+      "planszaKontaktowa": "qa/film/Film-Trener-Twoja-marka-20s-4x5-kontakt.jpg",
+      "okladka": "podglad/okladki/Film-Trener-Twoja-marka-20s.jpg"
+    },
+    {
+      "plik": "DO_WGRANIA/Film-Trener-Twoja-marka-20s.mp4",
+      "nazwa": "Film-Trener-Twoja-marka-20s.mp4",
+      "rodzaj": "film",
+      "temat": "05-Trener-Twoja-marka",
+      "sha256": "0eda7e660ef0dd57a7e155708df229968cb346a9f1783326f4b4c477020929c8",
+      "bajty": 24352300,
+      "szerokosc": 1440,
+      "wysokosc": 2560,
+      "sekundy": 20,
+      "fps": 30,
+      "klatek": 600,
+      "kontrole": {
+        "wymiary": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "klatki": true,
+        "dlugosc": true,
+        "kwadratowePiksele": true,
+        "bt709": true,
+        "aacStereo48k": true,
+        "pelneDekodowanie": true,
+        "glosnosc": true,
+        "klatkiKluczowe": true
+      },
+      "zaliczone": true,
+      "dzwiek": {
+        "lufs": -15.4,
+        "szczytDbtp": -2.49,
+        "kodek": "aac",
+        "czestotliwosc": 48000,
+        "kanaly": 2
+      },
+      "najwiekszyOdstepKlatekKluczowychS": 1,
+      "planszaKontaktowa": "qa/film/Film-Trener-Twoja-marka-20s-kontakt.jpg",
+      "okladka": "podglad/okladki/Film-Trener-Twoja-marka-20s.jpg"
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-01-Oferta-1x1.jpg",
+      "nazwa": "Grafika-01-Oferta-1x1.jpg",
+      "rodzaj": "grafika",
+      "temat": "01-Oferta",
+      "format": "1x1",
+      "sha256": "522d88a12f71e49f171f06ad9c18ac1f3349dd2f528bcc3818f4c36c8c3e87d3",
+      "bajty": 300475,
+      "szerokosc": 1440,
+      "wysokosc": 1440,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-01-Oferta-4x5.jpg",
+      "nazwa": "Grafika-01-Oferta-4x5.jpg",
+      "rodzaj": "grafika",
+      "temat": "01-Oferta",
+      "format": "4x5",
+      "sha256": "cbcbd9b8330cb86502f516acb8a9f24688aa6bffd83f17c31e10b76ade3aa465",
+      "bajty": 370116,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-01-Oferta-9x16.jpg",
+      "nazwa": "Grafika-01-Oferta-9x16.jpg",
+      "rodzaj": "grafika",
+      "temat": "01-Oferta",
+      "format": "9x16",
+      "sha256": "da0b95e93b3668693a204211eeaa1f5e17c318332b2f83fedc70ae8e9a2c7642",
+      "bajty": 422284,
+      "szerokosc": 1440,
+      "wysokosc": 2560,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-02-Dietetyk-Buduj-marke-1x1.jpg",
+      "nazwa": "Grafika-02-Dietetyk-Buduj-marke-1x1.jpg",
+      "rodzaj": "grafika",
+      "temat": "02-Dietetyk-Buduj-marke",
+      "format": "1x1",
+      "sha256": "d736d364b1226bbfaeba060fd49ea40fb57ab6b00cbed1602daf575189bb3e9b",
+      "bajty": 376390,
+      "szerokosc": 1440,
+      "wysokosc": 1440,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-02-Dietetyk-Buduj-marke-4x5.jpg",
+      "nazwa": "Grafika-02-Dietetyk-Buduj-marke-4x5.jpg",
+      "rodzaj": "grafika",
+      "temat": "02-Dietetyk-Buduj-marke",
+      "format": "4x5",
+      "sha256": "d8df0ea56810178f5704c852633b8eb26d88461ffeefc0dbd5cdddc058ecae7d",
+      "bajty": 451533,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-03-Dietetyk-Twoja-marka-1x1.jpg",
+      "nazwa": "Grafika-03-Dietetyk-Twoja-marka-1x1.jpg",
+      "rodzaj": "grafika",
+      "temat": "03-Dietetyk-Twoja-marka",
+      "format": "1x1",
+      "sha256": "ca25d0dfbc7d4930a422844b401ca1cf2f9938c07d605d797ac673da04ac7f64",
+      "bajty": 384574,
+      "szerokosc": 1440,
+      "wysokosc": 1440,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-03-Dietetyk-Twoja-marka-4x5.jpg",
+      "nazwa": "Grafika-03-Dietetyk-Twoja-marka-4x5.jpg",
+      "rodzaj": "grafika",
+      "temat": "03-Dietetyk-Twoja-marka",
+      "format": "4x5",
+      "sha256": "b53c0a7b6a151bea529c79bd58c54d7e18a1f7045b09317d341de6e2e8373fa6",
+      "bajty": 454376,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-04-Trener-Buduj-marke-1x1.jpg",
+      "nazwa": "Grafika-04-Trener-Buduj-marke-1x1.jpg",
+      "rodzaj": "grafika",
+      "temat": "04-Trener-Buduj-marke",
+      "format": "1x1",
+      "sha256": "f4260bf2bdb1fcdd457d3049b49bb40a24274d3526acf900a4b6097e75641155",
+      "bajty": 404089,
+      "szerokosc": 1440,
+      "wysokosc": 1440,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-04-Trener-Buduj-marke-4x5.jpg",
+      "nazwa": "Grafika-04-Trener-Buduj-marke-4x5.jpg",
+      "rodzaj": "grafika",
+      "temat": "04-Trener-Buduj-marke",
+      "format": "4x5",
+      "sha256": "7b1df49908cee4760f948c57f3c206bd6b9c795be753ab1126cc86b1939cce9c",
+      "bajty": 490265,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-05-Trener-Twoja-marka-1x1.jpg",
+      "nazwa": "Grafika-05-Trener-Twoja-marka-1x1.jpg",
+      "rodzaj": "grafika",
+      "temat": "05-Trener-Twoja-marka",
+      "format": "1x1",
+      "sha256": "4f4e9524ed8acb7c5216691016df95a500c24774558c188e7f6d0faf51c31396",
+      "bajty": 412471,
+      "szerokosc": 1440,
+      "wysokosc": 1440,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-05-Trener-Twoja-marka-4x5.jpg",
+      "nazwa": "Grafika-05-Trener-Twoja-marka-4x5.jpg",
+      "rodzaj": "grafika",
+      "temat": "05-Trener-Twoja-marka",
+      "format": "4x5",
+      "sha256": "27c21cfd59f46fecdecc0c3efa22c4ac714cf6eb0fd637b2154e9c8e3a2dcf82",
+      "bajty": 493889,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    }
+  ],
+  "kolejnoscKaruzeli": [],
+  "teksty": "TEKSTY-REKLAM.txt",
+  "zrodla": "ZRODLA.txt",
+  "autentycznyInterfejs": true,
+  "daneDemonstracyjne": true,
+  "interfejsRetuszowany": false,
+  "klikniecieSymulowane": false,
+  "kontrola": {
+    "technicznaZaliczona": true,
+    "uwagi": [],
+    "informacje": [
+      "temat 01-Oferta.teksty.glowny: 284 znaków, Meta zaleca do 125 (Instagram Feed pokazuje ok. 125 znaków; dłuższy tekst zwija się pod „więcej”)",
+      "temat 02-Dietetyk-Buduj-marke.teksty.glowny: 285 znaków, Meta zaleca do 125 (Instagram Feed pokazuje ok. 125 znaków; dłuższy tekst zwija się pod „więcej”)",
+      "temat 03-Dietetyk-Twoja-marka.teksty.glowny: 278 znaków, Meta zaleca do 125 (Instagram Feed pokazuje ok. 125 znaków; dłuższy tekst zwija się pod „więcej”)",
+      "temat 04-Trener-Buduj-marke.teksty.glowny: 290 znaków, Meta zaleca do 125 (Instagram Feed pokazuje ok. 125 znaków; dłuższy tekst zwija się pod „więcej”)",
+      "temat 05-Trener-Twoja-marka.teksty.glowny: 278 znaków, Meta zaleca do 125 (Instagram Feed pokazuje ok. 125 znaków; dłuższy tekst zwija się pod „więcej”)"
+    ],
+    "ocenaWizualna": "DO_OCENY_BARTOSZA"
+  }
+}

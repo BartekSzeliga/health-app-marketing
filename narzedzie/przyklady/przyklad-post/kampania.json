@@ -1,0 +1,67 @@
+{
+  "nazwa": "Przykład układu — post organiczny o generatorze diety",
+  "data": "2026-11-19",
+  "typ": "post",
+  "odbiorca": "b2c",
+  "motyw": "diecik",
+  "cta": { "plansza": "Pobierz Diecik", "podpis": "iOS i Android" },
+  "ujawnienie": "Dane przykładowe",
+  "linki": {
+    "ios": "https://apps.apple.com/pl/app/diecik/id6762611821?l=pl",
+    "android": "https://play.google.com/store/apps/details?id=com.helti.app"
+  },
+  "pochodzenie": {
+    "data": "2026-10-21",
+    "urzadzenie": "symulator iOS 26.5, natywny zrzut ekranu",
+    "konto": "własne konto demonstracyjne, dane przykładowe",
+    "uwaga": "to przykład układu narzędzia, a nie paczka do publikacji"
+  },
+  "zrodla": {
+    "dietaDzien": { "plik": "zrodla/ekrany/dieta-dzien.png", "opis": "Zapisany plan otwarty w diecie" },
+    "generatorPodglad": { "plik": "zrodla/ekrany/generator-podglad.png", "opis": "Generator diety: podgląd posiłków" }
+  },
+  "kadry": {
+    "posilkiDnia": { "zrodlo": "generatorPodglad", "x": 96, "y": 274, "szer": 1014, "wys": 1296 }
+  },
+  "tematy": [
+    {
+      "id": "01-Plan-na-jutro",
+      "nazwa": "Plan diety na kolejne dni",
+      "etykieta": "Generator diety",
+      "naglowek": ["Co jutro", "na talerzu?"],
+      "tresc": ["Wygeneruj podgląd.", "Sprawdź posiłki.", "Zapisz swój plan."],
+      "uklad": "telefon",
+      "ekran": "dietaDzien",
+      "formaty": ["4x5", "9x16"],
+      "teksty": {
+        "opis": "Co jutro na talerzu? W Diecik ustawiasz liczbę posiłków i preferencje, a generator przygotowuje podgląd jadłospisu. Sprawdzasz posiłki i zapisujesz plan, kiedy Ci pasuje.",
+        "hashtagi": "#diecik #planowanieposiłków #dieta #jadłospis"
+      },
+      "dowody": [
+        { "twierdzenie": "Generator tworzy podgląd, a plan zapisuje się po wyborze użytkownika.", "repo": "health-app-mobile", "plik": "src/screens/diet/DietGeneratorScreen.tsx" }
+      ]
+    }
+  ],
+  "karuzela": {
+    "format": "4x5",
+    "nazwa": "Od podglądu do planu",
+    "tekstGlowny": "Jak powstaje plan diety w Diecik: podgląd posiłków, sprawdzenie i zapis.",
+    "karty": [
+      {
+        "id": "01-Podglad", "etykieta": "01 / PODGLĄD",
+        "naglowek": ["Najpierw", "podgląd."],
+        "tresc": ["Sprawdź posiłki", "przed zapisem."],
+        "uklad": "telefon+detal", "ekran": "generatorPodglad", "detal": "posilkiDnia"
+      },
+      {
+        "id": "02-Plan", "etykieta": "02 / PLAN",
+        "naglowek": ["Potem", "Twój plan."],
+        "tresc": ["Zapisany jadłospis", "masz w swojej diecie."],
+        "uklad": "telefon", "ekran": "dietaDzien"
+      }
+    ]
+  },
+  "uwagi": [
+    "Przykład układu posta organicznego. Te same zasady treści co w reklamach: bez obietnic efektów i czasu generowania."
+  ]
+}

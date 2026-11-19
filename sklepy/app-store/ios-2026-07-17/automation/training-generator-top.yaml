@@ -1,0 +1,8 @@
+appId: com.helti.app
+---
+- scrollUntilVisible:
+    element:
+      text: "Nazwa i cel"
+    direction: UP
+    timeout: 30000
+- waitForAnimationToEnd

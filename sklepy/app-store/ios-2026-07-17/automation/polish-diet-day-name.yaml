@@ -1,0 +1,8 @@
+appId: com.helti.app
+---
+- tapOn:
+    point: 86%, 35%
+- eraseText: 60
+- inputText: "Dzień pełen energii"
+- hideKeyboard
+- waitForAnimationToEnd

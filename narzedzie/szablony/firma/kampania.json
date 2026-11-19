@@ -1,0 +1,44 @@
+{
+  "nazwa": "TU: aplikacja pod marką klienta — nazwa firmy",
+  "data": "RRRR-MM-DD",
+  "typ": "reklama",
+  "odbiorca": "firma",
+  "cel": "materiał do oferty dla firmy",
+  "motyw": "TU: ścieżka do brand.json klienta, np. sprzedaz/<klient>/marka/brand.json",
+  "cta": { "plansza": "Aplikacja pod Twoją marką", "podpis": "TU: jedna linia pod przyciskiem", "przycisk": "Dowiedz się więcej" },
+  "ujawnienie": "Dane przykładowe",
+  "pochodzenie": {
+    "data": "TU: data ujęć",
+    "urzadzenie": "TU: build aplikacji firmowej z marką klienta, natywny zrzut",
+    "konto": "TU: konto demonstracyjne",
+    "produkt": "TU: repo i commit aplikacji firmowej"
+  },
+  "zrodla": {
+    "ekranPierwszy": { "plik": "zrodla/ekrany/ekran-1.png", "opis": "TU: ekran aplikacji w barwach klienta" },
+    "ekranDrugi": { "plik": "zrodla/ekrany/ekran-2.png", "opis": "TU: drugi ekran" }
+  },
+  "tematy": [
+    {
+      "id": "01-Twoja-marka",
+      "nazwa": "TU: nazwa tematu do tekstów",
+      "etykieta": "TU: dla kogo",
+      "naglowek": ["TU: korzyść dla firmy,", "dwie krótkie linie."],
+      "tresc": ["TU: co dostają klienci firmy."],
+      "uklad": "dwa-telefony",
+      "ekran": "ekranPierwszy",
+      "ekran2": "ekranDrugi",
+      "formaty": ["1x1", "4x5"],
+      "teksty": {
+        "glowny": "TU: tekst główny.",
+        "naglowek": "TU: nagłówek",
+        "opis": "TU: opis"
+      },
+      "dowody": [
+        { "twierdzenie": "TU: co dokładnie twierdzimy o aplikacji firmowej", "repo": "health-app-company-mobile", "plik": "TU: ścieżka pliku w repo" }
+      ]
+    }
+  ],
+  "uwagi": [
+    "Nie obiecujemy publikacji aplikacji pod nazwą klienta z konta Diecik (Apple 4.2.6). Warianty wdrożenia opisuje deck w sprzedaz/."
+  ]
+}

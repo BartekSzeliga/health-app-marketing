@@ -1,0 +1,25 @@
+Diecik — v5, 01.10.2026. Jedna korzyść: dieta z panelu pod ręką klienta w aplikacji.
+
+Start: filmy/diecik-specjalista-lead-a-25s-story.mp4.
+Trzy pełne sceny, bez makrodetali, odciętych fragmentów, zoomów, perspektywy i przelotów:
+edytor → publikacja w tej samej nieruchomej ramie panelu (main/modal/status) → pełny telefon.
+Ruch wewnątrz aplikacji jest prawdziwy; telefon przewija się naturalnie przy prędkości 1×.
+
+Plan komunikatów: A „Układasz dietę. Klient ma ją w aplikacji.”; B „Dieta od Ciebie. W aplikacji klienta.”
+Następnie „Publikujesz plan w aplikacji.” oraz „Klient ma dietę pod ręką.”
+Lead kończy „Zobacz, jak to działa”; website „Zacznij bezpłatnie”.
+Zamrożony harmonogram: edytor 0–8,5 s (prawdziwa praca 4,8–7,833333 s), publikacja 8,5–15,3 s,
+pełny telefon 15,3–25 s (scroll 1× 17,3–21 s), CTA od 22,8 s nad nieruchomym telefonem.
+Freeze po wewnętrznym odbiorze nowego hero; nie oznacza deklaracji akceptacji B2B przez użytkownika.
+Zewnętrzne etykiety DEMO i numery przykładów wyłączone; prawdziwe UI pozostaje bez zmian.
+
+Config: meta-konfiguracja-v5-PAUSED.json — ręczna specyfikacja, nie payload Marketing API.
+Pięć B2B ma 25 s: A/B lead story, A/B website story, A website wide. Lead/website to alternatywy puli 1000 zł.
+B2C pięć filmów 20 s/10 s i 12 plików audio pozostaje bajtowo identyczne; A20 zaakceptowano wcześniej.
+B2B korzysta z niezmienionego audio 25 s z v4, stąd jego rzeczywiste nazwy plików zawierają v4.
+Opcjonalne dodatki short/wide nie zwiększają budżetu. Okładki hook służą filmom.
+
+Budżet nadal jest propozycją 3000 zł/30 dni: Search B2B 1500, Meta B2B 1000, Meta B2C 500 warunkowo.
+PAUSED, ID konta null; nie utworzono kampanii na kontach ani nie wydano pieniędzy.
+Plan PDF/MD, XLSX i sześć CSV Google Search zachowane bajtowo; aktualne media przypisuj z config v5.
+Noty różnych źródłowych kont/pakietów są w qa/b2b/source-review.md; copy opisuje ogólne funkcje produktu.

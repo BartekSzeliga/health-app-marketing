@@ -1,0 +1,16 @@
+Diecik — dietetyk — v9
+
+Tekst główny:
+Poszerz swoją ofertę o dietę i ruch. W Dieciku przygotujesz jadłospis
+i uzupełnisz go o plan aktywności dla podopiecznego. Udostępnij oba plany
+w aplikacji klienta — Twoje zalecenia będą pod ręką także między wizytami.
+Zacznij bezpłatnie z maksymalnie 2 aktywnymi klientami.
+
+Nagłówek: Więcej niż jadłospis.
+Opis: Do 2 aktywnych klientów bez opłat.
+Przycisk: Dowiedz się więcej
+Adres: https://diecik.com/specjalista
+Film: filmy/diecik-dietetyk-dieta-i-ruch-20s-story.mp4
+Okładka: okladki/diecik-dietetyk-dieta-i-ruch-20s-story.jpg
+
+Szersza oferta jest komunikatem pozycjonującym; nie gwarancją skuteczności.

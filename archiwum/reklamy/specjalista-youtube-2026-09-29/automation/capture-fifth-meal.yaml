@@ -1,0 +1,7 @@
+appId: com.helti.app
+---
+- swipe:
+    start: "50%,70%"
+    end: "50%,41%"
+    duration: 900
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-fifth-meal

@@ -1,0 +1,22 @@
+appId: com.helti.app
+---
+- tapOn: "Od specjalisty"
+- waitForAnimationToEnd
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-plan-top
+- tapOn: "Zobacz przepis: Kanapki z twarożkiem i papryką"
+- assertVisible: "Przepis"
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-recipe-top
+- swipe:
+    start: "50%,78%"
+    end: "50%,35%"
+    duration: 1600
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-recipe-detail
+- tapOn: "Dieta od specjalisty"
+- waitForAnimationToEnd
+- tapOn: "Następny dzień"
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-next-day
+- swipe:
+    start: "50%,78%"
+    end: "50%,35%"
+    duration: 1600
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-next-day-meals

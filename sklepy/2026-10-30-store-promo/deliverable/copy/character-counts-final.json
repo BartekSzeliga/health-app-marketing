@@ -1,0 +1,38 @@
+{
+  "pl-google-play-short-final.txt": {
+    "characters": 67,
+    "utf8_bytes": 71,
+    "character_limit": 80,
+    "within_character_limit": true
+  },
+  "pl-google-play-full-final.txt": {
+    "characters": 1805,
+    "utf8_bytes": 1885,
+    "character_limit": 4000,
+    "within_character_limit": true
+  },
+  "pl-apple-promo-final.txt": {
+    "characters": 151,
+    "utf8_bytes": 159,
+    "character_limit": 170,
+    "within_character_limit": true
+  },
+  "pl-apple-description-final.txt": {
+    "characters": 2116,
+    "utf8_bytes": 2204,
+    "character_limit": 4000,
+    "within_character_limit": true
+  },
+  "pl-apple-keywords-final.txt": {
+    "characters": 77,
+    "utf8_bytes": 80,
+    "character_limit": 100,
+    "within_character_limit": true
+  },
+  "pl-apple-subtitle-final.txt": {
+    "characters": 23,
+    "utf8_bytes": 25,
+    "character_limit": 30,
+    "within_character_limit": true
+  }
+}

@@ -1,0 +1,7 @@
+appId: com.helti.app
+---
+- swipe:
+    start: 50%, 78%
+    end: 50%, 30%
+    duration: 650
+- waitForAnimationToEnd

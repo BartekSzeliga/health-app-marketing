@@ -1,0 +1,11 @@
+appId: com.helti.app
+---
+- tapOn: "^Zapisz$"
+- extendedWaitUntil:
+    visible: "Zastąpić moje treningi?"
+    timeout: 10000
+- tapOn: "Zastąp moje treningi"
+- extendedWaitUntil:
+    visible: "Moje treningi"
+    timeout: 120000
+- waitForAnimationToEnd

@@ -1,0 +1,140 @@
+{
+  "asset_count": 3,
+  "status": "3 APPROVED ASSETS UPLOADED AND SAVED AS DRAFT; no Publish/Add for Review/build change",
+  "assets": [
+    {
+      "name": "google-feature-1024x500",
+      "upload_file": "output/store-promo/2026-10-30/design/exports/google-feature-1024x500.jpg",
+      "editable_svg": "output/store-promo/2026-10-30/design/exports/google-feature-1024x500.svg",
+      "dimensions": [
+        1024,
+        500
+      ],
+      "format": "JPEG",
+      "color_mode": "RGB",
+      "icc": "sRGB",
+      "bytes": 167655,
+      "sha256": "789a1a8300c11430dd30fced8a14772dab1056beeba82e44b6af29189722ccd6",
+      "svg_sha256": "32dec873a889a7bf92ddc3ddd5dcde3df0fb5537a903c0f03d971a2d7407e774",
+      "font_family": "Avenir Next",
+      "official_safe_bounds_ltrb": null,
+      "final_qa": {
+        "name": "google-feature-1024x500",
+        "size": [
+          1024,
+          500
+        ],
+        "rgb_jpeg_icc": true,
+        "actual_text_logo_ink_bounds": [
+          64,
+          76,
+          396,
+          297
+        ],
+        "conservative_focal_group_bounds": [
+          572.5,
+          106.25,
+          922.5,
+          418.75
+        ],
+        "safe_area": null,
+        "all_essential_within_official_safe_area": "Google central composition manually inspected; no numerical template inferred",
+        "sha256": "789a1a8300c11430dd30fced8a14772dab1056beeba82e44b6af29189722ccd6"
+      }
+    },
+    {
+      "name": "apple-header-v2-3840x1646",
+      "upload_file": "output/store-promo/2026-10-30/design/exports/apple-header-v2-3840x1646.png",
+      "editable_svg": "output/store-promo/2026-10-30/design/exports/apple-header-v2-3840x1646.svg",
+      "dimensions": [
+        3840,
+        1646
+      ],
+      "format": "PNG",
+      "color_mode": "RGB",
+      "icc": "sRGB",
+      "bytes": 2499495,
+      "sha256": "c86a4d2adf071d764d15b3efc9192a1c6e1fc40e6955c8676a9b08c2ac4bf92d",
+      "svg_sha256": "4e1887491302d15c7ce835c3a860b4784f1ac65a55ba756c7dcc4af0a94653a8",
+      "font_family": "Avenir Next",
+      "headline_native_font_size": 230,
+      "headline_font_size_at_full_width_270": 16.171875,
+      "headline_font_size_at_full_width_390": 23.359375,
+      "actual_text_logo_ink_bounds": [
+        1148,
+        528,
+        2697,
+        1146
+      ],
+      "official_safe_bounds_ltrb": [
+        1097,
+        493,
+        2743,
+        1154
+      ],
+      "root_visual_approval": "V2 approved after viewing FULL images at390 and270px; no reliance on safe crop alone",
+      "photo_note": "1672x941 source unchanged; larger photographic bleed may extend beyond official text safe area; vector text rendered natively"
+    },
+    {
+      "name": "apple-search-v2-3840x2560",
+      "upload_file": "output/store-promo/2026-10-30/design/exports/apple-search-v2-3840x2560.png",
+      "editable_svg": "output/store-promo/2026-10-30/design/exports/apple-search-v2-3840x2560.svg",
+      "dimensions": [
+        3840,
+        2560
+      ],
+      "format": "PNG",
+      "color_mode": "RGB",
+      "icc": "sRGB",
+      "bytes": 3752953,
+      "sha256": "319af68faa3a0c5dbb71556388652f645ef018ccff61aa0d943c1bd8f03e1b27",
+      "svg_sha256": "34d290ffe13091bf6042877f8ddb0e9915e0abd21a678db47c96741d5aebd0c1",
+      "font_family": "Avenir Next",
+      "headline_native_font_size": 240,
+      "headline_font_size_at_full_width_270": 16.875,
+      "headline_font_size_at_full_width_390": 24.375,
+      "actual_text_logo_ink_bounds": [
+        953,
+        963,
+        2570,
+        1718
+      ],
+      "official_safe_bounds_ltrb": [
+        836,
+        765,
+        3004,
+        1795
+      ],
+      "root_visual_approval": "V2 approved after viewing FULL images at390 and270px; no reliance on safe crop alone",
+      "photo_note": "1672x941 source unchanged; larger photographic bleed may extend beyond official text safe area; vector text rendered natively"
+    }
+  ],
+  "native_photo": {
+    "path": "output/store-promo/2026-10-30/design/hero-editorial.png",
+    "dimensions": [
+      1672,
+      941
+    ],
+    "sha256": "af5b730999687f7b9520e00dd691ff6576b9df5c669a27b838f7ecab710efdff",
+    "ai_generated": true
+  },
+  "authentic_brand_source": {
+    "path": "source/brand/diecik-logo.png",
+    "sha256": "6ad36e21ff96e944f68f4ae021e9d433b7e50a31494a12facb22b7096d3de52e"
+  },
+  "editable_compositor": "output/store-promo/2026-10-30/design/render-hero-exports.cjs",
+  "acceptance_checks": "output/store-promo/2026-10-30/design/qa/hero-acceptance-checks.json",
+  "upload_state": "SUCCESS: Google feature1/1 Save as Draft confirmed; Apple Header V2 1/1 and Search V2 1/1 autosaved in iOS1.0.22 Prepare for Submission; actual iPhone previews approved",
+  "current_apple_version": "V2",
+  "approved_graphic_count": 3,
+  "historical_upload_guard": "Resolved after user CLI resume on pending request; subsequent upload succeeded",
+  "uploaded_files_manifest": "checks/uploaded-files.json",
+  "proof_files": [
+    "proof/google-play-uploaded-draft.png",
+    "proof/apple-header-uploaded-preview.png",
+    "proof/apple-search-uploaded-preview.png"
+  ],
+  "no_publish_or_add_for_review": true,
+  "existing_screenshots_and_three_videos_changed": false,
+  "build_changed_or_selected": false
+}

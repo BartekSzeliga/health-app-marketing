@@ -1,0 +1,32 @@
+{
+  "pl-google-play-short.txt": {
+    "characters": 67,
+    "limit": 80,
+    "remaining": 13
+  },
+  "pl-google-play-full.txt": {
+    "characters": 2157,
+    "limit": 4000,
+    "remaining": 1843
+  },
+  "pl-apple-promotional-text.txt": {
+    "characters": 151,
+    "limit": 170,
+    "remaining": 19
+  },
+  "pl-apple-description.txt": {
+    "characters": 2351,
+    "limit": 4000,
+    "remaining": 1649
+  },
+  "pl-apple-keywords.txt": {
+    "characters": 84,
+    "limit": 100,
+    "remaining": 16
+  },
+  "pl-apple-subtitle.txt": {
+    "characters": 23,
+    "limit": 30,
+    "remaining": 7
+  }
+}

@@ -1,0 +1,35 @@
+Diecik — specjalista v6, 30 s, 01.10.2026
+
+Jedna korzyść: dieta z panelu pod ręką klienta w aplikacji. Nowa korekta dotyczy czytelności kliknięć.
+Trzy pełne, stałe konteksty: edytor → panel publikacji (main/modal/status) → cały telefon klienta.
+Duże zewnętrzne objaśnienie konkretnej czynności łączy się linią z prawdziwym elementem UI.
+Story: font etykiety akcji co najmniej 60 px (20 px w podglądzie 360 px), kursor na rzeczywistym celu 100 px.
+Bez makro, odciętych części panelu, dynamicznych cropów, zoomu, perspektywy i przelotów.
+Źródło panelu: stały widok 1490×966 od x=208 w oryginale 1920×966. Cały modal mieści się w tej samej ramie.
+
+0–8.5 s pełny edytor:
+A „Układasz dietę. Klient ma ją w aplikacji.”; B „Dieta od Ciebie. W aplikacji klienta.”
+Zewnętrzny opis „Zobacz kolejne posiłki” połączony z chevronem (926,623).
+Pierwszy kadr źródłowy 0–4.8 s; 91 rzeczywistych klatek 4.8–7.833333 przy 1×; ostatni do 8.5 s.
+Pierwsza reakcja zwinięcia: source 0060 / raw 174.466667 s, output 6.766667 s. Kursor 6.55–7.20 s, także po kliknięciu.
+Pokazana czynność zwija sekcję śniadania i odsłania kolejne posiłki; nie dopisuje składnika.
+
+8.5–12 s pełny main: literalne „Opublikuj w aplikacji”, linia do rzeczywistego przycisku.
+12 rzeczywistych klatek od 11.533333 s; rzeczywiste naciśnięcie około 11.833333 s. Ponad 3 s orientacji przed live.
+12–16.5 s pełny modal: ponownie literalne „Opublikuj w aplikacji”.
+33 rzeczywiste klatki od 14.55 s; potwierdzenie nominal/audio 15.45 s, pierwszy encoded 15.466667 s;
+„Publikowanie…” pierwszy encoded 15.50 s; kursor pozostaje do 15.85 s, pokazując pełny sygnał po kliknięciu. Ponad 2.5 s orientacji przed live.
+16.5–19.5 s rezultat: „Opublikowano w aplikacji klienta.” połączone z badge „Opublikowany”.
+Rezultat ma 3 s; bez kursora ani fikcyjnego kliknięcia na stanie sukcesu.
+Nad publikacją tylko marka; jedna duża etykieta akcji pod panelem, bez dublującego małego nagłówka.
+
+19.5–30 s cały nieruchomy telefon; rzeczywisty scroll 1× w 21.5–25.2.
+Do 27.8 s „Klient ma dietę pod ręką.”; CTA 27.8–30 lead „Zobacz, jak to działa”, website „Zacznij bezpłatnie”.
+Telefon pozostaje cały i w tej samej pozycji także pod CTA. Zewnętrzne DEMO/example nadal wyłączone.
+
+Audio: nowy własny master DSP 30 s / 96 BPM / 12 taktów, audio/diecik-specjalista-v6-mix-30s.wav.
+Trzy efekty UI: 6.766667/11.833333/15.45. Nie odtwarzać mastera 25 s z v4 ani dublować jego stemów.
+Status FROZEN po wewnętrznym odbiorze zakodowanego hero przez root i marketing_strategy.
+SHA hero: 985266fc3647df755ac71029922fb282a6751a3ac837ec0aa377b7560091b564.
+Nie deklarować akceptacji użytkownika v5/v6. B2C pięć filmów/12 audio i dziewięć plików planu/Google bez zmian.
+Źródła autentyczne, handoff_verified:false; różne konta Marta / Pakiet 3 i Joanna / Pakiet 5 opisane w dokumentach.

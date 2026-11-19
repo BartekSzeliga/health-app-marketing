@@ -1,0 +1,11 @@
+appId: com.helti.app
+---
+- tapOn: "Dodaj produkt"
+- waitForAnimationToEnd
+- extendedWaitUntil:
+    visible: "Szukaj produktu lub posiłku"
+    timeout: 10000
+- tapOn: "Szukaj produktu lub posiłku"
+- inputText: "łosoś"
+- hideKeyboard
+- waitForAnimationToEnd

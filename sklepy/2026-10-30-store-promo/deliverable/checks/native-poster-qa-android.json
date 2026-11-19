@@ -1,0 +1,131 @@
+{
+  "pass": true,
+  "partial": false,
+  "count": 8,
+  "groups": {
+    "android-1080x1920": 8
+  },
+  "checks": [
+    {
+      "file": "native/exports/android-1080x1920/01-diet-day-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "cb4cee875c3a55364d0a7538c1e28110eb57809871c54e5167ea6a11e25184d9",
+      "embeddedSourceSha256": "a7a06c7b227b049ad6596aa089b5c6f783a0669493b2bf3049b7f157add72545",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7666666666666667,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/android-1080x1920/02-generated-plan-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "95e8bf49141bab871d9323dd88aff35939aad92f77548e7a075e9555b531367d",
+      "embeddedSourceSha256": "673b0f6fc1d177592cdcaee16fad5e91469ef91af9cae01cf4feab362bb0c840",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7666666666666667,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/android-1080x1920/03-recipe-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "31bbb1e86f99b7412bbb8a38ce0375cd8477cd8c4e03a177d99dae942485bc17",
+      "embeddedSourceSha256": "0f6c658d122883593c7685e68e27f5d7446bafe5b06def00856ba7f5a9e87190",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7666666666666667,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/android-1080x1920/04-training-plan-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "ba29a0f3da2f6bbecbacb53000a32b99a7ed1fc1cf73bbcde72b21cee17610cd",
+      "embeddedSourceSha256": "a1ef1edf72e9465b8c593c65c53e6f35c5089ec0d9210342c6a4713297eefdc3",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7666666666666667,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/android-1080x1920/05-exercise-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "72fd882098847bd523555e17c8984040f29e9d0219d7e4c772dcecfb0271ff00",
+      "embeddedSourceSha256": "15a32fff310b3fc5330fcc18caeae8f8e6922957c3d05f360d78387f5333e525",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7666666666666667,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/android-1080x1920/06-progress-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "7e9ad066033f6e5bb816990795837566fa86c8573cf03c161264eabfa7415464",
+      "embeddedSourceSha256": "2c0b777da0171dac98180ea788305c1c94cfdb60c18212b927f5fe49dbf8203e",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7666666666666667,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/android-1080x1920/07-specialist-diet-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "4fa38a7149194617979a9acbbefd9ea7d4a1fda411ec644148da92b6f3749b84",
+      "embeddedSourceSha256": "6c4f74f22376819b3bac494f0147f4390a1aaed68f6f53e8a0ff27a3ad3a3b34",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7666666666666667,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/android-1080x1920/08-shopping-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "mode": "RGB",
+      "sha256": "8531b344bc0a3d146187a918ff80aedc60e11438a6285b8dcd744ad6cd9f7d9e",
+      "embeddedSourceSha256": "bd72a73b5b8571b61f0efa8f4a8f07892d37ce273c795eaa7bc986768f12f464",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7666666666666667,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    }
+  ],
+  "note": "This checks files/provenance/geometry. Actual full270/390px visual review and root console per-group inventory are separate required checks."
+}

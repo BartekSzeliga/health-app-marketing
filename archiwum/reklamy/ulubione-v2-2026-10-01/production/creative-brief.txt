@@ -1,0 +1,29 @@
+Diecik — nowa kreacja po odrzuceniu poprzednich filmów, 01.10.2026
+
+Hero: JESZCZE RAZ, 15 sekund / 128 BPM / 8 taktów.
+Jedna historia: konkretny posiłek, rzeczywisty zapis, ponowne dodanie na kolejny dzień.
+Wszystkie tekstury produktu pochodzą z nagrań działającej aplikacji.
+Miska pochodzi z oryginalnego zdjęcia przepisu; ImageGen wyciął otoczenie.
+
+0.000–1.150: natychmiastowy diagonalny odjazd z pełnokadrowego makro malin; hook zza jedzenia.
+1.150–2.300: pełny autentyczny ekran Moja dieta w telefonie, z tym samym posiłkiem i nawigacją.
+2.300–2.600: pełne prawdziwe menu tego posiłku.
+2.600–3.080: kamera i maska śledzą ten sam ekran do przycisku zapisu; bez rozciągania UI.
+3.28125: rzeczywista reakcja przycisku zapisu; własny transient audio w tym samym momencie.
+3.650–4.220: prawdziwy panel Ulubione posiłki w ruchu przestrzennym.
+4.220–4.670: duży kalendarz przechodzi przez obiektyw; DZISIAJ zmienia się w JUTRO.
+4.670–7.500: kamera jedzie po prawdziwej karcie do Dodaj i prostuje projekcję przed naciśnięciem.
+7.500: rzeczywista reakcja Dodaj; własny transient audio w tym samym momencie.
+7.850–9.350: odjazd do pełnego autentycznego ekranu kolejnego dnia; ta sama miska i nawigacja.
+9.350–9.850: zbliżenie wprost z pełnego ekranu na datę i dodany posiłek.
+10.200–10.825: miska wychodzi z rzeczywistej miniatury do dużego zdjęcia.
+12.1875–15.000: CTA na poruszającym się kadrze; 3 ulubione za darmo / Premium bez limitu.
+
+Ocena przed wariantami: obejrzeć ruch w czasie, a nie tylko planszę klatek.
+Sprawdzić szczególnie pierwszą sekundę, ciągłość miski, czytelność dwóch przycisków,
+zrozumienie po wyciszeniu, brak przeciągających się statycznych kadrów i położenie CTA.
+Techniczne QA i wewnętrzna ocena kreatywna nie stanowią akceptacji użytkownika.
+
+Wariant B: wyłącznie inny pierwszy hook (LUBISZ TEN SMAK?), po 1.42 s kompozycja identyczna.
+Formaty: 1080×1920 i osobno skomponowane 1080×1350; krótki wariant 6 s.
+Reklamy i kampanie pozostają lokalnymi materiałami. Brak emisji lub zmiany produkcji.

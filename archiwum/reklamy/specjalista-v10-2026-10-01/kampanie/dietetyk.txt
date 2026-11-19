@@ -1,0 +1,16 @@
+Diecik — dietetyk — v10
+
+Tekst główny:
+Dieta nie kończy się w gabinecie. W Dieciku przygotujesz jadłospis dla
+podopiecznego i udostępnisz go w jego aplikacji. Uzupełnij współpracę
+o zalecenia ruchowe — także zwykły spacer — i wyróżnij swoją ofertę
+szerszym wsparciem. Zacznij bezpłatnie z maksymalnie 2 aktywnymi klientami.
+
+Nagłówek: Więcej niż jadłospis.
+Opis: Zalecaj także ruch. Do 2 aktywnych klientów bez opłat.
+Przycisk: Dowiedz się więcej
+Adres: https://diecik.com/specjalista
+Film: filmy/diecik-dietetyk-spacer-20s-story.mp4
+Okładka: okladki/diecik-dietetyk-spacer-20s-story.jpg
+
+Hasło końcowe: Zalecaj ruch podopiecznym. Wyróżnij swoją ofertę.

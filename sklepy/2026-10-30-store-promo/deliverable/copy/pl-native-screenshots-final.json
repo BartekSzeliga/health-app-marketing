@@ -1,0 +1,62 @@
+{
+  "language": "pl-PL",
+  "status": "Final8currentnativecards; prepared4sizegroups, no ExpoWeb/archivalpreviews",
+  "screens": [
+    {
+      "order": 1,
+      "file": "01-diet-day-NATIVE.png",
+      "headline": "Kalorie\npod kontrolą",
+      "subline": "Posiłki i makro w jednym miejscu.",
+      "footnote": "Przykładowe dane"
+    },
+    {
+      "order": 2,
+      "file": "02-generated-plan-NATIVE.png",
+      "headline": "Jadłospis\npo Twojemu",
+      "subline": "Wybierz dietę, preferencje i liczbę dni.",
+      "footnote": "Przykładowe dane"
+    },
+    {
+      "order": 3,
+      "file": "03-recipe-NATIVE.png",
+      "headline": "Przepis\npod ręką",
+      "subline": "Składniki, ilości i sposób przygotowania.",
+      "footnote": "Przykładowe dane"
+    },
+    {
+      "order": 4,
+      "file": "04-training-plan-NATIVE.png",
+      "headline": "Twój trening\nkrok po kroku",
+      "subline": "Ćwiczenia, serie i powtórzenia w planie.",
+      "footnote": "Przykładowe dane"
+    },
+    {
+      "order": 5,
+      "file": "05-exercise-NATIVE.png",
+      "headline": "Ćwicz\nz instrukcją",
+      "subline": "Wracaj do wskazówek podczas treningu.",
+      "footnote": "Przykładowe dane"
+    },
+    {
+      "order": 6,
+      "file": "06-progress-NATIVE.png",
+      "headline": "Zapisuj\nswoje postępy",
+      "subline": "Pomiary i wykresy w jednym miejscu.",
+      "footnote": "Przykładowe dane"
+    },
+    {
+      "order": 7,
+      "file": "07-specialist-diet-NATIVE.png",
+      "headline": "Plan specjalisty\npod ręką",
+      "subline": "Odbieraj udostępnione diety w aplikacji.",
+      "footnote": "Przykładowe dane"
+    },
+    {
+      "order": 8,
+      "file": "08-shopping-NATIVE.png",
+      "headline": "Lista zakupów\nz Twojego planu",
+      "subline": "Produkty z własnej diety · Premium.",
+      "footnote": "Przykładowe dane"
+    }
+  ]
+}

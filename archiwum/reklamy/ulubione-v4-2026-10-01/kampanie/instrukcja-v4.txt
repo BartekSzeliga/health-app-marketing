@@ -1,0 +1,31 @@
+Diecik — rewizja v4, 01.10.2026. Lokalna konfiguracja PAUSED, bez emisji.
+
+Zacznij od filmy/diecik-specjalista-lead-a-25s-story.mp4 — nowego spotu specjalisty 25 s.
+Meta: meta-konfiguracja-v4-PAUSED.json jest ręczną specyfikacją, nie payloadem Marketing API ani formatem importu.
+ID konta, strony i Instagram są null. Nie utworzono kampanii na kontach ani nie wydano pieniędzy.
+
+B2B: A/B lead 25 s 9:16 — CTA „Zobacz, jak to działa”, do formularza prezentacji.
+B2B website: A/B 25 s 9:16 oraz A 25 s 16:9 — CTA „Zacznij bezpłatnie”.
+Harmonogram renderera: hook 0–3 s, pełny panel 3–5 s, edytor 5–9 s,
+publikacja 9–12.7 s, wynik 12.7–14.7 s, pełny telefon 15.3–17.3 s,
+prawdziwy scroll 17.3–21.0 s, pełny telefon po scrollu 21.0–22.8 s, CTA 22.8–25 s.
+Okładki B2B: hook 1.5 s, CTA 23.8 s.
+W filmie nie dodawać zewnętrznej belki DEMO ani numerów przykładów. Autentyczne UI pozostaje bez zmian.
+Noty o różnych kontach i pakietach są w dokumentacji źródeł. Copy opisuje ogólne funkcje produktu;
+nie twierdzi, że pokazano przekazanie tego samego konkretnego pakietu lub tego samego konta.
+
+B2C: A20 s został zaakceptowany; pięć dotychczasowych filmów i audio zachowano bez zmian.
+A „Jeszcze raz?” / B „Lubisz ten smak?”, body po 1.42 s identyczne; hero 20 s, short 10 s.
+Finał pozostaje bez stopki limitowej. Copy i spec zachowują fakty: 3 ulubione za darmo, Premium bez limitu.
+Okładki B2C: hook 0.65 s, CTA hero 18.7 s / short 8.5 s.
+
+Budżet nadal jest propozycją 3000 zł/30 dni: Search B2B 1500 zł, Meta B2B 1000 zł, Meta B2C 500 zł warunkowo.
+Lead i website B2B to alternatywy tej samej puli 1000 zł — nie dodawać budżetów.
+Short B2C oraz wide B2B to opcjonalne dodatki bez nowej puli. Okładki hook służą filmom.
+Plan PDF/MD, arkusz budżetu/KPI i sześć CSV Google Search pozostają zachowane bajtowo.
+Historyczne opisy kreacji w planie nie zastępują bieżących ścieżek z config v4. Search nie potrzebuje wideo.
+Nazwy kampanii, datę startu, identyfikatory kont i źródło pomiaru uzupełnia się na właściwym koncie przed emisją.
+
+UI pochodzi z zapisanych autentycznych źródeł. Nie jest generowane ani przerysowane.
+B2C audio jest dotychczasowym materiałem. B2B audio v4 to własna synteza/kompozycja 25 s, około 115.2 BPM.
+Ta instrukcja opisuje konfigurację i harmonogram; nie deklaruje odsłuchu ani akceptacji nowych filmów B2B.

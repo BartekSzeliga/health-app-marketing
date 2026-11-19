@@ -1,0 +1,16 @@
+appId: com.helti.app
+---
+- scrollUntilVisible:
+    element:
+      text: "Wygeneruj szkic"
+    direction: DOWN
+    timeout: 30000
+- swipe:
+    start: "50%,70%"
+    end: "50%,50%"
+    duration: 400
+- tapOn: "Wygeneruj szkic"
+- extendedWaitUntil:
+    visible: "Szkic planu"
+    timeout: 120000
+- waitForAnimationToEnd

@@ -1,0 +1,173 @@
+{
+  "createdAt": "2026-10-21T06:14:30.493677+00:00",
+  "package": "Diecik — cel kalorii i generator diety",
+  "date": "2026-10-21",
+  "status": "DO_AKCEPTACJI_BARTOSZA",
+  "uploadedToMeta": false,
+  "published": false,
+  "files": [
+    {
+      "file": "DO_WGRANIA/Diecik-automatyczny-cel-kalorii-Reels-Stories-20s.mp4",
+      "sha256": "94312a1eb678311a2d248e7700f453933ae3a81dc2f8de7dc2c2a96c81ea4dcb",
+      "bytes": 5678657,
+      "kind": "video",
+      "variant": "deficit",
+      "width": 1440,
+      "height": 2560,
+      "durationSeconds": 20,
+      "fps": 30,
+      "frames": 600,
+      "checks": {
+        "dimensions": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "frames": true,
+        "duration": true,
+        "squarePixels": true,
+        "bt709": true,
+        "aacStereo48k": true
+      },
+      "fullDecodeErrors": 0,
+      "audio": {
+        "integratedLufs": -14.14,
+        "truePeakDbtp": -1.76,
+        "codec": "aac",
+        "sampleRate": 48000,
+        "channels": 2
+      },
+      "contactSheet": "qa/encoded/deficit-final-contact.jpg",
+      "visualReview": "PASS_PARENT_FINAL_ENCODED_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Diecik-generator-diety-Reels-Stories-20s.mp4",
+      "sha256": "3e3461d704fce40f40296fc6d77febea351108bb7ca91d6a0a6b0b40737ca622",
+      "bytes": 7155736,
+      "kind": "video",
+      "variant": "generator",
+      "width": 1440,
+      "height": 2560,
+      "durationSeconds": 20,
+      "fps": 30,
+      "frames": 600,
+      "checks": {
+        "dimensions": true,
+        "h264Yuv420p": true,
+        "fps30": true,
+        "frames": true,
+        "duration": true,
+        "squarePixels": true,
+        "bt709": true,
+        "aacStereo48k": true
+      },
+      "fullDecodeErrors": 0,
+      "audio": {
+        "integratedLufs": -14.14,
+        "truePeakDbtp": -1.8,
+        "codec": "aac",
+        "sampleRate": 48000,
+        "channels": 2
+      },
+      "contactSheet": "qa/encoded/generator-final-contact.jpg",
+      "visualReview": "PASS_PARENT_FINAL_ENCODED_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Grafika-01-Cel-kalorii-1x1.jpg",
+      "sha256": "140b94b91c10e1694ea04033c4fce245940c6056af6362ba56c31164f00d6617",
+      "bytes": 263027,
+      "kind": "static",
+      "width": 1440,
+      "height": 1440,
+      "decoded": true,
+      "visualReview": "PASS_PARENT_FINAL_STATIC_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Grafika-01-Cel-kalorii-4x5.jpg",
+      "sha256": "4a281308f3cd6fa9c508b9455405074e90028387cba22c1c380c6741ca10717b",
+      "bytes": 300198,
+      "kind": "static",
+      "width": 1440,
+      "height": 1800,
+      "decoded": true,
+      "visualReview": "PASS_PARENT_FINAL_STATIC_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Grafika-02-Generator-diety-1x1.jpg",
+      "sha256": "5499a887edb90ae4043d65dcf639fe4a319d0dda69d4d7e85943e52c3d89d358",
+      "bytes": 285174,
+      "kind": "static",
+      "width": 1440,
+      "height": 1440,
+      "decoded": true,
+      "visualReview": "PASS_PARENT_FINAL_STATIC_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Grafika-02-Generator-diety-4x5.jpg",
+      "sha256": "3966e538739aaa5e97f0fef5a1caf15dc49bde74a56535f08e6daeedee73ef00",
+      "bytes": 340384,
+      "kind": "static",
+      "width": 1440,
+      "height": 1800,
+      "decoded": true,
+      "visualReview": "PASS_PARENT_FINAL_STATIC_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Karuzela-01-Cel-1x1.jpg",
+      "sha256": "47dc82731b2725e8aa31bfce4da523f1f28f04397c301a9ad67e2676bc2b79a4",
+      "bytes": 254650,
+      "kind": "carousel",
+      "width": 1440,
+      "height": 1440,
+      "decoded": true,
+      "visualReview": "PASS_PARENT_FINAL_STATIC_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Karuzela-02-Ustawienia-1x1.jpg",
+      "sha256": "e0ca3fc0f0f3652d67043ff6c08a6dcd9d6a1e54d831da26ab7255345fdfb509",
+      "bytes": 269043,
+      "kind": "carousel",
+      "width": 1440,
+      "height": 1440,
+      "decoded": true,
+      "visualReview": "PASS_PARENT_FINAL_STATIC_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Karuzela-03-Podglad-1x1.jpg",
+      "sha256": "639113ca442d75dfbcc9c287a0b47455d483968a6907a5a50ab5848cb8ed39ec",
+      "bytes": 268570,
+      "kind": "carousel",
+      "width": 1440,
+      "height": 1440,
+      "decoded": true,
+      "visualReview": "PASS_PARENT_FINAL_STATIC_360PX_CONTACT_SHEET"
+    },
+    {
+      "file": "DO_WGRANIA/Karuzela-04-Zapis-1x1.jpg",
+      "sha256": "57d7a2edf90d33cede70cbe88455755a27dad40f81e0f9dd354d6438cc3915fe",
+      "bytes": 282165,
+      "kind": "carousel",
+      "width": 1440,
+      "height": 1440,
+      "decoded": true,
+      "visualReview": "PASS_PARENT_FINAL_STATIC_360PX_CONTACT_SHEET"
+    }
+  ],
+  "count": {
+    "videos": 2,
+    "statics": 4,
+    "carouselCards": 4
+  },
+  "copy": "TEKSTY-REKLAM.txt",
+  "carouselOrder": [
+    "Karuzela-01-Cel-1x1.jpg",
+    "Karuzela-02-Ustawienia-1x1.jpg",
+    "Karuzela-03-Podglad-1x1.jpg",
+    "Karuzela-04-Zapis-1x1.jpg"
+  ],
+  "authenticNativeUI": true,
+  "syntheticDemoData": true,
+  "nativePixelsRetouched": false,
+  "simulatedClicks": false,
+  "audio": "Original locally synthesized instrumental music; no external samples or voiceover",
+  "sourceReview": "qa/acceptance-review.json",
+  "previousPackagePreserved": "../diecik-instalacje-2026-10-18"
+}

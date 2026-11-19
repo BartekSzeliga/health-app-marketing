@@ -1,0 +1,65 @@
+{
+  "nazwa": "TU: Diecik — temat kampanii",
+  "data": "RRRR-MM-DD",
+  "typ": "reklama",
+  "odbiorca": "b2c",
+  "cel": "instalacje",
+  "motyw": "diecik",
+  "cta": { "plansza": "Pobierz Diecik", "podpis": "iOS i Android", "przycisk": "Zainstaluj teraz" },
+  "ujawnienie": "Dane przykładowe",
+  "linki": {
+    "ios": "https://apps.apple.com/pl/app/diecik/id6762611821?l=pl",
+    "android": "https://play.google.com/store/apps/details?id=com.helti.app"
+  },
+  "pochodzenie": {
+    "data": "TU: data ujęć",
+    "urzadzenie": "TU: np. symulator iOS, natywny zrzut i nagranie ekranu",
+    "konto": "TU: konto demonstracyjne, bez danych realnego klienta",
+    "produkt": "TU: repo i commit, z którego pochodzi aplikacja na ujęciach"
+  },
+  "zrodla": {
+    "ekranGlowny": { "plik": "zrodla/ekrany/ekran-glowny.png", "opis": "TU: co widać na ekranie" },
+    "ekranWynik": { "plik": "zrodla/ekrany/ekran-wynik.png", "opis": "TU: ekran z rezultatem działania" },
+    "przeplyw": { "plik": "zrodla/nagrania/przeplyw.mp4", "opis": "TU: nagranie prawdziwej czynności w aplikacji" }
+  },
+  "kadry": {
+    "detalWyniku": { "zrodlo": "ekranWynik", "x": 96, "y": 600, "szer": 1014, "wys": 900 }
+  },
+  "tematy": [
+    {
+      "id": "01-Temat",
+      "nazwa": "TU: nazwa tematu do tekstów",
+      "etykieta": "TU: funkcja",
+      "naglowek": ["TU: obietnica,", "dwie krótkie linie."],
+      "tresc": ["TU: co robi użytkownik.", "TU: co dostaje."],
+      "dopisek": "TU: zastrzeżenie lub źródło wyniku (opcjonalnie)",
+      "uklad": "telefon+detal",
+      "ekran": "ekranWynik",
+      "detal": "detalWyniku",
+      "formaty": ["1x1", "4x5"],
+      "teksty": {
+        "glowny": "TU: tekst główny, najlepiej do 125 znaków.",
+        "krotki": "TU: krótki wariant do Reels.",
+        "naglowek": "TU: nagłówek reklamy",
+        "opis": "TU: opis"
+      },
+      "dowody": [
+        { "twierdzenie": "TU: co dokładnie twierdzimy o produkcie", "repo": "health-app-mobile", "plik": "TU: ścieżka pliku w repo", "linie": "TU" }
+      ],
+      "film": {
+        "plik": "Diecik-temat-Reels-Stories-20s",
+        "muzyka": { "preset": "generator" },
+        "sceny": [
+          { "typ": "hook", "czas": 3.8, "naglowek": ["TU: pytanie", "lub obietnica."], "wstep": "TU: jedno zdanie, co zobaczymy.", "ekran": "ekranGlowny" },
+          { "typ": "ekran", "czas": 4.6, "tytul": "TU: co robi użytkownik.", "opis": "TU: krótko po co.", "ekran": "ekranGlowny", "klipy": [{ "zrodlo": "przeplyw", "od": 0 }] },
+          { "typ": "detal", "czas": 3.2, "tytul": "TU: najważniejszy detal.", "opis": "TU: co z niego wynika.", "kadr": "detalWyniku" },
+          { "typ": "ekran", "czas": 5.0, "tytul": "TU: rezultat.", "opis": "TU: co użytkownik ma na końcu.", "ekran": "ekranWynik" },
+          { "typ": "cta", "czas": 3.4, "haslo": ["TU: hasło", "końcowe."], "ekran": "ekranWynik" }
+        ]
+      }
+    }
+  ],
+  "uwagi": [
+    "TU: czego nie obiecujemy w tej kampanii (czas, efekt, zakres darmowy a Premium)."
+  ]
+}

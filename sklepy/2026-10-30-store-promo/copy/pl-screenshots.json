@@ -1,0 +1,103 @@
+{
+  "language": "pl-PL",
+  "appNameKeep": "Diecik: dieta i trening",
+  "positioning": "Codzienny plan jedzenia i treningów, samodzielnie lub ze swoim specjalistą.",
+  "screens": [
+    {
+      "order": 1,
+      "headline": "Kalorie pod kontrolą",
+      "subline": "Posiłki i makroskładniki w jednym widoku dnia.",
+      "badge": null,
+      "footnote": null,
+      "show": "Rzeczywisty ekran Moja dieta: kalorie i makro oraz czytelne posiłki.",
+      "benefit": "Od razu widać podstawową wartość aplikacji.",
+      "availability": "Podstawowe planowanie bezpłatnie."
+    },
+    {
+      "order": 2,
+      "headline": "Gotowy plan posiłków",
+      "subline": "Wygeneruj jadłospis i dopracuj go po swojemu.",
+      "badge": null,
+      "footnote": "Dieta standardowa bezpłatnie. Pozostałe typy w Premium.",
+      "show": "Faktyczny podgląd wygenerowanej diety z nazwami potraw i zdjęciami.",
+      "benefit": "Punkt startowy zamiast pustej kartki.",
+      "availability": "Standard free; inne typy Premium. Pokazać faktyczny typ widoczny w targetbuildzie."
+    },
+    {
+      "order": 3,
+      "headline": "Dodawaj bez przepisywania",
+      "subline": "Zeskanuj kod lub przeanalizuj zdjęcie posiłku.",
+      "badge": null,
+      "footnote": "Wynik AI sprawdź przed zatwierdzeniem. Obowiązują limity planu.",
+      "show": "Prawdziwy ekran analizy zdjęcia z edytowalnymi składnikami; mały rzeczywisty detal skanera, jeśli mieści się bez tłoku.",
+      "benefit": "Mniej ręcznego wprowadzania produktów.",
+      "availability": "Zdjęcia: do10/mies.free i do100/mies.Premium. Nie sugerować, że AI automatycznie lub idealnie waży posiłek."
+    },
+    {
+      "order": 4,
+      "headline": "Trening też ma plan",
+      "subline": "Układaj treningi i sprawdzaj instrukcje ćwiczeń.",
+      "badge": null,
+      "footnote": null,
+      "show": "Faktyczny trening z ćwiczeniami i seriami; instrukcja jednego obsługiwanego ćwiczenia.",
+      "benefit": "Dieta i aktywność w tej samej aplikacji.",
+      "availability": "Planer treningów zaimplementowany; nie obiecywać osobistego trenera ani wideo dla każdego ćwiczenia."
+    },
+    {
+      "order": 5,
+      "headline": "Zobacz swoje postępy",
+      "subline": "Obserwuj zapisaną wagę i pomiary na wykresach.",
+      "badge": null,
+      "footnote": null,
+      "show": "Rzeczywisty wykres wagi z datami i zapisanymi pomiarami; bez zdjęć przed/po.",
+      "benefit": "Własna historia w czytelnej formie.",
+      "availability": "W targetbuildzie obowiązkowo sprawdzić układ pomiarów. Bez obietnicy spadku wagi."
+    },
+    {
+      "order": 6,
+      "headline": "Zakupy z Twojego planu",
+      "subline": "Zbierz produkty z jadłospisu na jednej liście.",
+      "badge": "Premium · własna dieta",
+      "footnote": null,
+      "show": "Lista zakupów własnej diety z nazwami produktów, ilościami i zaznaczaniem kupionych.",
+      "benefit": "Plan posiłków przydaje się też w sklepie.",
+      "availability": "Lista własnej diety wymaga Premium. Nie przenosić tej zasady na listy udostępnione przez specjalistę."
+    },
+    {
+      "order": 7,
+      "headline": "Plan specjalisty pod ręką",
+      "subline": "Odbieraj udostępnione diety i treningi w aplikacji.",
+      "badge": null,
+      "footnote": "Po połączeniu konta i opublikowaniu planu przez specjalistę.",
+      "show": "Prawdziwy widok Od specjalisty, z czytelnym planem i nazwą przykładowego specjalisty.",
+      "benefit": "Wygodny odbiór zaleceń we własnym telefonie.",
+      "availability": "Odbiór planów nie wymaga indywidualnego Premium; nie sugerować bezpłatnej konsultacji ani specjalisty zapewnianego przez Diecik."
+    },
+    {
+      "order": 8,
+      "headline": "Wracaj do swoich posiłków",
+      "subline": "Zapisuj ulubione i dodawaj je do kolejnych dni.",
+      "badge": null,
+      "footnote": "Do 3 ulubionych bezpłatnie. Bez limitu w Premium.",
+      "show": "Faktyczny wybór ulubionych posiłków, z widocznym dodaniem do dnia.",
+      "benefit": "Codzienna wygoda i powrót do sprawdzonych wyborów.",
+      "availability": "3free; unlimited favourites Premium, nie unlimitedAI."
+    }
+  ],
+  "conditionalPairVariant": {
+    "replacesOrder": 8,
+    "headline": "Wspólne dania, własne porcje",
+    "subline": "Korzystaj z planu dla pary od specjalisty.",
+    "badge": null,
+    "footnote": "Przy aktywnym współdzieleniu i udostępnionym planie.",
+    "show": "Rzeczywisty ekran wspólnego gotowania: te same dania, osobne ilości i wspólne składniki.",
+    "releaseGate": "Zaimplementowane w aktualnym repo i sprawdzone we wcześniejszym QA; publiczny AppStore pokazuje1.0.21 z21października, co nie potwierdza zawartości świeżych zmian par. Użyć dopiero po potwierdzeniu funkcji w binary dla edytowanej wersji. Nie publikować screenshotu samego mocka jako istniejącego UI."
+  },
+  "designNotes": [
+    "Pierwsze3ekrany opowiadają konkretną korzyść: rozeznanie dnia → gotowy punkt startu → wygodniejsze dodawanie.",
+    "Jeden duży nagłówek i jedna sublinia; faktyczne UI ma zajmować główną część kadru.",
+    "Footnotes mają być czytelne. Badge Premium na liście zakupów jest częścią głównego komunikatu.",
+    "Żadnych rankingów, ocen, liczników klientów, gwarancji chudnięcia ani zmiany sylwetki.",
+    "Nie dodawać B2Bplanów Starter/Pro/Studio/Firma do materiałów konsumenckich."
+  ]
+}

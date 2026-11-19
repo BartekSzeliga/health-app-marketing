@@ -1,0 +1,41 @@
+{
+  "nazwa": "TU: post — temat",
+  "data": "RRRR-MM-DD",
+  "typ": "post",
+  "odbiorca": "b2c",
+  "motyw": "diecik",
+  "cta": { "plansza": "Pobierz Diecik", "podpis": "iOS i Android" },
+  "ujawnienie": "Dane przykładowe",
+  "linki": {
+    "ios": "https://apps.apple.com/pl/app/diecik/id6762611821?l=pl",
+    "android": "https://play.google.com/store/apps/details?id=com.helti.app"
+  },
+  "pochodzenie": {
+    "data": "TU: data ujęć",
+    "urzadzenie": "TU: np. symulator iOS, natywny zrzut ekranu",
+    "konto": "TU: konto demonstracyjne",
+    "produkt": "TU: repo i commit"
+  },
+  "zrodla": {
+    "ekran": { "plik": "zrodla/ekrany/ekran.png", "opis": "TU: co widać na ekranie" }
+  },
+  "tematy": [
+    {
+      "id": "01-Temat",
+      "nazwa": "TU: nazwa tematu",
+      "etykieta": "TU: funkcja",
+      "naglowek": ["TU: myśl posta,", "dwie krótkie linie."],
+      "tresc": ["TU: jedna lub dwie linie."],
+      "uklad": "telefon",
+      "ekran": "ekran",
+      "formaty": ["4x5", "9x16"],
+      "teksty": {
+        "opis": "TU: opis posta. Pierwsze 125 znaków widać bez rozwijania.",
+        "hashtagi": "#diecik TU: hashtagi"
+      },
+      "dowody": [
+        { "twierdzenie": "TU: co dokładnie twierdzimy o produkcie", "repo": "health-app-mobile", "plik": "TU: ścieżka pliku w repo" }
+      ]
+    }
+  ]
+}

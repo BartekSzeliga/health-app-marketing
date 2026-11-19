@@ -1,0 +1,24 @@
+1
+00:00:00,000 --> 00:00:02,700
+Plan diety
+Cały dzień. Jeden plan.
+
+2
+00:00:02,700 --> 00:00:05,300
+Przepisy
+Od pomysłu do posiłku.
+
+3
+00:00:05,300 --> 00:00:07,900
+Plan treningowy
+Wiesz, co masz robić.
+
+4
+00:00:07,900 --> 00:00:10,500
+Technika ćwiczeń
+Trenuj pewniej.
+
+5
+00:00:10,500 --> 00:00:15,000
+Zacznij dzisiaj
+Zeskanuj kod i pobierz Diecik.

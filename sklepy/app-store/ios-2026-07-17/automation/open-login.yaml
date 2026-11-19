@@ -1,0 +1,4 @@
+appId: com.helti.app
+---
+- tapOn: "Zaloguj się"
+- waitForAnimationToEnd

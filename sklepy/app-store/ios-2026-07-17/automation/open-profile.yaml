@@ -1,0 +1,7 @@
+appId: com.helti.app
+---
+- tapOn:
+    point: 87%, 11%
+- waitForAnimationToEnd
+- tapOn: "Profil, tab, 5 of 6"
+- waitForAnimationToEnd

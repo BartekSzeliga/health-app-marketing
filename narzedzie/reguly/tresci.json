@@ -1,0 +1,21 @@
+{
+  "opis": "Reguły treści reklam Diecik. Źródła: zasady/komunikacja.md i zasady/lekcje.md. poziom: blad = blokuje budowanie, uwaga = do świadomej decyzji. pola: wszystkie | naglowki (napisy na planszach i w filmie, nagłówki reklam). gasiDowod: uwaga znika, gdy któryś dowód kampanii pasuje do tego wzorca.",
+  "reguly": [
+    { "wzorzec": "gwaranc|gwarantuj", "poziom": "blad", "pola": "wszystkie", "powod": "Nie gwarantujemy efektów (waga, zdrowie, wynik kampanii)." },
+    { "wzorzec": "schudn|schudni|odchudz|zrzu[cć]\\w* \\d|\\d+ ?kg w ", "poziom": "blad", "pola": "wszystkie", "powod": "Bez obietnic utraty masy ciała ani jej tempa. Mówimy o planowaniu i kontroli celu." },
+    { "wzorzec": "najlepsz|numer jeden|nr 1\\b|#1\\b", "poziom": "blad", "pola": "wszystkie", "powod": "Określeń typu „najlepsza aplikacja” nie używamy bez źródła, które da się pokazać." },
+    { "wzorzec": "przed i po", "poziom": "blad", "pola": "wszystkie", "powod": "Bez zdjęć i obietnic „przed i po”." },
+    { "wzorzec": "wylecz|\\bleczy\\b|leczeni|diagnoz|terapi", "poziom": "blad", "pola": "wszystkie", "powod": "Diecik nie leczy i nie diagnozuje; takich obietnic nie składamy." },
+    { "wzorzec": "bez wysiłku|bez wyrzeczeń|cudown|rewolucyjn", "poziom": "blad", "pola": "wszystkie", "powod": "Bez języka cudownych efektów." },
+    { "wzorzec": "w \\d+ ?(sekund|minut|klikni)|w kilka sekund|w trzech kliknięciach", "poziom": "blad", "pola": "wszystkie", "powod": "Nie deklarujemy czasu ani liczby kliknięć — montaż pomija oczekiwanie." },
+    { "wzorzec": "DIECIK|Dietcik|Dieticik|Diecick|Dietic\\b", "poziom": "blad", "pola": "wszystkie", "wielkoscLiter": true, "powod": "Nazwa marki zawsze jako „Diecik”." },
+    { "wzorzec": "natychmiast|błyskawiczn|w chwilę|w kilka chwil|w mgnieniu", "poziom": "uwaga", "pola": "wszystkie", "powod": "Brzmi jak obietnica czasu. Zostaw tylko, jeśli nie dotyczy działania aplikacji." },
+    { "wzorzec": "\\b7 dni|tydzień|tygodni|\\b\\d+ dni", "poziom": "uwaga", "pola": "naglowki", "powod": "Czas z przykładu w nagłówku brzmi jak limit produktu. Lepiej „plan diety”, a zakres dat zostawić na ekranie." },
+    { "wzorzec": "za darmo|bezpłatn|darmow", "poziom": "uwaga", "pola": "wszystkie", "gasiDowod": "darmow|bezpłatn|za darmo", "powod": "Bezpłatność musi dotyczyć dokładnie tej funkcji. Sprawdź w kodzie, co jest darmowe, a co wymaga Premium, i dopisz dowód." },
+    { "wzorzec": "premium", "poziom": "uwaga", "pola": "wszystkie", "powod": "Premium do własnej diety i płatny plan specjalisty to osobne produkty — nie używaj nazw zamiennie." },
+    { "wzorzec": "\\d+ ?kcal|\\d+ ?g białka", "poziom": "uwaga", "pola": "wszystkie", "powod": "Liczby z ekranu to dane przykładowe. Nie obiecuj dopasowania co do kalorii." },
+    { "wzorzec": "więcej klientów|nowych klientów|zarabiaj|zarobisz|większe przychody", "poziom": "uwaga", "pola": "wszystkie", "powod": "Specjalistom nie obiecujemy pozyskania klientów ani wyniku finansowego; szersza oferta to pozycjonowanie." },
+    { "wzorzec": "zdrowsz|dla zdrowia|poprawi zdrowie", "poziom": "uwaga", "pola": "wszystkie", "powod": "Bez obietnic efektów zdrowotnych." },
+    { "wzorzec": "krok \\d|^\\d\\. ", "poziom": "uwaga", "pola": "naglowki", "powod": "Numerowane kroki robią z reklamy instruktaż (wyjątek: etykiety kart karuzeli)." }
+  ]
+}

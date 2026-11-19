@@ -1,0 +1,3 @@
+#!/bin/sh
+# Skrót do narzędzia: ./reklama <komenda> [kampania]. Opis: ./reklama pomoc
+exec node "$(dirname "$0")/narzedzie/reklama.mjs" "$@"

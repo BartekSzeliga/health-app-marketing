@@ -1,0 +1,376 @@
+{
+  "pass": true,
+  "partial": false,
+  "count": 24,
+  "groups": {
+    "ios-1206x2622": 8,
+    "ios-1284x2778": 8,
+    "ios-750x1334": 8
+  },
+  "checks": [
+    {
+      "file": "native/exports/ios-1206x2622/01-diet-day-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "mode": "RGB",
+      "sha256": "16c05ed6e965e49f7ef92e0cea0d9fad52e2fe9d639d6deadcc98dbd84e1a701",
+      "embeddedSourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7799389778794813,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1206x2622/02-generated-plan-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "mode": "RGB",
+      "sha256": "3d5e8d84eaed23d8227efd7e9d0e92c55f5db3c31114aa2adbfec59122543674",
+      "embeddedSourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7799389778794813,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1206x2622/03-recipe-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "mode": "RGB",
+      "sha256": "f47f17bad6045d37b73e648c144dfbc84c7c2145dd6f13b550d52fc8b5edd7fa",
+      "embeddedSourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7799389778794812,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1206x2622/04-training-plan-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "mode": "RGB",
+      "sha256": "8d391b8de9709a7ac1f0d6c5b673634679e5b135da74b82bb6f7233b4b58f270",
+      "embeddedSourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7799389778794813,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1206x2622/05-exercise-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "mode": "RGB",
+      "sha256": "bebdd146e769eb600af592ac639747d86d3a552f7f59d33e915fbefbaab71bdd",
+      "embeddedSourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7799389778794813,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1206x2622/06-progress-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "mode": "RGB",
+      "sha256": "ae48a28cb470f741c9341b62584b17c2e60679f7b7d995c105e8a737ac7c79ca",
+      "embeddedSourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7799389778794813,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1206x2622/07-specialist-diet-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "mode": "RGB",
+      "sha256": "af80c8ebd3d8a4643b830049ed118f204db417f9f33016e9798307b25b1c599a",
+      "embeddedSourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7799389778794813,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1206x2622/08-shopping-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "mode": "RGB",
+      "sha256": "2d97cd9f99451e674ebe098c71174fd640093682e4ecadea22d9792e138d2ccf",
+      "embeddedSourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7799389778794812,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks",
+      "sublineAvailability": "Produkty z własnej diety · Premium."
+    },
+    {
+      "file": "native/exports/ios-1284x2778/01-diet-day-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "mode": "RGB",
+      "sha256": "f7b699691ecd8bf19609c006c2f97e00653013815b036577836645d51b74957e",
+      "embeddedSourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7800575953923686,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1284x2778/02-generated-plan-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "mode": "RGB",
+      "sha256": "bbe163e50b96a9bf345b793457b4847ba8466ab9ba3ff8cb7691cd58e19d337b",
+      "embeddedSourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7800575953923686,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1284x2778/03-recipe-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "mode": "RGB",
+      "sha256": "83696174ae72acc47cd5a888c6370f0d572466e21b1057ea1b2d4eefbb32fac9",
+      "embeddedSourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7800575953923686,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1284x2778/04-training-plan-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "mode": "RGB",
+      "sha256": "05b1d2ccb94e524a67b2178b950cce14ed42f6c6074278866052aa6adc57e4cd",
+      "embeddedSourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7800575953923686,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1284x2778/05-exercise-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "mode": "RGB",
+      "sha256": "9f77d3bbe0499984acd01b8fd9dfa4289e2097a368fbf66e8dfd2b0d0afc10aa",
+      "embeddedSourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7800575953923686,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1284x2778/06-progress-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "mode": "RGB",
+      "sha256": "21508a9d08d0345b71a89952b116a2d55ffbc29adbe416f31410347a0ee51c94",
+      "embeddedSourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7800575953923686,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1284x2778/07-specialist-diet-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "mode": "RGB",
+      "sha256": "a8d5be728caab5b3afe7f5bdd8a9163662cbc33f6f37633f228b23dc6e5fa3fd",
+      "embeddedSourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7800575953923686,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-1284x2778/08-shopping-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "mode": "RGB",
+      "sha256": "e3f61513fa037712ef5795f38f1ae8457934665d89241ebbb18ba4b444a6fdfe",
+      "embeddedSourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7800575953923686,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks",
+      "sublineAvailability": "Produkty z własnej diety · Premium."
+    },
+    {
+      "file": "native/exports/ios-750x1334/01-diet-day-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "mode": "RGB",
+      "sha256": "0eab74ccee05759251bb986ba032de4f3d4a16a73a27eb1c438e539fe63126b8",
+      "embeddedSourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7646176911544228,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-750x1334/02-generated-plan-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "mode": "RGB",
+      "sha256": "38423e49df0013bfa5179aaca5a2540436b74d467750d3492ed7d609e795a728",
+      "embeddedSourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7638680659670165,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-750x1334/03-recipe-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "mode": "RGB",
+      "sha256": "bd45b9c0c2a86f9f49dc0942c8d8bfccd941e7738fd5723c7b166f8a965d1261",
+      "embeddedSourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7646176911544227,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-750x1334/04-training-plan-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "mode": "RGB",
+      "sha256": "dd998989dfbcff0ac8c4190e8e18fae820a880e4be87117f3d242a6edba97306",
+      "embeddedSourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7616191904047976,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-750x1334/05-exercise-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "mode": "RGB",
+      "sha256": "0725b453fa6e397616e00e777adc43433747a203ca47fb0629813dbf9ed3b806",
+      "embeddedSourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7646176911544228,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-750x1334/06-progress-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "mode": "RGB",
+      "sha256": "f487a273de2915f0fbc04850a3ee00af2e1e0c168f2c47756e978dfe0953ee9b",
+      "embeddedSourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7646176911544228,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-750x1334/07-specialist-diet-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "mode": "RGB",
+      "sha256": "070739a0c3371e94a26e39696b5bcb3ddbf0d8396bce92ca788536eaae365444",
+      "embeddedSourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7646176911544228,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks"
+    },
+    {
+      "file": "native/exports/ios-750x1334/08-shopping-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "mode": "RGB",
+      "sha256": "345214d37a3fb6bec900b33cf230ebb5442bc3f5f40d5a042b5e3992d12f770c",
+      "embeddedSourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "sourceUnmodified": true,
+      "nativeSource": true,
+      "noPreviewBadge": true,
+      "uiHeightFraction": 0.7646176911544227,
+      "readiness": "NATIVE DESIGN: awaiting final root/store visual checks",
+      "sublineAvailability": "Produkty z własnej diety · Premium."
+    }
+  ],
+  "note": "This checks files/provenance/geometry. Actual full270/390px visual review and root console per-group inventory are separate required checks."
+}

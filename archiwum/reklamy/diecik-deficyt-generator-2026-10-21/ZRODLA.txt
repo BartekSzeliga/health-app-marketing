@@ -1,0 +1,66 @@
+Diecik · pochodzenie materiałów · 21.10.2026
+
+1. ODNALEZIONE SESJE
+Tworzenie materiałów: 18.10.2026, sesja 01a14e90-b4d1-7ed3-9ae3-172a6853a3d2.
+Konfiguracja szkiców Meta: 18.10.2026, sesja 01a14fb8-6d21-78c3-acd2-a87599152864.
+Poprzednia paczka: ../diecik-instalacje-2026-10-18, zaakceptowana rewizja 2.
+Styl: cream/pine/lime, Avenir Next/Baskerville, rzeczywista ikona Diecik.
+Historyczny wynik sesji Meta: 16 wyłączonych szkiców, bez publikacji.
+W tej pracy nie odczytywano ani nie zmieniano aktualnej konfiguracji reklam.
+
+2. AKTUALNY PRODUKT
+health-app-mobile HEAD 5ef6ab9075f536c66a32a5313827ce1d9603f0bc.
+src/features/users/utils/calculateTDEE.ts:29–63
+Wzór Mifflina, współczynnik aktywności, korekta wybranego celu i dolny limit.
+src/features/users/utils/macros-utils.tsx:221–279
+Proponowane makro i wynik kcal wynikający z zaokrąglonych makroskładników.
+src/screens/profile/ProfileScreen.tsx:1505–1548
+Cele makro, Tryb automatyczny, ręczne nadpisanie i Przywróć automat.
+src/screens/diet/DietGeneratorScreen.tsx:211,476,1012,1222,1511–1602
+Standard darmowy, makro z profilu, tworzenie podglądu, jawny zapis i otwarcie
+diety. Inne typy diet i lista zakupów wymagają aktywnego Premium.
+
+3. PRAWDZIWE EKRANY I CZYNNOŚCI
+Źródła assets/native/*.png i profile-flow.mp4/generator-flow.mp4.
+Przechwycone 21.10.2026 przez natywne Screenshot/Record w Device Hub,
+na istniejącym własnym symulatorze Diecik Meta QA 2026-10-15, iOS 26.5.
+Oryginalne nazwy plików i niezmienione kopie w qa/raw-captures.
+Konto i dane demonstracyjne, bez danych realnego klienta.
+
+Profil: 65 kg, 168 cm, 30 lat, kobieta, aktywność średnia, cel redukcji,
+automatyczny wynik 1902 kcal, 111 g białka, 255 g węglowodanów, 42 g tłuszczu,
+30 g błonnika. Wybór celu, automatyczne przeliczenie i zapis wykonane w UI.
+Generator: Standard, 21–27.10.2026, 7 dni, 4 posiłki, preferencja szybkie,
+makro z profilu. Utworzono podgląd, zapisano plan i otwarto dietę w UI.
+Pierwszy dzień: 1842 kcal, 111/263/42/30 g. Zdjęcia posiłków załadowane.
+Kanapki z twarożkiem i warzywami; kotleciki z soczewicy z ziemniakami;
+jaglanka z jogurtem greckim, mango i pestkami dyni; dorsz z kuskusem i szpinakiem.
+
+Nie retuszowano UI. Dozwolone zabiegi: jednolite skalowanie, ramka,
+kadrowanie rzeczywistych detali i cięcia natywnego nagrania pomijające
+oczekiwanie. Bez symulowanych kliknięć i podmienionych wartości/zdjęć.
+Dokładne użyte timecode/cropy: assets/native/video-source-plan.json
+i raporty qa/video/*-creative-spec.json.
+
+4. ZAKRES PRZEKAZU
+Wyliczenie celu do redukcji na podstawie szacowanego zapotrzebowania
+i wybranej korekty, nie pomiar rzeczywistego deficytu energetycznego.
+Bez obietnic utraty masy, dokładnego dopasowania kalorii, cen posiłków
+ani czasu generowania. Nie potwierdzono widocznej zmiany po Wymień dzień,
+dlatego materiały nie reklamują wymiany ani nie pokazują fikcyjnego efektu.
+
+5. MUZYKA I EKSPORT
+Dwa oryginalne podkłady syntezowane lokalnie, bez zewnętrznych sampli,
+bez lektora i odgłosów udających dotknięcia. Źródła w audio/ i production/.
+Format eksportu: MP4 1440×2560 / 30 fps, H264, yuv420p, BT709, AAC 48 kHz stereo.
+Obrazy JPG 1440×1440 / 1440×1800. Faktyczne wyniki w manifest.json i QA.
+
+Odwołania Meta Ads Guide użyte w poprzedniej paczce są w jej
+qa/specs-sources.md. Próby ponownego odczytu 21.10 kierowały do logowania
+i ograniczenia dostępu, więc nie deklarujemy aktualnego potwierdzenia
+wszystkich specyfikacji placementów. Parametry eksportu sprawdzono lokalnie.
+
+6. STAN OTOCZENIA
+Bez zmian kodu produktu, commitów, push, uploadu, publikacji i aktywacji.
+Zachowane wcześniejsze Metro/backend, uruchomione symulatory i poprzednie media.
+Device Hub przywrócony na pierwotny iPhone 17 Pro Max z Capture Keyboard ON.

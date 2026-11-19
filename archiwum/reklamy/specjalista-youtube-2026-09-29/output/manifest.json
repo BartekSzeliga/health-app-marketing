@@ -1,0 +1,142 @@
+{
+  "project": "Diecik /specjalista",
+  "date": "2026-09-29",
+  "totalSeconds": 263.2,
+  "webSourceDurationSeconds": 249.65,
+  "webCutSeconds": {
+    "start": 219.6,
+    "end": 224
+  },
+  "webSourceKeptSeconds": 245.25,
+  "webRenderedSeconds": 228,
+  "webCaptureToolbarPatch": {
+    "sourceFrameSeconds": 247.5,
+    "renderedRangeSeconds": [
+      226.5,
+      228
+    ],
+    "rectangle": {
+      "x": 940,
+      "y": 800,
+      "width": 490,
+      "height": 130
+    }
+  },
+  "chatTypingSpeed": {
+    "factor": 4,
+    "sourceRanges": [
+      [
+        218,
+        219.6
+      ],
+      [
+        224,
+        245.4
+      ]
+    ],
+    "sendNormalSpeedSourceRange": [
+      245.4,
+      249.65
+    ]
+  },
+  "mobileRawSeconds": {
+    "start": 15.88,
+    "end": 37.08
+  },
+  "mobileOverview": "Pięć rzeczywistych posiłków z 29 września 2026, złożonych z przewinięć tego samego dnia.",
+  "sources": [
+    {
+      "file": "../Nagranie z ekranu 2026-09-29 o 15.59.18.mov",
+      "sha256": "34f673713b95b1cf061699ea41095c3b674d6627aefd7444187e691df439259d"
+    },
+    {
+      "file": "sources/iphone-17-od-specjalisty-varied-raw.mov",
+      "sha256": "c71c6178a00d881071e12d4e5c2bd8a57e7a0728654b6927b8b2b568c2568010"
+    },
+    {
+      "file": "sources/iphone-full-day-overview.png",
+      "sha256": "3aac0630d62176559446a88db4cfda38ba5a29cf3184012bcb4a2f921022e2ca"
+    }
+  ],
+  "scenes": [
+    {
+      "kind": "intro",
+      "duration": 3.5
+    },
+    {
+      "kind": "web",
+      "sourceRanges": [
+        [
+          0,
+          219.6
+        ],
+        [
+          224,
+          249.65
+        ]
+      ],
+      "speedRanges": [
+        [
+          218,
+          219.6,
+          4
+        ],
+        [
+          224,
+          245.4,
+          4
+        ]
+      ],
+      "duration": 228
+    },
+    {
+      "kind": "phoneOverview",
+      "duration": 5.5
+    },
+    {
+      "kind": "phoneLive",
+      "sourceRange": [
+        15.88,
+        37.08
+      ],
+      "duration": 21.199999999999996
+    },
+    {
+      "kind": "outro",
+      "duration": 5
+    }
+  ],
+  "captions": {
+    "language": "pl",
+    "embeddedInVideo": true,
+    "srtCues": 23
+  },
+  "music": {
+    "type": "Diecik mix from Apple Loops",
+    "sources": [
+      "Moving Pictures Acoustic Guitar.caf",
+      "Moving Pictures Bass.caf",
+      "Minimal Backbeat 01.caf",
+      "Moving Pictures Synth.caf"
+    ],
+    "license": "../meta-start-aplikacji/meta/audio/LICENSES.md"
+  },
+  "outputs": [
+    {
+      "file": "diecik-specjalista-youtube-2026-09-29.mp4",
+      "sha256": "1c6242ea6f2a3014ea246474627fe925cb5bea56d610748cdaad5672ce2fb60c"
+    },
+    {
+      "file": "diecik-widok-klienta-iphone-demo-2026-09-29.mp4",
+      "sha256": "3a0557832fb6ed6365147a62c77ae4685d6e273c09813ce2d60c82489f1f4268"
+    },
+    {
+      "file": "diecik-specjalista-miniatura.jpg",
+      "sha256": "d07c43323edf32b1657e2e4bd653420543a733778d5cfe9d55f37af1320e9e2a"
+    },
+    {
+      "file": "diecik-specjalista-napisy-pl.srt",
+      "sha256": "410c8af68c513b7e28eaa4e4d3b33c569ac105c661aacb1e801e2f320bc8bb68"
+    }
+  ]
+}

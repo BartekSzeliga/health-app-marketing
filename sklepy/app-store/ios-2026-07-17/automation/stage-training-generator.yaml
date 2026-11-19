@@ -1,0 +1,6 @@
+appId: com.helti.app
+---
+- tapOn: "Trening, tab, 2 of 6"
+- waitForAnimationToEnd
+- tapOn: "Generator planu"
+- waitForAnimationToEnd

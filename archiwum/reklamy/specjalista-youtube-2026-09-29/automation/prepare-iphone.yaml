@@ -1,0 +1,7 @@
+appId: com.helti.app
+---
+- launchApp
+- tapOn: "Dieta, tab, 1 of 7"
+- tapOn: "Moja dieta"
+- assertVisible: "Od specjalisty"
+

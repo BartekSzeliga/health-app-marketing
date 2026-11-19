@@ -1,0 +1,98 @@
+DIECIK — GOTOWE TEKSTY REKLAM
+Pakiet: 18.10.2026, rewizja 2
+
+Wybierz jeden tekst podstawowy do jednej reklamy. Wersja krótka jest alternatywą do Reels, nie dopiskiem do dłuższej wersji. Opis i nagłówek mogą nie być widoczne w każdym umiejscowieniu. Liczby w nawiasach oznaczają znaki ze spacjami; nie kopiuj ich do reklamy.
+
+Wspólne ustawienia:
+Cel: Promocja aplikacji / instalacje.
+Przycisk Meta: Zainstaluj teraz — jeżeli dostępny; alternatywnie Pobierz.
+iOS: https://apps.apple.com/pl/app/diecik/id6762611821?l=pl
+Android: https://play.google.com/store/apps/details?id=com.helti.app
+Wybierz sklep odpowiedni dla odbiorcy. Adres strony głównej nie zastępuje adresu sklepu w tym teście instalacji.
+
+01 — POMYSŁ NA OBIAD
+Do filmu i dwóch rozmiarów grafiki z przepisem na makaron z brokułem, fetą i pomidorkami. Każdy materiał może być osobną reklamą.
+Pliki: Diecik-pomysl-na-posilek-Reels-Stories-20s.mp4; Grafika-01-Przepisy-1x1.jpg; Grafika-01-Przepisy-4x5.jpg.
+
+Tekst podstawowy (112):
+Pomysł na obiad? Odkryj przepisy w Dieciku. Sprawdź składniki i przygotowanie, a wybrany posiłek dodaj do diety.
+
+Wersja krótka / Reels (33):
+Co dziś na obiad? Sprawdź Diecik.
+
+Nagłówek (15):
+Pomysł na obiad
+
+Opis (15):
+Sprawdź przepis
+
+02 — KALORIE, MAKRO I MIKROSKŁADNIKI
+Do filmu i dwóch rozmiarów grafiki z podsumowaniem zaplanowanych posiłków, także z mikroskładnikami. „Mikro” w krótkich polach oznacza mikroskładniki.
+Pliki: Diecik-kalorie-i-makro-Reels-Stories-20s.mp4; Grafika-02-Kalorie-makro-1x1.jpg; Grafika-02-Kalorie-makro-4x5.jpg.
+
+Tekst podstawowy (98):
+Zaplanuj posiłki i zobacz kalorie, makro oraz mikroskładniki w podsumowaniu diety. Pobierz Diecik.
+
+Wersja krótka / Reels (38):
+Kalorie, makro i mikro w Twoim planie.
+
+Nagłówek (22):
+Kalorie, makro i mikro
+
+Opis (15):
+Plan w liczbach
+
+03 — PLAN TRENINGU
+Do nowego filmu i dwóch rozmiarów grafiki z własnym planem treningowym.
+Pliki: Diecik-plan-treningu-Reels-Stories-20s.mp4; Grafika-03-Plan-treningu-1x1.jpg; Grafika-03-Plan-treningu-4x5.jpg.
+
+Tekst podstawowy (110):
+Co ćwiczysz dzisiaj? Otwórz swój plan w Dieciku i zobacz ćwiczenia, serie oraz powtórzenia. Pobierz aplikację.
+
+Wersja krótka / Reels (39):
+Dziś trening? Twój plan jest w Dieciku.
+
+Nagłówek (20):
+Twój trening na dziś
+
+Opis (17):
+Ćwiczenia i serie
+
+04 — ULUBIONE POSIŁKI / ORYGINALNY FILM
+Do zachowanego Diecik-ulubione-posilki-Reels-Stories-20s.mp4.
+
+Tekst podstawowy (104):
+Zapisz sprawdzony posiłek w Dieciku i wróć do niego jutro. Darmowy plan: 3 ulubione. Premium bez limitu.
+
+Wersja krótka / Reels (37):
+Kolejny dzień, ten sam ulubiony smak.
+
+Nagłówek (16):
+Ulubione posiłki
+
+Opis (18):
+3 ulubione posiłki
+
+05 — KARUZELA CZTERECH FUNKCJI
+Jedna reklama, cztery pliki z prefiksem Karuzela-. Kolejność: 01, 02, 03, 04. Wybierz to samo miejsce docelowe dla wszystkich kart, odpowiednie dla systemu odbiorcy.
+
+Tekst podstawowy (77):
+Przepisy, makro, mikro, trening, ulubione. Pobierz Diecik i zacznij za darmo.
+
+Karta 1 — Karuzela-01-Przepisy-1x1.jpg
+Nagłówek (15): Pomysł na obiad
+Opis (15): Sprawdź przepis
+
+Karta 2 — Karuzela-02-Kalorie-makro-1x1.jpg
+Nagłówek (19): Kcal, makro i mikro
+Opis (15): Plan w liczbach
+
+Karta 3 — Karuzela-03-Plan-treningu-1x1.jpg
+Nagłówek (20): Twój trening na dziś
+Opis (17): Ćwiczenia i serie
+
+Karta 4 — Karuzela-04-Ulubione-posilki-1x1.jpg
+Nagłówek (18): Twój smak na jutro
+Opis (17): 3 ulubione gratis
+
+Zakres darmowego startu: standardowe planowanie diety i treningu oraz do 3 ulubionych posiłków. Dodatkowe funkcje są w Premium. Pakiet nie reklamuje darmowego okresu próbnego.

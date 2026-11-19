@@ -1,0 +1,29 @@
+{
+  "zweryfikowano": "2026-10-18",
+  "zrodlo": "archiwum/reklamy/diecik-instalacje-2026-10-18/qa/specs-sources.md (publiczne strony Meta Ads Guide dla celu „Instalacje aplikacji”)",
+  "uwaga": "To zalecenia projektowe Meta, nie gwarancja dostępności umiejscowienia na koncie. Przed kampanią sprawdź u źródła, jeśli od weryfikacji minęło więcej niż 60 dni, i obejrzyj podgląd każdego umiejscowienia w Menedżerze reklam.",
+  "waznoscDni": 60,
+  "formaty": {
+    "1x1": { "szerokosc": 1440, "wysokosc": 1440, "zastosowanie": "Feed, karuzela" },
+    "4x5": { "szerokosc": 1440, "wysokosc": 1800, "zastosowanie": "Feed (zalecany przez Meta)" },
+    "9x16": { "szerokosc": 1440, "wysokosc": 2560, "zastosowanie": "Stories i Reels; napisy, logo i CTA poza 14% góry, 35% dołu i 6% boków" }
+  },
+  "film": { "szerokosc": 1440, "wysokosc": 2560, "fps": 30, "kodek": "h264", "piksele": "yuv420p", "kolor": "bt709", "audio": "AAC stereo 48 kHz, co najmniej 128 kb/s", "glosnoscLufs": [-18, -12], "szczytDbtp": -1, "maksOdstepKlatekKluczowychS": 1.05, "maksRozmiarMB": 4000 },
+  "obraz": { "format": "JPG", "maksRozmiarMB": 30 },
+  "limityZnakow": {
+    "reklama": {
+      "glowny": { "zalecane": 125, "nota": "Instagram Feed pokazuje ok. 125 znaków; dłuższy tekst zwija się pod „więcej”" },
+      "krotki": { "zalecane": 125, "nota": "w Reels widać ok. 40 znaków" },
+      "naglowek": { "zalecane": 40, "nota": "Facebook Feed zaleca 27" },
+      "opis": { "zalecane": 30, "nota": "nie w każdym umiejscowieniu widoczny" }
+    },
+    "karuzela": {
+      "tekstGlowny": { "zalecane": 125, "nota": "Facebook zaleca 80" },
+      "naglowek": { "zalecane": 20, "nota": "nagłówek karty" },
+      "opis": { "zalecane": 18, "nota": "opis karty" }
+    },
+    "post": {
+      "opis": { "zalecane": 2200, "nota": "limit Instagrama; w podglądzie widać ok. 125 znaków" }
+    }
+  }
+}

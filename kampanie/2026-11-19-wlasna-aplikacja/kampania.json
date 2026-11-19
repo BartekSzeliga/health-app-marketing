@@ -1,0 +1,100 @@
+{
+  "nazwa": "Diecik — własna aplikacja dla firm",
+  "data": "2026-11-19",
+  "typ": "reklama",
+  "odbiorca": "specjalista",
+  "cel": "ruch na stronę /aplikacja-dla-firmy; Facebook Feed i Stories",
+  "motyw": "diecik",
+  "cta": {
+    "plansza": "Umów prezentację",
+    "podpis": "diecik.com/aplikacja-dla-firmy",
+    "przycisk": "Dowiedz się więcej"
+  },
+  "ujawnienie": "Dane przykładowe",
+  "linki": {
+    "strona": "https://diecik.com/aplikacja-dla-firmy"
+  },
+  "pochodzenie": {
+    "data": "2026-11-19",
+    "urzadzenie": "natywne zrzuty iOS 1206×2622 z aplikacji firmowej (health-app-company-mobile), firma demonstracyjna z logo „F.”",
+    "konto": "konto demonstracyjne klienta firmy demo, plan „Od specjalisty”; bez danych realnych osób",
+    "pliki": "kopie health-app-frontend/public/marketing/company-app-{wellness,sport,classic,progress}-20261119.webp — te same ekrany są opublikowane na diecik.com/aplikacja-dla-firmy",
+    "obrobka": "jednolite skalowanie i ramka telefonu; bez retuszu interfejsu"
+  },
+  "zrodla": {
+    "stylWellness": {
+      "plik": "zrodla/ekrany/aplikacja-firmy-wellness.webp",
+      "opis": "Aplikacja firmowa, styl Wellness: dieta od specjalisty z logo firmy"
+    },
+    "stylSportowy": {
+      "plik": "zrodla/ekrany/aplikacja-firmy-sport.webp",
+      "opis": "Aplikacja firmowa, styl Sportowy: ten sam ekran w ciemnym stylu"
+    },
+    "stylKlasyczny": {
+      "plik": "zrodla/ekrany/aplikacja-firmy-classic.webp",
+      "opis": "Aplikacja firmowa, styl Klasyczny: ten sam ekran w jasnym stylu z indygo"
+    }
+  },
+  "tematy": [
+    {
+      "id": "01-Twoje-logo",
+      "nazwa": "Aplikacja z Twoim logo",
+      "etykieta": "Dla dietetyków i trenerów",
+      "naglowek": [
+        "Aplikacja",
+        "z Twoim logo."
+      ],
+      "tresc": [
+        "Dieta, treningi i postępy",
+        "pod nazwą Twojego studia."
+      ],
+      "dopisek": "W App Store i Google Play.",
+      "uklad": "trzy-telefony",
+      "ekran": "stylWellness",
+      "ekran2": "stylSportowy",
+      "formaty": [
+        "4x5",
+        "1x1",
+        "9x16"
+      ],
+      "teksty": {
+        "glowny": "Twoi klienci mogą mieć w telefonie aplikację z Twoją nazwą, logo i kolorami. Znajdą w niej dietę, treningi, postępy, ankiety i czat, a Ty prowadzisz ich w panelu Diecik. Publikację w App Store i Google Play oraz aktualizacje bierzemy na siebie. Od 600 zł brutto miesięcznie.",
+        "krotki": "Aplikacja z Twoim logo dla Twoich klientów. Od 600 zł brutto miesięcznie.",
+        "naglowek": "Aplikacja z Twoim logo",
+        "opis": "Umów prezentację"
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Aplikacja firmy ma trzy style wyglądu: Klasyczny, Sportowy i Wellness.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/lib/app-style.ts",
+          "linie": "2–3"
+        },
+        {
+          "twierdzenie": "Aplikacja przyjmuje paletę kolorów firmy.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/lib/tenant-theme.ts",
+          "linie": "8–16"
+        },
+        {
+          "twierdzenie": "Firma włącza w aplikacji moduły: dieta, treningi, postępy, ankiety, czat.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/features/app-features/app-features.ts"
+        },
+        {
+          "twierdzenie": "Oferta ze strony: aplikacja z nazwą, logo i kolorami firmy w App Store i Google Play; publikacja i aktualizacje po stronie Diecika; prowadzenie klientów i własna aplikacja od 600 zł brutto miesięcznie.",
+          "repo": "health-app-frontend",
+          "plik": "src/pages/PublicCompanyApp.tsx",
+          "linie": "166, 332"
+        }
+      ],
+      "ekran3": "stylKlasyczny"
+    }
+  ],
+  "uwagi": [
+    "Aplikacja jest publikowana na kontach deweloperskich firmy w App Store i Google Play, które firma zakłada według instrukcji. Nie obiecujemy publikacji pod nazwą klienta z konta Diecika.",
+    "Nie podajemy terminu wdrożenia: zależy od weryfikacji kont i aplikacji przez Apple i Google.",
+    "Cena „od 600 zł brutto miesięcznie” pochodzi ze strony diecik.com/aplikacja-dla-firmy, stan na 19.11.2026. Przed emisją potwierdź, że strona nadal ją podaje.",
+    "Nie obiecujemy pozyskania klientów ani wyniku finansowego."
+  ]
+}

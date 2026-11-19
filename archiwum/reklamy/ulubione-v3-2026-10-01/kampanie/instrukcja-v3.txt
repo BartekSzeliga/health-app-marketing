@@ -1,0 +1,28 @@
+Diecik — rewizja v3, 01.10.2026. Wyłącznie lokalna konfiguracja PAUSED, bez emisji.
+
+Meta: meta-konfiguracja-v3-PAUSED.json to spec ręczny, nie payload Marketing API ani format importu.
+ID konta, strony i Instagram pozostają null. Nie utworzono kampanii na koncie i nie wydano pieniędzy.
+Aktualne ścieżki filmów, okładek i teksty są w JSON oraz teksty-meta-do-wklejenia.txt.
+
+B2C: hero 20 s, A „Jeszcze raz?” / B „Lubisz ten smak?”, identyczne body po 1.42 s.
+Pełny ekran 1.15–3.50 s, prawdziwy zapis 5.65 s, ponowne dodanie 11.75 s, rezultat 12.7–15.2 s.
+Short 10 s: prawdziwe Dodaj 4.10 s, rezultat 4.9–7 s, CTA 7–10 s.
+Finał filmu bez stopki o limicie. Fakty pozostają w copy i spec: 3 ulubione za darmo, Premium bez limitu.
+Okładki B2C: hook 0.65 s; CTA hero 18.7 s, short 8.5 s.
+
+B2B: pięć filmów 15 s. Lead ma CTA „Zobacz, jak to działa”; website „Zacznij bezpłatnie”.
+Web i mobile pokazują osobne, jawnie opisane konta DEMO. Nie dowodzą przekazania tego samego pakietu.
+Okładki B2B: hook 1.3 s, CTA 13.7 s.
+Lead i website to alternatywy tej samej puli 1000 zł. Nie sumować budżetów.
+Dodatki: short 10 s oraz website wide 15 s są opcjonalne, bez nowej kampanii lub puli.
+Okładki hook służą filmom; kadry CTA można ocenić osobno jako warianty statyczne. Search nie wymaga filmu.
+
+Budżet nadal jest propozycją 3000 zł/30 dni: Search B2B 1500 zł, Meta B2B 1000 zł, Meta B2C 500 zł warunkowo.
+Plan PDF/MD i arkusz budżetu/KPI z 30.09.2026 oraz sześć CSV Google Search są zachowane bajtowo.
+Arkusz zachowuje historyczne opisy kreacji. Aktualne media i przypisania bierz wyłącznie z config v3.
+Nazwy kampanii, datę startu, identyfikatory kont i pomiar uzupełnia się na właściwym koncie przed emisją.
+Wyniki kampanii pozostają puste do realnego pomiaru. Odbiór renderów nie jest testem skuteczności reklamy.
+
+UI: autentyczne ekrany aplikacji, bez generowania i przerysowania etykiet lub danych.
+Fotografia: oryginalna miska z przepisu; wycięcie tła wbudowanym ImageGen, prompt w assets/imagegen-prompts.json.
+Audio: własna synteza i kompozycja; pochodzenie i miks opisuje audio/LICENSES.md.

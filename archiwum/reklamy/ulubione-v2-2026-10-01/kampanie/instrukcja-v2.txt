@@ -1,0 +1,22 @@
+Diecik — nowe materiały v2, 01.10.2026. Wyłącznie lokalna konfiguracja, bez emisji.
+
+Meta: meta-konfiguracja-v2-PAUSED.json to spec ręczny, nie payload API ani format importu.
+Teksty i finalne ścieżki filmów są w teksty-meta-do-wklejenia.txt i JSON.
+Lead B2B: filmy lead, CTA Zobacz, jak to działa. Website B2B: filmy website, CTA Zacznij bezpłatnie.
+Dwa warianty B2B wykorzystują alternatywnie tę samą pulę 1000 zł. Nie dodawać budżetów.
+B2C: A Jeszcze raz? / B Lubisz ten smak?, identyczny montaż po 1.42 s. Limit darmowy 3 ulubione.
+Wybierz jeden zestaw i dwa filmy do pierwszego testu. Okładki hook nie są dodatkowymi reklamami.
+
+Plan finansowy pozostaje propozycją 3000 zł/30 dni: Search B2B 1500 zł, Meta B2B 1000 zł, Meta B2C 500 zł warunkowo.
+Plan PDF i arkusz budżetu/KPI pochodzą z 30.09.2026. Arkusz jest bazą kalkulacji; aktualne przypisanie
+nowych filmów i nowe hooki bierz z niniejszego JSON/TXT, a nie z historycznych opisów kreacji w arkuszu.
+Google Search: kopia wcześniej sprawdzonych CSV. Search nie potrzebuje filmu; wide jest zapasem.
+Nazwy kampanii/datę startu/identyfikatory kont i źródło pomiaru trzeba uzupełnić na właściwym koncie.
+Budżet pozostaje propozycją. Nie utworzono kampanii na koncie i nie wydano pieniędzy.
+
+Weryfikacja: główny hero ma niezależny przegląd klatek 360px i ciągłości pełnego UI.
+Kontrola parametrów/dekodowania nie jest testem skuteczności reklamy.
+
+Źródła UI: autentyczne materiały aplikacji. B2B pokazuje osobne konta DEMO, jawnie opisane w filmie.
+Fotografia: oryginalna miska z przepisu; wycięcie tła wbudowanym ImageGen, prompt w assets/imagegen-prompts.json.
+Audio: własna synteza i kompozycja; żadne Apple Loops nie są używane.

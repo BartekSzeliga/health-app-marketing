@@ -1,0 +1,734 @@
+{
+  "title": "Diecik - mobile marketing materials 2026-10-30",
+  "status": "FINAL: 3 hero graphics and 16 native screenshots UPLOADED AND SAVED AS DRAFT; no publication or build change",
+  "approved_graphic_count": 3,
+  "uploaded_graphic_count": 3,
+  "native_render_png_count": 32,
+  "native_render_svg_count": 32,
+  "native_source_count": 16,
+  "contact_sheet_count": 4,
+  "proof_png_count": 7,
+  "native_store_uploads": {
+    "apple": {
+      "count": 8,
+      "size": "1206x2622",
+      "order": "01-08",
+      "version": "1.0.22 Prepare for Submission",
+      "saved": true,
+      "persistedAfterNavigation": true,
+      "appPreviews": 0,
+      "usedPhoneGroupsInheritNewSet": 8,
+      "iPhoneDuo": "empty",
+      "iPadWatchIMessage": "all checked empty"
+    },
+    "google": {
+      "count": 8,
+      "size": "1080x1920",
+      "order": "01-08",
+      "saved": true,
+      "all8OldPhoneScreenshotsRemoved": true,
+      "tabletComputerXR": "all checked empty"
+    }
+  },
+  "optional_ios_variants_not_uploaded": {
+    "1284x2778": 8,
+    "750x1334": 8
+  },
+  "obsolete_preview_count": 0,
+  "web_or_archived_source_count": 0,
+  "previous_active_screenshots_replaced": true,
+  "previous_apple_app_previews_removed": 3,
+  "previous_assets_retained_in_apple_library": true,
+  "apple_graphic_version": "V2 PNG",
+  "google_feature_file": "google-feature-1024x500.jpg",
+  "apple_header_file": "apple-header-v2-3840x1646.png",
+  "apple_search_file": "apple-search-v2-3840x2560.png",
+  "source_provenance": "Actual native captures from separate current-source runtime snapshots. No claim of identical complete JS trees, selected target binary, or exact historical loaded bundle bytes.",
+  "generator_qa_limitation": "A real Android generated preview failed portion validation on Save. Preview discarded without overwriting existing diet. Card02 shows authentic configuration only; no app repair in this task.",
+  "copy_limits": {
+    "pl-google-play-short-final.txt": {
+      "characters": 67,
+      "utf8_bytes": 71,
+      "character_limit": 80,
+      "within_character_limit": true
+    },
+    "pl-google-play-full-final.txt": {
+      "characters": 1805,
+      "utf8_bytes": 1885,
+      "character_limit": 4000,
+      "within_character_limit": true
+    },
+    "pl-apple-promo-final.txt": {
+      "characters": 151,
+      "utf8_bytes": 159,
+      "character_limit": 170,
+      "within_character_limit": true
+    },
+    "pl-apple-description-final.txt": {
+      "characters": 2116,
+      "utf8_bytes": 2204,
+      "character_limit": 4000,
+      "within_character_limit": true
+    },
+    "pl-apple-keywords-final.txt": {
+      "characters": 77,
+      "utf8_bytes": 80,
+      "character_limit": 100,
+      "within_character_limit": true
+    },
+    "pl-apple-subtitle-final.txt": {
+      "characters": 23,
+      "utf8_bytes": 25,
+      "character_limit": 30,
+      "within_character_limit": true
+    }
+  },
+  "build_changed_or_selected": false,
+  "publish_or_add_for_review": false,
+  "store_pages_left_open": true,
+  "excluded": "No web/archive previews, node_modules, runtime, app source, fonts, account files, credentials, full AX dumps or working archives. Sixteen original native screenshot bitmaps included solely for editing and provenance.",
+  "manifest_self_excluded_from_hash_list": true,
+  "file_count_including_manifest": 129,
+  "files": [
+    {
+      "path": "README-PL.txt",
+      "bytes": 4864,
+      "sha256": "6b927aec3d19661b99789476bb740261f0ce7d8edf43644c3c96a5f3060ff02d"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/01-diet-day-NATIVE.png",
+      "bytes": 306612,
+      "sha256": "cb4cee875c3a55364d0a7538c1e28110eb57809871c54e5167ea6a11e25184d9"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/01-diet-day-NATIVE.svg",
+      "bytes": 738352,
+      "sha256": "0bb64d1ad52c0028534bb15f1e084432ff7b6184bf1452915df2934e193d8198"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/02-generated-plan-NATIVE.png",
+      "bytes": 271330,
+      "sha256": "95e8bf49141bab871d9323dd88aff35939aad92f77548e7a075e9555b531367d"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/02-generated-plan-NATIVE.svg",
+      "bytes": 510632,
+      "sha256": "1b6045ba9369ea2c2dea0773e7b5af9f39f3e37f97a450446d9451b82eea4a74"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/03-recipe-NATIVE.png",
+      "bytes": 196975,
+      "sha256": "31bbb1e86f99b7412bbb8a38ce0375cd8477cd8c4e03a177d99dae942485bc17"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/03-recipe-NATIVE.svg",
+      "bytes": 368860,
+      "sha256": "8d58d29c318f2fed963478cb8902aa23c107028d144f0bd1ba755b1c685cc90c"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/04-training-plan-NATIVE.png",
+      "bytes": 250449,
+      "sha256": "ba29a0f3da2f6bbecbacb53000a32b99a7ed1fc1cf73bbcde72b21cee17610cd"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/04-training-plan-NATIVE.svg",
+      "bytes": 582236,
+      "sha256": "8ad65327c660c2367d02352b9d40166d133cb93569370cbdfb291f60068c85ea"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/05-exercise-NATIVE.png",
+      "bytes": 548435,
+      "sha256": "72fd882098847bd523555e17c8984040f29e9d0219d7e4c772dcecfb0271ff00"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/05-exercise-NATIVE.svg",
+      "bytes": 1634102,
+      "sha256": "90092c6099a0203cd3e515fa715008e7ac4e6bbde05b1929b67365b200f30795"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/06-progress-NATIVE.png",
+      "bytes": 188648,
+      "sha256": "7e9ad066033f6e5bb816990795837566fa86c8573cf03c161264eabfa7415464"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/06-progress-NATIVE.svg",
+      "bytes": 323355,
+      "sha256": "22e3d7133dd90c1719bd6b25bcf8704d46d2f9b29cedebb33451b0e662a25629"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/07-specialist-diet-NATIVE.png",
+      "bytes": 272987,
+      "sha256": "4fa38a7149194617979a9acbbefd9ea7d4a1fda411ec644148da92b6f3749b84"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/07-specialist-diet-NATIVE.svg",
+      "bytes": 614467,
+      "sha256": "da40f621a1851afb47ca38e6b8ff1df1f9a439c11ffd16872f9377aae58cffd8"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/08-shopping-NATIVE.png",
+      "bytes": 191658,
+      "sha256": "8531b344bc0a3d146187a918ff80aedc60e11438a6285b8dcd744ad6cd9f7d9e"
+    },
+    {
+      "path": "app-screenshots/android-1080x1920/08-shopping-NATIVE.svg",
+      "bytes": 321993,
+      "sha256": "37ebe98196822ab23a771c7ab5b5e9ebf943aa08b96a6cf0f9917735e36c711c"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/01-diet-day-NATIVE.png",
+      "bytes": 595987,
+      "sha256": "16c05ed6e965e49f7ef92e0cea0d9fad52e2fe9d639d6deadcc98dbd84e1a701"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/01-diet-day-NATIVE.svg",
+      "bytes": 967724,
+      "sha256": "b0bba06e1d80cc4dc347508e11d5ebdbb3cbfa6506843fb7bf1da272bf43faa9"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/02-generated-plan-NATIVE.png",
+      "bytes": 571827,
+      "sha256": "3d5e8d84eaed23d8227efd7e9d0e92c55f5db3c31114aa2adbfec59122543674"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/02-generated-plan-NATIVE.svg",
+      "bytes": 759680,
+      "sha256": "68428e25a434c1381613bb195849e26271ffae7945f9f4731bf118bc0bb83c2c"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/03-recipe-NATIVE.png",
+      "bytes": 447784,
+      "sha256": "f47f17bad6045d37b73e648c144dfbc84c7c2145dd6f13b550d52fc8b5edd7fa"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/03-recipe-NATIVE.svg",
+      "bytes": 660648,
+      "sha256": "197b2ea37671f6369cbd71a63979913b5b3a955f8043f6490b970f55e04b36a8"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/04-training-plan-NATIVE.png",
+      "bytes": 467697,
+      "sha256": "8d391b8de9709a7ac1f0d6c5b673634679e5b135da74b82bb6f7233b4b58f270"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/04-training-plan-NATIVE.svg",
+      "bytes": 714312,
+      "sha256": "5e1827924a70cec5131a798f11beb394252b1dac4dbc15edc278e6b0e7e9df1b"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/05-exercise-NATIVE.png",
+      "bytes": 872522,
+      "sha256": "bebdd146e769eb600af592ac639747d86d3a552f7f59d33e915fbefbaab71bdd"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/05-exercise-NATIVE.svg",
+      "bytes": 2445062,
+      "sha256": "f60026fae88eaff0bebe8be85938f26f9db07e721015b1e3fa5865e96027ff91"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/06-progress-NATIVE.png",
+      "bytes": 334933,
+      "sha256": "ae48a28cb470f741c9341b62584b17c2e60679f7b7d995c105e8a737ac7c79ca"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/06-progress-NATIVE.svg",
+      "bytes": 433035,
+      "sha256": "4a82531fecc5cc1d1c62a734ebb7b2f407a65a381a34ba93804634eb8c089647"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/07-specialist-diet-NATIVE.png",
+      "bytes": 536296,
+      "sha256": "af80c8ebd3d8a4643b830049ed118f204db417f9f33016e9798307b25b1c599a"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/07-specialist-diet-NATIVE.svg",
+      "bytes": 828059,
+      "sha256": "91d23f25290137541aeac5df188b14bf18ffd39157f8ea53175feca5a76e50ac"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/08-shopping-NATIVE.png",
+      "bytes": 377753,
+      "sha256": "2d97cd9f99451e674ebe098c71174fd640093682e4ecadea22d9792e138d2ccf"
+    },
+    {
+      "path": "app-screenshots/ios-1206x2622/08-shopping-NATIVE.svg",
+      "bytes": 479433,
+      "sha256": "2350d33cac0b5d3ca63abdc464c3e1f150dd7b4854a4ee3ece01f101e7769d11"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/01-diet-day-NATIVE.png",
+      "bytes": 651845,
+      "sha256": "f7b699691ecd8bf19609c006c2f97e00653013815b036577836645d51b74957e"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/01-diet-day-NATIVE.svg",
+      "bytes": 967720,
+      "sha256": "d16c103001525da1f781e23e7b2f022205939ca194a2d2ca19a4239be2f69bf9"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/02-generated-plan-NATIVE.png",
+      "bytes": 625941,
+      "sha256": "bbe163e50b96a9bf345b793457b4847ba8466ab9ba3ff8cb7691cd58e19d337b"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/02-generated-plan-NATIVE.svg",
+      "bytes": 759676,
+      "sha256": "835cef0752d7ac3afa2933e00e9df1cfdbb2464004aff48123126481d9040e8e"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/03-recipe-NATIVE.png",
+      "bytes": 493379,
+      "sha256": "83696174ae72acc47cd5a888c6370f0d572466e21b1057ea1b2d4eefbb32fac9"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/03-recipe-NATIVE.svg",
+      "bytes": 660640,
+      "sha256": "785e3d34b855df7d18acc4d8b46ad793a7a7b5ac410cbbb9a9c02e5ec74d51ec"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/04-training-plan-NATIVE.png",
+      "bytes": 510557,
+      "sha256": "05b1d2ccb94e524a67b2178b950cce14ed42f6c6074278866052aa6adc57e4cd"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/04-training-plan-NATIVE.svg",
+      "bytes": 714308,
+      "sha256": "a265815d77e516f20de9cf2beef44ea25065e5ea107017ab3f2a3d3fdd00eebe"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/05-exercise-NATIVE.png",
+      "bytes": 948382,
+      "sha256": "9f77d3bbe0499984acd01b8fd9dfa4289e2097a368fbf66e8dfd2b0d0afc10aa"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/05-exercise-NATIVE.svg",
+      "bytes": 2445046,
+      "sha256": "dbbab09a0665b179f464ccb03eedcf9e4fe45d26373af505fa370e0f56b492f4"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/06-progress-NATIVE.png",
+      "bytes": 362459,
+      "sha256": "21508a9d08d0345b71a89952b116a2d55ffbc29adbe416f31410347a0ee51c94"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/06-progress-NATIVE.svg",
+      "bytes": 433031,
+      "sha256": "694928690228dfc7693f669ad1e06bd37ed785a77c3ec1ab525a6eb0def9f707"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/07-specialist-diet-NATIVE.png",
+      "bytes": 584093,
+      "sha256": "a8d5be728caab5b3afe7f5bdd8a9163662cbc33f6f37633f228b23dc6e5fa3fd"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/07-specialist-diet-NATIVE.svg",
+      "bytes": 828055,
+      "sha256": "d4a6a8da5376ce70921c246a28f8e691fe4d11422bd435805b63b7a4e0c43078"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/08-shopping-NATIVE.png",
+      "bytes": 412137,
+      "sha256": "e3f61513fa037712ef5795f38f1ae8457934665d89241ebbb18ba4b444a6fdfe"
+    },
+    {
+      "path": "app-screenshots/ios-1284x2778/08-shopping-NATIVE.svg",
+      "bytes": 479425,
+      "sha256": "049628dce8e474494115790304c2afacd9addaf86d6472c6315f861bb024d84e"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/01-diet-day-NATIVE.png",
+      "bytes": 201467,
+      "sha256": "0eab74ccee05759251bb986ba032de4f3d4a16a73a27eb1c438e539fe63126b8"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/01-diet-day-NATIVE.svg",
+      "bytes": 967731,
+      "sha256": "be4d0f13a64bb6af73d2c52892688971acdc4a880a31259515d88fd99cd1e0d9"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/02-generated-plan-NATIVE.png",
+      "bytes": 194410,
+      "sha256": "38423e49df0013bfa5179aaca5a2540436b74d467750d3492ed7d609e795a728"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/02-generated-plan-NATIVE.svg",
+      "bytes": 759687,
+      "sha256": "a0d2627635d9df09ed87d5d37a606b159cd0d0ce5daae0b4827840519b98efe8"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/03-recipe-NATIVE.png",
+      "bytes": 153801,
+      "sha256": "bd45b9c0c2a86f9f49dc0942c8d8bfccd941e7738fd5723c7b166f8a965d1261"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/03-recipe-NATIVE.svg",
+      "bytes": 660655,
+      "sha256": "1f15f115616a3bcb549cde50cc1d9a043a9243b69ccb2b086d655a114c604073"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/04-training-plan-NATIVE.png",
+      "bytes": 166277,
+      "sha256": "dd998989dfbcff0ac8c4190e8e18fae820a880e4be87117f3d242a6edba97306"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/04-training-plan-NATIVE.svg",
+      "bytes": 714319,
+      "sha256": "dcc05fe148fa9d1a51e321676a97c37c54a07981edd646a000a62eaf939493c1"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/05-exercise-NATIVE.png",
+      "bytes": 321569,
+      "sha256": "0725b453fa6e397616e00e777adc43433747a203ca47fb0629813dbf9ed3b806"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/05-exercise-NATIVE.svg",
+      "bytes": 2445065,
+      "sha256": "3b13dc193851771c19dc64b8f6edbb8dda4d8698a9017e39f62a09d693de1dd6"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/06-progress-NATIVE.png",
+      "bytes": 125000,
+      "sha256": "f487a273de2915f0fbc04850a3ee00af2e1e0c168f2c47756e978dfe0953ee9b"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/06-progress-NATIVE.svg",
+      "bytes": 433042,
+      "sha256": "6cf3f98885a885cab9c5e404f06f31f324451a280f3ab4b6ef6b25eedebd3955"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/07-specialist-diet-NATIVE.png",
+      "bytes": 184732,
+      "sha256": "070739a0c3371e94a26e39696b5bcb3ddbf0d8396bce92ca788536eaae365444"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/07-specialist-diet-NATIVE.svg",
+      "bytes": 828066,
+      "sha256": "af1e7d1d6252055e35aee2613ded0c93aa4df6d2cd22c6681abd515edf21d30b"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/08-shopping-NATIVE.png",
+      "bytes": 136835,
+      "sha256": "345214d37a3fb6bec900b33cf230ebb5442bc3f5f40d5a042b5e3992d12f770c"
+    },
+    {
+      "path": "app-screenshots/ios-750x1334/08-shopping-NATIVE.svg",
+      "bytes": 479440,
+      "sha256": "f1a861757d2119049db048bc842e3cab24e7384619e7d3570a6d83f15f025569"
+    },
+    {
+      "path": "approved-graphics/apple-header-v2-3840x1646.png",
+      "bytes": 2499495,
+      "sha256": "c86a4d2adf071d764d15b3efc9192a1c6e1fc40e6955c8676a9b08c2ac4bf92d"
+    },
+    {
+      "path": "approved-graphics/apple-header-v2-3840x1646.svg",
+      "bytes": 4083662,
+      "sha256": "4e1887491302d15c7ce835c3a860b4784f1ac65a55ba756c7dcc4af0a94653a8"
+    },
+    {
+      "path": "approved-graphics/apple-search-v2-3840x2560.png",
+      "bytes": 3752953,
+      "sha256": "319af68faa3a0c5dbb71556388652f645ef018ccff61aa0d943c1bd8f03e1b27"
+    },
+    {
+      "path": "approved-graphics/apple-search-v2-3840x2560.svg",
+      "bytes": 4083650,
+      "sha256": "34d290ffe13091bf6042877f8ddb0e9915e0abd21a678db47c96741d5aebd0c1"
+    },
+    {
+      "path": "approved-graphics/google-feature-1024x500.jpg",
+      "bytes": 167655,
+      "sha256": "789a1a8300c11430dd30fced8a14772dab1056beeba82e44b6af29189722ccd6"
+    },
+    {
+      "path": "approved-graphics/google-feature-1024x500.svg",
+      "bytes": 4083986,
+      "sha256": "32dec873a889a7bf92ddc3ddd5dcde3df0fb5537a903c0f03d971a2d7407e774"
+    },
+    {
+      "path": "checks/android-HANDOFF.md",
+      "bytes": 3465,
+      "sha256": "1831f0dc2908a8bc1acce18f81dc840166eb98571db9fa34c749bca4afbac553"
+    },
+    {
+      "path": "checks/android-served-bundle-observation.json",
+      "bytes": 790,
+      "sha256": "554cfc132d7e285537860612103dc6b8cdb6a4b3984564bf7b5b26260c2e35b6"
+    },
+    {
+      "path": "checks/apple-v2-acceptance.json",
+      "bytes": 3085,
+      "sha256": "c5a60ac0b2f1ad3e70e94da544d3d0537ebcaf014a45613d70f94ec590a9e9c3"
+    },
+    {
+      "path": "checks/apple-v2-full-phone-preview.png",
+      "bytes": 304380,
+      "sha256": "f96be8cce480d73f1348f142eb73b5f6e6ff94a38c030a718e819e193d25fc56"
+    },
+    {
+      "path": "checks/approved-hero-manifest.json",
+      "bytes": 5214,
+      "sha256": "ac0a2f7eecf0b5b487d24dee55eb032ff4b3c01279504155af1c8107d5cf4e91"
+    },
+    {
+      "path": "checks/final-native-file-manifest.json",
+      "bytes": 21214,
+      "sha256": "a9128d40ec8c8c721ec2a003c68d508763ed1c6715f359adaf74b3ca1a72ebbb"
+    },
+    {
+      "path": "checks/hero-acceptance-checks.json",
+      "bytes": 566,
+      "sha256": "ded9394b22bc250baabfb64238f17c8f6b74ba6238bb49e1dd7f75e203e811aa"
+    },
+    {
+      "path": "checks/hero-final-qa.json",
+      "bytes": 3470,
+      "sha256": "87718209c55732418191dc9f5d0a5354aa480cc5c0950d7f2bc5c76d984cc094"
+    },
+    {
+      "path": "checks/native-poster-manifest-android.json",
+      "bytes": 22568,
+      "sha256": "4903fcbb0139937fbe007a11d3908938245174fb2dd6ba5d6456e3de63de21fd"
+    },
+    {
+      "path": "checks/native-poster-manifest-ios.json",
+      "bytes": 65489,
+      "sha256": "ebc7b34cd5a3b1fba5d100ef0627ae93e5248a03934ffc8219492b7829eaf71b"
+    },
+    {
+      "path": "checks/native-poster-qa-android.json",
+      "bytes": 4711,
+      "sha256": "b9e19f0de7d081b4fec61c3e1c6ef672325940bd8e1990555818ed1fae8ad74e"
+    },
+    {
+      "path": "checks/native-poster-qa-ios.json",
+      "bytes": 13733,
+      "sha256": "35955e5469741209c15e13332b5ba79d5dd163fd7da4ee8fd1026aebeeeaee9a"
+    },
+    {
+      "path": "checks/native-replacement-review.md",
+      "bytes": 3912,
+      "sha256": "693507b770492656b53389ce1ad3464e17d3dbdf2ed13072f1fcbdcb6ff136d5"
+    },
+    {
+      "path": "checks/native-source-provenance.json",
+      "bytes": 14450,
+      "sha256": "7664ae4d751bd8039f24224b586d003dae362d95781914aa193388d28f16d3cc"
+    },
+    {
+      "path": "checks/native-store-upload-review.json",
+      "bytes": 2505,
+      "sha256": "c5f1beea18e794a8ca4064d4d951c2ece56ff30d4859da225be49e6204baa681"
+    },
+    {
+      "path": "checks/shopping-premium-fix-qa.json",
+      "bytes": 1934,
+      "sha256": "cbe82cd3168c45fa473617ae5ae67ef3b66d488d69c0da8e1c4941f4cf281cbc"
+    },
+    {
+      "path": "checks/uploaded-files.json",
+      "bytes": 658,
+      "sha256": "4f5fb1a4933c18fcf1637d00fe2acb22f262ba920dcd3fd845f73798edb7529b"
+    },
+    {
+      "path": "contact-sheets/contact-native-android-1080x1920.png",
+      "bytes": 538945,
+      "sha256": "26099270992e8737dce375eac3839031442d43201d850182501e9945349edc81"
+    },
+    {
+      "path": "contact-sheets/contact-native-ios-1206x2622.png",
+      "bytes": 743843,
+      "sha256": "ffc4d44b18b73894755e9fcad1b40f20fdc21aafbb28d5e14992b4952b77ad00"
+    },
+    {
+      "path": "contact-sheets/contact-native-ios-1284x2778.png",
+      "bytes": 738266,
+      "sha256": "ce6df85b61ab2d1676cbdd468a382b96826767fe825b1c5c6110db07cdc3103f"
+    },
+    {
+      "path": "contact-sheets/contact-native-ios-750x1334.png",
+      "bytes": 597701,
+      "sha256": "b906b818dca149deb52a68badf3a83e74f2b6de9f255406babc20a52ad30fb44"
+    },
+    {
+      "path": "copy/character-counts-final.json",
+      "bytes": 900,
+      "sha256": "c0ec26db091ed9bd75071d25c48d3ff3c872fd750941d8c71b4a8896b81765c3"
+    },
+    {
+      "path": "copy/pl-apple-description-final.txt",
+      "bytes": 2204,
+      "sha256": "3c68ccc1ac27d9b0150d745e058a041263f3142a04d7daadc91ef8169c9d2a1e"
+    },
+    {
+      "path": "copy/pl-apple-keywords-final.txt",
+      "bytes": 80,
+      "sha256": "9ceff340df80e7b98a88264ec9f6d03a674f6473d7ce3f998ca0f33db3982149"
+    },
+    {
+      "path": "copy/pl-apple-promo-final.txt",
+      "bytes": 159,
+      "sha256": "08f6e4ac89b87252fe94ab9ba91d14bbf5f68f8d7fc3090a78087bf6b34f5fc9"
+    },
+    {
+      "path": "copy/pl-apple-subtitle-final.txt",
+      "bytes": 26,
+      "sha256": "43806a17c70250ec940893eb861a4523abbc94003afc72c2ffc2c27aeff2f5cb"
+    },
+    {
+      "path": "copy/pl-feature-graphic-final.txt",
+      "bytes": 28,
+      "sha256": "34f0c269eb2868bc84457eed7f33c46098cb59180d5ecf3da2efbf62aff2557c"
+    },
+    {
+      "path": "copy/pl-google-play-full-final.txt",
+      "bytes": 1885,
+      "sha256": "11396a4ac1c491a84099f6664841fe2728554782169a0067d0c1589ae5aa7c6d"
+    },
+    {
+      "path": "copy/pl-google-play-short-final.txt",
+      "bytes": 71,
+      "sha256": "82ec07adcb3b3056ff6ec9899f80ff60508d43bbacad61cbbc9d95cd361dcdb2"
+    },
+    {
+      "path": "copy/pl-native-screenshots-final.json",
+      "bytes": 1874,
+      "sha256": "eebe618392d21277e4db77763d23209f384a71b599d763743713ffb96636a118"
+    },
+    {
+      "path": "copy/pl-native-screenshots-final.txt",
+      "bytes": 546,
+      "sha256": "643de193705f2367e5d7c09d5974e348bff09e60cebdcadfa0ec655728d14df7"
+    },
+    {
+      "path": "copy/pl-store-copy-final.json",
+      "bytes": 6995,
+      "sha256": "7847500b1677a91694701df0cf8598f5a0031add577ec7d8ef111a437ddc028a"
+    },
+    {
+      "path": "native-sources/README-ZRODLA.txt",
+      "bytes": 278,
+      "sha256": "1a86d05a9a86c6ecb532a590b3e5af3239091f91e7973931261fe04a91d118b2"
+    },
+    {
+      "path": "native-sources/android/01-own-diet.png",
+      "bytes": 552129,
+      "sha256": "a7a06c7b227b049ad6596aa089b5c6f783a0669493b2bf3049b7f157add72545"
+    },
+    {
+      "path": "native-sources/android/02-generator-config.png",
+      "bytes": 381331,
+      "sha256": "673b0f6fc1d177592cdcaee16fad5e91469ef91af9cae01cf4feab362bb0c840"
+    },
+    {
+      "path": "native-sources/android/03-recipe-ingredients.png",
+      "bytes": 275007,
+      "sha256": "0f6c658d122883593c7685e68e27f5d7446bafe5b06def00856ba7f5a9e87190"
+    },
+    {
+      "path": "native-sources/android/04-training-plan.png",
+      "bytes": 435027,
+      "sha256": "a1ef1edf72e9465b8c593c65c53e6f35c5089ec0d9210342c6a4713297eefdc3"
+    },
+    {
+      "path": "native-sources/android/05-exercise-instruction.png",
+      "bytes": 1223940,
+      "sha256": "15a32fff310b3fc5330fcc18caeae8f8e6922957c3d05f360d78387f5333e525"
+    },
+    {
+      "path": "native-sources/android/06-progress-weight.png",
+      "bytes": 240877,
+      "sha256": "2c0b777da0171dac98180ea788305c1c94cfdb60c18212b927f5fe49dbf8203e"
+    },
+    {
+      "path": "native-sources/android/07-specialist-diet.png",
+      "bytes": 459201,
+      "sha256": "6c4f74f22376819b3bac494f0147f4390a1aaed68f6f53e8a0ff27a3ad3a3b34"
+    },
+    {
+      "path": "native-sources/android/08-shopping-list.png",
+      "bytes": 239844,
+      "sha256": "bd72a73b5b8571b61f0efa8f4a8f07892d37ce273c795eaa7bc986768f12f464"
+    },
+    {
+      "path": "native-sources/ios/01-own-diet.png",
+      "bytes": 724150,
+      "sha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5"
+    },
+    {
+      "path": "native-sources/ios/02-generator.png",
+      "bytes": 568113,
+      "sha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a"
+    },
+    {
+      "path": "native-sources/ios/03b-recipe-steps.png",
+      "bytes": 493840,
+      "sha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567"
+    },
+    {
+      "path": "native-sources/ios/04-training.png",
+      "bytes": 534077,
+      "sha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5"
+    },
+    {
+      "path": "native-sources/ios/05-exercise-instruction.png",
+      "bytes": 1832163,
+      "sha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b"
+    },
+    {
+      "path": "native-sources/ios/06-progress.png",
+      "bytes": 323131,
+      "sha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef"
+    },
+    {
+      "path": "native-sources/ios/07-specialist-diet.png",
+      "bytes": 619389,
+      "sha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930"
+    },
+    {
+      "path": "native-sources/ios/08-shopping.png",
+      "bytes": 357916,
+      "sha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab"
+    },
+    {
+      "path": "proof/README-PROOF.txt",
+      "bytes": 985,
+      "sha256": "f1cfffed520f9c0c464b911f37a8d22771631ba90f1e5ca3746ce53e121d4300"
+    },
+    {
+      "path": "proof/apple-header-uploaded-preview.png",
+      "bytes": 65390,
+      "sha256": "d104a6771c1258cf41ba740dddfceba04604a5c0c7d93052b4b83b9e21c4e7b9"
+    },
+    {
+      "path": "proof/apple-new-native-device-preview.png",
+      "bytes": 73109,
+      "sha256": "af7e554784439ceecef9da810d4805fcba6973c92c2cb7b3c597a0292513b5b2"
+    },
+    {
+      "path": "proof/apple-new-native-screenshots-saved.png",
+      "bytes": 131989,
+      "sha256": "16c6435a4b42535b7e4216063301042834ffb256cbf4a893c82b7180bebec832"
+    },
+    {
+      "path": "proof/apple-new-native-screenshots-version.png",
+      "bytes": 164825,
+      "sha256": "a92d4a279d8f4da5f73d0ea7ec57a2eb6973a625800367b07d248d9561f60840"
+    },
+    {
+      "path": "proof/apple-search-uploaded-preview.png",
+      "bytes": 56710,
+      "sha256": "1624dedd855700c46ee4d951f146e5beaf8800c1ef5f0b654c6d2af6fa2b0fc9"
+    },
+    {
+      "path": "proof/google-new-native-screenshots-saved.png",
+      "bytes": 83195,
+      "sha256": "999c2ac565c0c605023e33d8990db12d9f02b331686189714d3b25b708b01af9"
+    },
+    {
+      "path": "proof/google-play-uploaded-draft.png",
+      "bytes": 68485,
+      "sha256": "0524bc0325c4319fb78bf3cf0a83ed3a915c4ae1b0b6a87c460fae725bec9c29"
+    }
+  ]
+}

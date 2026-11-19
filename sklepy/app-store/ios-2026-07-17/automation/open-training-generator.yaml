@@ -1,0 +1,16 @@
+appId: com.helti.app
+---
+- tapOn: "Trening, tab, 2 of 6"
+- extendedWaitUntil:
+    visible: "Wygeneruj gotowy plan"
+    timeout: 10000
+- scrollUntilVisible:
+    element:
+      text: "Otwórz generator"
+    direction: DOWN
+    timeout: 10000
+- tapOn: "Otwórz generator"
+- extendedWaitUntil:
+    visible: "Nazwa i cel"
+    timeout: 10000
+- waitForAnimationToEnd

@@ -1,0 +1,32 @@
+1. Kalorie pod kontrolą
+Posiłki i makroskładniki w jednym widoku dnia.
+
+2. Gotowy plan posiłków
+Wygeneruj jadłospis i dopracuj go po swojemu.
+Dopisek: Dieta standardowa bezpłatnie. Pozostałe typy w Premium.
+
+3. Dodawaj bez przepisywania
+Zeskanuj kod lub przeanalizuj zdjęcie posiłku.
+Dopisek: Wynik AI sprawdź przed zatwierdzeniem. Obowiązują limity planu.
+
+4. Trening też ma plan
+Układaj treningi i sprawdzaj instrukcje ćwiczeń.
+
+5. Zobacz swoje postępy
+Obserwuj zapisaną wagę i pomiary na wykresach.
+
+6. Zakupy z Twojego planu
+Zbierz produkty z jadłospisu na jednej liście.
+Badge: Premium · własna dieta
+
+7. Plan specjalisty pod ręką
+Odbieraj udostępnione diety i treningi w aplikacji.
+Dopisek: Po połączeniu konta i opublikowaniu planu przez specjalistę.
+
+8. Wracaj do swoich posiłków
+Zapisuj ulubione i dodawaj je do kolejnych dni.
+Dopisek: Do 3 ulubionych bezpłatnie. Bez limitu w Premium.
+
+WARIANT WARUNKOWY8: Wspólne dania, własne porcje
+Korzystaj z planu dla pary od specjalisty.
+Warunek: potwierdzone pary w sklepowym binary.

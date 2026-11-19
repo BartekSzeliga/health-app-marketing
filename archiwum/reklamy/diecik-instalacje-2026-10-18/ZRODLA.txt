@@ -1,0 +1,55 @@
+DIECIK — ŹRÓDŁA MATERIAŁÓW I MUZYKI
+Pakiet: 18.10.2026, rewizja 2
+
+UJĘCIA ILUSTRACYJNE — ISTNIEJĄCE LOKALNE PLIKI PEXELS
+
+Pomysł na posiłek:
+Mikhail Nilov — A Woman Preparing A Bowl Of Fresh Salad, Pexels 6707753.
+https://www.pexels.com/video/a-woman-preparing-a-bowl-of-fresh-salad-6707753/
+Plik: assets/footage/recipes-salad-6707753.mp4
+
+Kalorie, makro i mikroskładniki:
+SHVETS production — Woman Using Cellphone at the Kitchen, Pexels 7198700.
+https://www.pexels.com/video/woman-using-cellphone-at-the-kitchen-7198700/
+Plik: assets/footage/diet-kitchen-7198700.mp4
+
+Plan treningu:
+utopia 36 — Man Exercising with Personal Trainer, Pexels 12188782.
+https://www.pexels.com/video/man-exercising-with-personal-trainer-12188782/
+Plik: assets/footage/training-gym-12188782.mp4
+
+Licencja wszystkich trzech ujęć: Pexels License, https://www.pexels.com/license/
+Strony autorów/ujęć i licencję sprawdzono 18.10.2026. Licencja dopuszcza montaż i wykorzystanie w reklamach. Ujęcia pełnią rolę ilustracyjną; nie przedstawiają rekomendacji Diecika przez aktorów ani opinii klienta.
+Rejestr bieżących kopii, oryginałów, autorstwa i sum plików: assets/footage/sources-r2.json. Kopie są bajtowo zgodne z zachowanymi wcześniejszymi źródłami; montaż kadruje ujęcia, a ich oryginalny dźwięk jest pomijany.
+
+MUZYKA
+
+Trzy nowe filmy mają osobne oryginalne kompozycje rytmiczne przygotowane lokalnie przez Codex dla Diecika:
+- Przepisy: audio/diecik-recipes-groove-r2-20s-120bpm.wav — 120 BPM.
+- Dieta: audio/diecik-diet-groove-r2-20s-124bpm.wav — 124 BPM.
+- Trening: audio/diecik-training-groove-r2-20s-136bpm.wav — 136 BPM.
+Instrumenty, rytm i efekty powstają w syntezie DSP. Nie użyto zewnętrznych nagrań, sampli, gotowych loopów ani wcześniejszego miksu v11. Pliki przeznaczono także do płatnych reklam Diecika.
+Pełny opis: audio/LICENSE-r2.txt
+Źródło syntezy: production/build-rhythmic-audio.py
+Pomiary WAV/AAC: qa/video/audio-r2/music-review.json.
+
+Zachowany oryginalny film „Ulubione posiłki” ma własny, niezmieniony miks B2C v3, również oparty na lokalnej syntezie. Jego opis: ../ulubione-v3-2026-10-01/audio/LICENSES.md
+
+PRAWDZIWE EKRANY APLIKACJI
+
+Nowe zrzuty i nagrania wykonano z natywnego iOS 26.5 przez host GUI Device Hub (Screenshot / Record Screen), w lokalnym środowisku aplikacji z bieżącym JS 1.0.17. Źródłowe zrzuty: 1206×2622 piksele, folder assets/native. Nie zmieniano kodu mobile. Interfejs zachowano; montaż skaluje i kadruje rzeczywiste obrazy.
+
+Dieta i trening przedstawiają własne dane demonstracyjne, zapisane i ponownie odczytane przez rzeczywiste localhost API. Cztery zaplanowane posiłki mają łącznie 1846 kcal. Kalorie, makro i mikroskładniki są podsumowaniem planu według dostępnych danych produktów; nie potwierdzają zjedzenia posiłków ani nie diagnozują niedoborów. Dane nie są historią klienta ani świadectwem efektów aplikacji.
+
+Ekran przepisów: istniejący w katalogu Diecika „Pełnoziarnisty makaron z brokułem, fetą i pomidorkami”, z oryginalnym zdjęciem przepisu. Identyfikator przepisu: 911f8fb5-bba5-47ad-9af9-780aafc9b1d7. Składniki, przygotowanie i źródło zdjęcia potwierdzono przez rzeczywisty odczyt /api/recipes/{id}.
+Zdjęcie z istniejącego katalogu:
+https://helti-prod-product-images-bartekszeliga-20260412.s3.eu-central-1.amazonaws.com/products/app/recipes/2026-08-23/00000000-0000-0000-0000-000000000000/9af3a71e-08b0-5f4b-aa23-124a84221a46.png
+Pochodzenie nowych ekranów i sumy kontrolne: qa/native-provenance.json.
+
+Miniatury ćwiczeń pochodzą z istniejącego katalogu: health-app/scripts/data/training-thumbnails/v1. Do wykonania nowych zrzutów przywrócono lokalny serwer wyłącznie do odczytu, obsługujący już zapisane adresy zdjęć. Pliki zdjęć, dane planu, katalog ćwiczeń i kod aplikacji pozostały bez zmian.
+
+ULUBIONE — ZACHOWANE MATERIAŁY ARCHIWALNE
+
+Karuzela-04-Ulubione-posilki-1x1.jpg korzysta z prawdziwego archiwalnego zrzutu aplikacji: ../ulubione-v3-2026-10-01/assets/context/favorite-list.png. To wcześniejszy ekran, a nie nowa sesja z 18.10.2026.
+
+Diecik-ulubione-posilki-Reels-Stories-20s.mp4 skopiowano bajtowo z ../diecik-brand-v11-2026-10-02/filmy/. Zachowuje malinową miskę i niezmienione UI, wcześniejsze wycięcie tła oraz audio. Dowód: qa/original-preserved.json. Szczegóły pierwotnych źródeł: ../diecik-brand-v11-2026-10-02/pakiet/dokumentacja/ulubione-posilki-zrodla.json.

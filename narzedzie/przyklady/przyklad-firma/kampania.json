@@ -1,0 +1,68 @@
+{
+  "nazwa": "Przykład układu — aplikacja w barwach klienta",
+  "data": "2026-11-19",
+  "typ": "reklama",
+  "odbiorca": "firma",
+  "cel": "materiał do oferty dla firmy",
+  "motyw": "sprzedaz/michalina-gamon/marka/brand.json",
+  "cta": {
+    "plansza": "Aplikacja pod Twoją marką",
+    "podpis": "Dieta, trening i postępy klientów",
+    "przycisk": "Dowiedz się więcej"
+  },
+  "ujawnienie": "Dane przykładowe",
+  "pochodzenie": {
+    "data": "2026-11-18",
+    "urzadzenie": "symulator iOS, build aplikacji firmowej z marką klienta",
+    "konto": "konto demonstracyjne, dane przykładowe",
+    "uwaga": "to przykład układu narzędzia, a nie paczka do publikacji"
+  },
+  "zrodla": {
+    "dieta": {
+      "plik": "zrodla/ekrany/dieta.png",
+      "opis": "Aplikacja firmowa: dieta klienta"
+    },
+    "postepy": {
+      "plik": "zrodla/ekrany/postepy.png",
+      "opis": "Aplikacja firmowa: postępy"
+    }
+  },
+  "tematy": [
+    {
+      "id": "01-Twoja-marka",
+      "nazwa": "Aplikacja w barwach firmy",
+      "etykieta": "Aplikacja dla Twoich klientów",
+      "naglowek": [
+        "Twoja marka.",
+        "Ich plan dnia."
+      ],
+      "tresc": [
+        "Dieta, trening i postępy",
+        "w aplikacji z Twoim logo."
+      ],
+      "uklad": "dwa-telefony",
+      "ekran": "dieta",
+      "ekran2": "postepy",
+      "formaty": [
+        "1x1",
+        "4x5",
+        "9x16"
+      ],
+      "teksty": {
+        "glowny": "Twoi klienci dostają dietę, trening i postępy w aplikacji z Twoim logo i kolorami.",
+        "naglowek": "Aplikacja pod Twoją marką",
+        "opis": "Dieta, trening i postępy."
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Aplikacja firmowa przyjmuje kolory i logo firmy.",
+          "repo": "health-app-company-mobile",
+          "plik": "src/lib/tenant-theme.ts"
+        }
+      ]
+    }
+  ],
+  "uwagi": [
+    "Przykład układu dla aplikacji firmowej. Nie obiecujemy publikacji aplikacji pod nazwą klienta z konta Diecik (Apple 4.2.6); warianty wdrożenia opisuje deck sprzedażowy."
+  ]
+}

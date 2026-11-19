@@ -1,0 +1,34 @@
+Diecik / specjalista / v7 / 2026-10-01
+
+Jedna nowa reklama pionowa, 20 sekund. Koncepcja: „Dieta nie kończy się w gabinecie”.
+Odbiorca: dietetyk prowadzący własnych klientów.
+Insight: wartość zaleceń ujawnia się pomiędzy konsultacjami, kiedy klient wybiera i przygotowuje posiłek.
+Jedna obietnica: klient ma opublikowany jadłospis dietetyka pod ręką w aplikacji Diecik.
+
+0–4 s: prawdziwy ruch człowieka przy laptopie, rozpoznawalny kontekst pracy;
+        „Dietetyku, / dieta nie kończy się / w gabinecie”.
+4–7 s: kuchnia, telefon, przygotowanie posiłku. Dalszy ciąg pracy specjalisty
+        w codziennym użyciu planu; brak fikcyjnej historii konkretnych klientów.
+7–11 s: jeden duży, cały telefon z autentycznym ekranem „Od specjalisty”.
+        „Twój jadłospis.” Krótkie ujawnienie produktu na filmowym tle,
+        bez odtwarzania kliknięć, strzałek, tutorialu lub nawigacji po panelu.
+11–16 s: przygotowanie/posiłek z rzeczywistym ruchem; „Pod ręką klienta.”
+16–20 s: marka, „Zacznij bezpłatnie”, URL diecik.com/specjalista,
+         jawny limit oferty „Do 2 aktywnych klientów”.
+
+Źródła filmowe: licencjonowany stock jako ilustracja zastosowania, nie rekomendacja,
+testymonial ani nagranie faktycznego użytkownika Diecik. Filmowe ujęcia nie pokazują
+realnego odtworzenia jadłospisu konta demonstracyjnego.
+UI: pełny rzeczywisty capture Joanna/Pakiet 5, z dotychczasowego materiału;
+nie podmieniać tekstów i nie sugerować przekazania planu z innego konta.
+Nie obiecywać wyników zdrowotnych, zgodności zachowania klienta ani oszczędności godzin.
+
+Oprawa: ciepły, naturalny obraz + kremowe/pinowe/limonkowe detale marki.
+Montaż filmowy, przemyślany ruch rzeczywistych scen. Jedno stabilne ujęcie produktu.
+Krótkie teksty w bezpiecznej strefie pionowego wideo. Czytelne CTA przez 4 sekundy.
+Dźwięk: własna muzyka DSP i delikatne efekty montażowe, bez fikcyjnych UI taps.
+
+Warunki odbioru: film zaczyna się wydarzeniem; wiadomo, dla kogo i po co;
+UI jest dowodem rezultatu; ruch nie służy podróży po wycinkach ekranu;
+finalne kadry i pełne dekodowanie AV sprawdzone. Własny odbiór nie zastępuje
+oceny użytkownika ani pomiaru skuteczności reklamy. Bez publikacji lub wydatków.

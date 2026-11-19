@@ -1,0 +1,77 @@
+{
+  "freeze_at_utc": "2026-10-30T20:22:29.361878+00:00",
+  "status": "ROOT VISUALLY APPROVED; PNG/SVG FROZEN",
+  "copy": "Dieta i trening\npo Twojemu",
+  "supersedes": "Apple V1 approved graphics only; Google unchanged",
+  "actual_console_observation": "Apple uploader rejected JPG extension; PNG accepted. Full image is downscaled in actual preview, not simply cropped to template safe area.",
+  "full_preview": "apple-v2-full-phone-preview.png",
+  "assets": [
+    {
+      "name": "apple-header-v2-3840x1646",
+      "upload_file": "output/store-promo/2026-10-30/design/exports/apple-header-v2-3840x1646.png",
+      "editable_svg": "output/store-promo/2026-10-30/design/exports/apple-header-v2-3840x1646.svg",
+      "dimensions": [
+        3840,
+        1646
+      ],
+      "format": "PNG",
+      "color_mode": "RGB",
+      "icc": "sRGB",
+      "bytes": 2499495,
+      "sha256": "c86a4d2adf071d764d15b3efc9192a1c6e1fc40e6955c8676a9b08c2ac4bf92d",
+      "svg_sha256": "4e1887491302d15c7ce835c3a860b4784f1ac65a55ba756c7dcc4af0a94653a8",
+      "font_family": "Avenir Next",
+      "headline_native_font_size": 230,
+      "headline_font_size_at_full_width_270": 16.171875,
+      "headline_font_size_at_full_width_390": 23.359375,
+      "actual_text_logo_ink_bounds": [
+        1148,
+        528,
+        2697,
+        1146
+      ],
+      "official_safe_bounds_ltrb": [
+        1097,
+        493,
+        2743,
+        1154
+      ],
+      "root_visual_approval": "V2 approved after viewing FULL images at390 and270px; no reliance on safe crop alone",
+      "photo_note": "1672x941 source unchanged; larger photographic bleed may extend beyond official text safe area; vector text rendered natively"
+    },
+    {
+      "name": "apple-search-v2-3840x2560",
+      "upload_file": "output/store-promo/2026-10-30/design/exports/apple-search-v2-3840x2560.png",
+      "editable_svg": "output/store-promo/2026-10-30/design/exports/apple-search-v2-3840x2560.svg",
+      "dimensions": [
+        3840,
+        2560
+      ],
+      "format": "PNG",
+      "color_mode": "RGB",
+      "icc": "sRGB",
+      "bytes": 3752953,
+      "sha256": "319af68faa3a0c5dbb71556388652f645ef018ccff61aa0d943c1bd8f03e1b27",
+      "svg_sha256": "34d290ffe13091bf6042877f8ddb0e9915e0abd21a678db47c96741d5aebd0c1",
+      "font_family": "Avenir Next",
+      "headline_native_font_size": 240,
+      "headline_font_size_at_full_width_270": 16.875,
+      "headline_font_size_at_full_width_390": 24.375,
+      "actual_text_logo_ink_bounds": [
+        953,
+        963,
+        2570,
+        1718
+      ],
+      "official_safe_bounds_ltrb": [
+        836,
+        765,
+        3004,
+        1795
+      ],
+      "root_visual_approval": "V2 approved after viewing FULL images at390 and270px; no reliance on safe crop alone",
+      "photo_note": "1672x941 source unchanged; larger photographic bleed may extend beyond official text safe area; vector text rendered natively"
+    }
+  ],
+  "upload_status": "SUCCESS: all3 assets uploaded and saved as drafts; actual Apple iPhone V2 previews approved; no publication/review/build change"
+}

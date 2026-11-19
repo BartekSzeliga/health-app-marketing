@@ -1,0 +1,593 @@
+{
+  "frozenAt": "2026-10-30T21:10:39.749310+00:00",
+  "renderCount": 32,
+  "pngCount": 32,
+  "svgCount": 32,
+  "groups": {
+    "ios1206x2622": 8,
+    "ios1284x2778": 8,
+    "ios750x1334": 8,
+    "android1080x1920": 8
+  },
+  "sourceCount": 16,
+  "sourcePolicy": "Fresh actual native captures, iOS/root and Android/agent. No web or archive image used. Source snapshots separately recorded; no claim of byte-identical cross-platform tree or loaded-bundle identity.",
+  "status": "Files frozen. Root owns final store replacement and per-group preview/save verification.",
+  "files": [
+    {
+      "platform": "ios",
+      "file": "exports/ios-1206x2622/01-diet-day-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "pngSha256": "16c05ed6e965e49f7ef92e0cea0d9fad52e2fe9d639d6deadcc98dbd84e1a701",
+      "svg": "exports/ios-1206x2622/01-diet-day-NATIVE.svg",
+      "svgSha256": "b0bba06e1d80cc4dc347508e11d5ebdbb3cbfa6506843fb7bf1da272bf43faa9",
+      "sourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "nativeSource": true,
+      "headline": [
+        "Kalorie",
+        "pod kontrolą"
+      ],
+      "subline": "Posiłki i makro w jednym miejscu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1206x2622/02-generated-plan-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "pngSha256": "3d5e8d84eaed23d8227efd7e9d0e92c55f5db3c31114aa2adbfec59122543674",
+      "svg": "exports/ios-1206x2622/02-generated-plan-NATIVE.svg",
+      "svgSha256": "68428e25a434c1381613bb195849e26271ffae7945f9f4731bf118bc0bb83c2c",
+      "sourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "nativeSource": true,
+      "headline": [
+        "Jadłospis",
+        "po Twojemu"
+      ],
+      "subline": "Wybierz dietę, preferencje i liczbę dni."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1206x2622/03-recipe-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "pngSha256": "f47f17bad6045d37b73e648c144dfbc84c7c2145dd6f13b550d52fc8b5edd7fa",
+      "svg": "exports/ios-1206x2622/03-recipe-NATIVE.svg",
+      "svgSha256": "197b2ea37671f6369cbd71a63979913b5b3a955f8043f6490b970f55e04b36a8",
+      "sourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "nativeSource": true,
+      "headline": [
+        "Przepis",
+        "pod ręką"
+      ],
+      "subline": "Składniki, ilości i sposób przygotowania."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1206x2622/04-training-plan-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "pngSha256": "8d391b8de9709a7ac1f0d6c5b673634679e5b135da74b82bb6f7233b4b58f270",
+      "svg": "exports/ios-1206x2622/04-training-plan-NATIVE.svg",
+      "svgSha256": "5e1827924a70cec5131a798f11beb394252b1dac4dbc15edc278e6b0e7e9df1b",
+      "sourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "nativeSource": true,
+      "headline": [
+        "Twój trening",
+        "krok po kroku"
+      ],
+      "subline": "Ćwiczenia, serie i powtórzenia w planie."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1206x2622/05-exercise-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "pngSha256": "bebdd146e769eb600af592ac639747d86d3a552f7f59d33e915fbefbaab71bdd",
+      "svg": "exports/ios-1206x2622/05-exercise-NATIVE.svg",
+      "svgSha256": "f60026fae88eaff0bebe8be85938f26f9db07e721015b1e3fa5865e96027ff91",
+      "sourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "nativeSource": true,
+      "headline": [
+        "Ćwicz",
+        "z instrukcją"
+      ],
+      "subline": "Wracaj do wskazówek podczas treningu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1206x2622/06-progress-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "pngSha256": "ae48a28cb470f741c9341b62584b17c2e60679f7b7d995c105e8a737ac7c79ca",
+      "svg": "exports/ios-1206x2622/06-progress-NATIVE.svg",
+      "svgSha256": "4a82531fecc5cc1d1c62a734ebb7b2f407a65a381a34ba93804634eb8c089647",
+      "sourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "nativeSource": true,
+      "headline": [
+        "Zapisuj",
+        "swoje postępy"
+      ],
+      "subline": "Pomiary i wykresy w jednym miejscu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1206x2622/07-specialist-diet-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "pngSha256": "af80c8ebd3d8a4643b830049ed118f204db417f9f33016e9798307b25b1c599a",
+      "svg": "exports/ios-1206x2622/07-specialist-diet-NATIVE.svg",
+      "svgSha256": "91d23f25290137541aeac5df188b14bf18ffd39157f8ea53175feca5a76e50ac",
+      "sourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "nativeSource": true,
+      "headline": [
+        "Plan specjalisty",
+        "pod ręką"
+      ],
+      "subline": "Odbieraj udostępnione diety w aplikacji."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1206x2622/08-shopping-NATIVE.png",
+      "size": [
+        1206,
+        2622
+      ],
+      "pngSha256": "2d97cd9f99451e674ebe098c71174fd640093682e4ecadea22d9792e138d2ccf",
+      "svg": "exports/ios-1206x2622/08-shopping-NATIVE.svg",
+      "svgSha256": "2350d33cac0b5d3ca63abdc464c3e1f150dd7b4854a4ee3ece01f101e7769d11",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "nativeSource": true,
+      "headline": [
+        "Lista zakupów",
+        "z Twojego planu"
+      ],
+      "subline": "Produkty z własnej diety · Premium."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1284x2778/01-diet-day-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "pngSha256": "f7b699691ecd8bf19609c006c2f97e00653013815b036577836645d51b74957e",
+      "svg": "exports/ios-1284x2778/01-diet-day-NATIVE.svg",
+      "svgSha256": "d16c103001525da1f781e23e7b2f022205939ca194a2d2ca19a4239be2f69bf9",
+      "sourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "nativeSource": true,
+      "headline": [
+        "Kalorie",
+        "pod kontrolą"
+      ],
+      "subline": "Posiłki i makro w jednym miejscu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1284x2778/02-generated-plan-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "pngSha256": "bbe163e50b96a9bf345b793457b4847ba8466ab9ba3ff8cb7691cd58e19d337b",
+      "svg": "exports/ios-1284x2778/02-generated-plan-NATIVE.svg",
+      "svgSha256": "835cef0752d7ac3afa2933e00e9df1cfdbb2464004aff48123126481d9040e8e",
+      "sourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "nativeSource": true,
+      "headline": [
+        "Jadłospis",
+        "po Twojemu"
+      ],
+      "subline": "Wybierz dietę, preferencje i liczbę dni."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1284x2778/03-recipe-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "pngSha256": "83696174ae72acc47cd5a888c6370f0d572466e21b1057ea1b2d4eefbb32fac9",
+      "svg": "exports/ios-1284x2778/03-recipe-NATIVE.svg",
+      "svgSha256": "785e3d34b855df7d18acc4d8b46ad793a7a7b5ac410cbbb9a9c02e5ec74d51ec",
+      "sourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "nativeSource": true,
+      "headline": [
+        "Przepis",
+        "pod ręką"
+      ],
+      "subline": "Składniki, ilości i sposób przygotowania."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1284x2778/04-training-plan-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "pngSha256": "05b1d2ccb94e524a67b2178b950cce14ed42f6c6074278866052aa6adc57e4cd",
+      "svg": "exports/ios-1284x2778/04-training-plan-NATIVE.svg",
+      "svgSha256": "a265815d77e516f20de9cf2beef44ea25065e5ea107017ab3f2a3d3fdd00eebe",
+      "sourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "nativeSource": true,
+      "headline": [
+        "Twój trening",
+        "krok po kroku"
+      ],
+      "subline": "Ćwiczenia, serie i powtórzenia w planie."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1284x2778/05-exercise-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "pngSha256": "9f77d3bbe0499984acd01b8fd9dfa4289e2097a368fbf66e8dfd2b0d0afc10aa",
+      "svg": "exports/ios-1284x2778/05-exercise-NATIVE.svg",
+      "svgSha256": "dbbab09a0665b179f464ccb03eedcf9e4fe45d26373af505fa370e0f56b492f4",
+      "sourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "nativeSource": true,
+      "headline": [
+        "Ćwicz",
+        "z instrukcją"
+      ],
+      "subline": "Wracaj do wskazówek podczas treningu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1284x2778/06-progress-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "pngSha256": "21508a9d08d0345b71a89952b116a2d55ffbc29adbe416f31410347a0ee51c94",
+      "svg": "exports/ios-1284x2778/06-progress-NATIVE.svg",
+      "svgSha256": "694928690228dfc7693f669ad1e06bd37ed785a77c3ec1ab525a6eb0def9f707",
+      "sourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "nativeSource": true,
+      "headline": [
+        "Zapisuj",
+        "swoje postępy"
+      ],
+      "subline": "Pomiary i wykresy w jednym miejscu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1284x2778/07-specialist-diet-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "pngSha256": "a8d5be728caab5b3afe7f5bdd8a9163662cbc33f6f37633f228b23dc6e5fa3fd",
+      "svg": "exports/ios-1284x2778/07-specialist-diet-NATIVE.svg",
+      "svgSha256": "d4a6a8da5376ce70921c246a28f8e691fe4d11422bd435805b63b7a4e0c43078",
+      "sourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "nativeSource": true,
+      "headline": [
+        "Plan specjalisty",
+        "pod ręką"
+      ],
+      "subline": "Odbieraj udostępnione diety w aplikacji."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-1284x2778/08-shopping-NATIVE.png",
+      "size": [
+        1284,
+        2778
+      ],
+      "pngSha256": "e3f61513fa037712ef5795f38f1ae8457934665d89241ebbb18ba4b444a6fdfe",
+      "svg": "exports/ios-1284x2778/08-shopping-NATIVE.svg",
+      "svgSha256": "049628dce8e474494115790304c2afacd9addaf86d6472c6315f861bb024d84e",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "nativeSource": true,
+      "headline": [
+        "Lista zakupów",
+        "z Twojego planu"
+      ],
+      "subline": "Produkty z własnej diety · Premium."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-750x1334/01-diet-day-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "pngSha256": "0eab74ccee05759251bb986ba032de4f3d4a16a73a27eb1c438e539fe63126b8",
+      "svg": "exports/ios-750x1334/01-diet-day-NATIVE.svg",
+      "svgSha256": "be4d0f13a64bb6af73d2c52892688971acdc4a880a31259515d88fd99cd1e0d9",
+      "sourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "nativeSource": true,
+      "headline": [
+        "Kalorie",
+        "pod kontrolą"
+      ],
+      "subline": "Posiłki i makro w jednym miejscu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-750x1334/02-generated-plan-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "pngSha256": "38423e49df0013bfa5179aaca5a2540436b74d467750d3492ed7d609e795a728",
+      "svg": "exports/ios-750x1334/02-generated-plan-NATIVE.svg",
+      "svgSha256": "a0d2627635d9df09ed87d5d37a606b159cd0d0ce5daae0b4827840519b98efe8",
+      "sourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "nativeSource": true,
+      "headline": [
+        "Jadłospis",
+        "po Twojemu"
+      ],
+      "subline": "Wybierz dietę, preferencje i liczbę dni."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-750x1334/03-recipe-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "pngSha256": "bd45b9c0c2a86f9f49dc0942c8d8bfccd941e7738fd5723c7b166f8a965d1261",
+      "svg": "exports/ios-750x1334/03-recipe-NATIVE.svg",
+      "svgSha256": "1f15f115616a3bcb549cde50cc1d9a043a9243b69ccb2b086d655a114c604073",
+      "sourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "nativeSource": true,
+      "headline": [
+        "Przepis",
+        "pod ręką"
+      ],
+      "subline": "Składniki, ilości i sposób przygotowania."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-750x1334/04-training-plan-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "pngSha256": "dd998989dfbcff0ac8c4190e8e18fae820a880e4be87117f3d242a6edba97306",
+      "svg": "exports/ios-750x1334/04-training-plan-NATIVE.svg",
+      "svgSha256": "dcc05fe148fa9d1a51e321676a97c37c54a07981edd646a000a62eaf939493c1",
+      "sourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "nativeSource": true,
+      "headline": [
+        "Twój trening",
+        "krok po kroku"
+      ],
+      "subline": "Ćwiczenia, serie i powtórzenia w planie."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-750x1334/05-exercise-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "pngSha256": "0725b453fa6e397616e00e777adc43433747a203ca47fb0629813dbf9ed3b806",
+      "svg": "exports/ios-750x1334/05-exercise-NATIVE.svg",
+      "svgSha256": "3b13dc193851771c19dc64b8f6edbb8dda4d8698a9017e39f62a09d693de1dd6",
+      "sourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "nativeSource": true,
+      "headline": [
+        "Ćwicz",
+        "z instrukcją"
+      ],
+      "subline": "Wracaj do wskazówek podczas treningu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-750x1334/06-progress-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "pngSha256": "f487a273de2915f0fbc04850a3ee00af2e1e0c168f2c47756e978dfe0953ee9b",
+      "svg": "exports/ios-750x1334/06-progress-NATIVE.svg",
+      "svgSha256": "6cf3f98885a885cab9c5e404f06f31f324451a280f3ab4b6ef6b25eedebd3955",
+      "sourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "nativeSource": true,
+      "headline": [
+        "Zapisuj",
+        "swoje postępy"
+      ],
+      "subline": "Pomiary i wykresy w jednym miejscu."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-750x1334/07-specialist-diet-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "pngSha256": "070739a0c3371e94a26e39696b5bcb3ddbf0d8396bce92ca788536eaae365444",
+      "svg": "exports/ios-750x1334/07-specialist-diet-NATIVE.svg",
+      "svgSha256": "af1e7d1d6252055e35aee2613ded0c93aa4df6d2cd22c6681abd515edf21d30b",
+      "sourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "nativeSource": true,
+      "headline": [
+        "Plan specjalisty",
+        "pod ręką"
+      ],
+      "subline": "Odbieraj udostępnione diety w aplikacji."
+    },
+    {
+      "platform": "ios",
+      "file": "exports/ios-750x1334/08-shopping-NATIVE.png",
+      "size": [
+        750,
+        1334
+      ],
+      "pngSha256": "345214d37a3fb6bec900b33cf230ebb5442bc3f5f40d5a042b5e3992d12f770c",
+      "svg": "exports/ios-750x1334/08-shopping-NATIVE.svg",
+      "svgSha256": "f1a861757d2119049db048bc842e3cab24e7384619e7d3570a6d83f15f025569",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "nativeSource": true,
+      "headline": [
+        "Lista zakupów",
+        "z Twojego planu"
+      ],
+      "subline": "Produkty z własnej diety · Premium."
+    },
+    {
+      "platform": "android",
+      "file": "exports/android-1080x1920/01-diet-day-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "pngSha256": "cb4cee875c3a55364d0a7538c1e28110eb57809871c54e5167ea6a11e25184d9",
+      "svg": "exports/android-1080x1920/01-diet-day-NATIVE.svg",
+      "svgSha256": "0bb64d1ad52c0028534bb15f1e084432ff7b6184bf1452915df2934e193d8198",
+      "sourceSha256": "a7a06c7b227b049ad6596aa089b5c6f783a0669493b2bf3049b7f157add72545",
+      "nativeSource": true,
+      "headline": [
+        "Kalorie",
+        "pod kontrolą"
+      ],
+      "subline": "Posiłki i makro w jednym miejscu."
+    },
+    {
+      "platform": "android",
+      "file": "exports/android-1080x1920/02-generated-plan-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "pngSha256": "95e8bf49141bab871d9323dd88aff35939aad92f77548e7a075e9555b531367d",
+      "svg": "exports/android-1080x1920/02-generated-plan-NATIVE.svg",
+      "svgSha256": "1b6045ba9369ea2c2dea0773e7b5af9f39f3e37f97a450446d9451b82eea4a74",
+      "sourceSha256": "673b0f6fc1d177592cdcaee16fad5e91469ef91af9cae01cf4feab362bb0c840",
+      "nativeSource": true,
+      "headline": [
+        "Jadłospis",
+        "po Twojemu"
+      ],
+      "subline": "Wybierz dietę, preferencje i liczbę dni."
+    },
+    {
+      "platform": "android",
+      "file": "exports/android-1080x1920/03-recipe-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "pngSha256": "31bbb1e86f99b7412bbb8a38ce0375cd8477cd8c4e03a177d99dae942485bc17",
+      "svg": "exports/android-1080x1920/03-recipe-NATIVE.svg",
+      "svgSha256": "8d58d29c318f2fed963478cb8902aa23c107028d144f0bd1ba755b1c685cc90c",
+      "sourceSha256": "0f6c658d122883593c7685e68e27f5d7446bafe5b06def00856ba7f5a9e87190",
+      "nativeSource": true,
+      "headline": [
+        "Przepis",
+        "pod ręką"
+      ],
+      "subline": "Składniki, ilości i sposób przygotowania."
+    },
+    {
+      "platform": "android",
+      "file": "exports/android-1080x1920/04-training-plan-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "pngSha256": "ba29a0f3da2f6bbecbacb53000a32b99a7ed1fc1cf73bbcde72b21cee17610cd",
+      "svg": "exports/android-1080x1920/04-training-plan-NATIVE.svg",
+      "svgSha256": "8ad65327c660c2367d02352b9d40166d133cb93569370cbdfb291f60068c85ea",
+      "sourceSha256": "a1ef1edf72e9465b8c593c65c53e6f35c5089ec0d9210342c6a4713297eefdc3",
+      "nativeSource": true,
+      "headline": [
+        "Twój trening",
+        "krok po kroku"
+      ],
+      "subline": "Ćwiczenia, serie i powtórzenia w planie."
+    },
+    {
+      "platform": "android",
+      "file": "exports/android-1080x1920/05-exercise-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "pngSha256": "72fd882098847bd523555e17c8984040f29e9d0219d7e4c772dcecfb0271ff00",
+      "svg": "exports/android-1080x1920/05-exercise-NATIVE.svg",
+      "svgSha256": "90092c6099a0203cd3e515fa715008e7ac4e6bbde05b1929b67365b200f30795",
+      "sourceSha256": "15a32fff310b3fc5330fcc18caeae8f8e6922957c3d05f360d78387f5333e525",
+      "nativeSource": true,
+      "headline": [
+        "Ćwicz",
+        "z instrukcją"
+      ],
+      "subline": "Wracaj do wskazówek podczas treningu."
+    },
+    {
+      "platform": "android",
+      "file": "exports/android-1080x1920/06-progress-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "pngSha256": "7e9ad066033f6e5bb816990795837566fa86c8573cf03c161264eabfa7415464",
+      "svg": "exports/android-1080x1920/06-progress-NATIVE.svg",
+      "svgSha256": "22e3d7133dd90c1719bd6b25bcf8704d46d2f9b29cedebb33451b0e662a25629",
+      "sourceSha256": "2c0b777da0171dac98180ea788305c1c94cfdb60c18212b927f5fe49dbf8203e",
+      "nativeSource": true,
+      "headline": [
+        "Zapisuj",
+        "swoje postępy"
+      ],
+      "subline": "Pomiary i wykresy w jednym miejscu."
+    },
+    {
+      "platform": "android",
+      "file": "exports/android-1080x1920/07-specialist-diet-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "pngSha256": "4fa38a7149194617979a9acbbefd9ea7d4a1fda411ec644148da92b6f3749b84",
+      "svg": "exports/android-1080x1920/07-specialist-diet-NATIVE.svg",
+      "svgSha256": "da40f621a1851afb47ca38e6b8ff1df1f9a439c11ffd16872f9377aae58cffd8",
+      "sourceSha256": "6c4f74f22376819b3bac494f0147f4390a1aaed68f6f53e8a0ff27a3ad3a3b34",
+      "nativeSource": true,
+      "headline": [
+        "Plan specjalisty",
+        "pod ręką"
+      ],
+      "subline": "Odbieraj udostępnione diety w aplikacji."
+    },
+    {
+      "platform": "android",
+      "file": "exports/android-1080x1920/08-shopping-NATIVE.png",
+      "size": [
+        1080,
+        1920
+      ],
+      "pngSha256": "8531b344bc0a3d146187a918ff80aedc60e11438a6285b8dcd744ad6cd9f7d9e",
+      "svg": "exports/android-1080x1920/08-shopping-NATIVE.svg",
+      "svgSha256": "37ebe98196822ab23a771c7ab5b5e9ebf943aa08b96a6cf0f9917735e36c711c",
+      "sourceSha256": "bd72a73b5b8571b61f0efa8f4a8f07892d37ce273c795eaa7bc986768f12f464",
+      "nativeSource": true,
+      "headline": [
+        "Lista zakupów",
+        "z Twojego planu"
+      ],
+      "subline": "Produkty z własnej diety · Premium."
+    }
+  ]
+}

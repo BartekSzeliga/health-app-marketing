@@ -1,0 +1,4 @@
+appId: com.apple.springboard
+---
+- tapOn: "Otwórz"
+- waitForAnimationToEnd

@@ -1,0 +1,33 @@
+Diecik — dietetyk i trener personalny — v8 — 2026-10-01
+
+Akceptacja użytkownika: filmowa koncepcja v7. Zachować 20s, rytm,
+markę, prosty przekaz i własną muzykę. Zmienić wskazane obrazy.
+
+DIETETYK — „Dieta nie kończy się w gabinecie”
+0–4: ta sama osoba przy laptopie z autentycznym panelem dietetycznym.
+     UI z pełnego istniejącego capture kompozytowane perspektywicznie,
+     z ruchem i maską dłoni. Hook przeniesiony ponad ekran laptopa.
+4–7: nowa osoba z telefonem w jasnej kuchni, neutralne dla polskiego rynku otoczenie.
+7–11: zaakceptowany cały autentyczny ekran opublikowanego jadłospisu.
+11–16: zaakceptowane przygotowanie posiłku, „Pod ręką klienta”.
+16–20: zaakceptowana marka i oferta Free do 2 aktywnych klientów.
+
+TRENER — „Twoje wsparcie także między treningami”
+0–4: praca przy laptopie z autentycznym treningowym panelem specjalisty.
+4–7: rzeczywisty trener i ćwiczący klient — ilustracja kontekstu.
+7–11: pełny autentyczny ekran ćwiczeń w Dieciku; „Ćwiczenia. Serie. Powtórzenia.”
+11–16: ta sama para przy ćwiczeniu, „Pod ręką klienta”.
+16–20: marka, „Plan treningowy w aplikacji klienta”, Free do 2 aktywnych klientów.
+
+Telefon w spocie trenera jest wypełnionym „Moje treningi” i pokazuje treść
+ćwiczeń. Nie podmieniamy zakładki ani nie nazywamy tego capture otrzymanym
+planem od trenera. Możliwość publikacji treningu potwierdza kod produktu;
+różne źródła nie dowodzą przekazania tego samego planu. Brak fikcyjnej sesji
+realnego klienta/modelki. Te granice źródeł są dokumentowane poza reklamą.
+
+Bez strzałek, kursorów, kroków i zewnętrznych etykiet DEMO. Jeden czytelny
+produktowy kadr, bez powrotu do tutorialu. Dwa osobne filmy o dwóch zastosowaniach.
+Żadnych obietnic wyników zdrowotnych, efektów sylwetkowych, oszczędności godzin,
+całodobowej odpowiedzi ani potwierdzonego monitorowania wykonania ćwiczeń.
+Źródła/licencje/casting: dobór wizualny, nie przypisywanie narodowości lub kwalifikacji.
+Bez publikacji lub wydatków.

@@ -1,0 +1,16 @@
+appId: com.helti.app
+---
+- tapOn: "Wysokobiałkowa - Premium"
+- scrollUntilVisible:
+    element:
+      text: "Preferencje smakowe"
+    direction: DOWN
+    timeout: 20000
+- swipe:
+    start: "50%,75%"
+    end: "50%,40%"
+    duration: 500
+- tapOn: "wysokobialkowe"
+- tapOn: "szybkie"
+- tapOn: "tanie"
+- waitForAnimationToEnd

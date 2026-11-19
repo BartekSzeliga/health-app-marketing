@@ -1,0 +1,44 @@
+{
+  "slug": "fabryka-ruchu",
+  "displayName": "Fabryka Ruchu",
+  "bundleId": "pl.fabrykaruchu.app",
+  "scheme": "pl.fabrykaruchu.app",
+  "keycloakClientId": "company-fabryka-ruchu-mobile",
+  "supportEmail": "fabrykaruchu0@gmail.com",
+  "colors": {
+    "light": {
+      "primary": "#572b07",
+      "onPrimary": "#ffffff",
+      "primaryContainer": "#f1e6db",
+      "onPrimaryContainer": "#3d1d04"
+    },
+    "dark": {
+      "primary": "#d9b99b",
+      "onPrimary": "#3d1d04",
+      "primaryContainer": "#5c3a1f",
+      "onPrimaryContainer": "#f5e6d8"
+    }
+  },
+  "navigation": {
+    "background": "#1c1917",
+    "border": "#2f2a26",
+    "inactive": "#cfc5bb",
+    "activeLabel": "#d9b99b",
+    "activeContainer": "#8a5a32",
+    "activeIcon": "#ffffff"
+  },
+  "icon": "icon.png",
+  "adaptiveIcon": {
+    "foregroundImage": "adaptive-icon.png",
+    "backgroundColor": "#1c1917"
+  },
+  "splash": {
+    "image": "splash-icon.png",
+    "backgroundColor": "#f5f1ee"
+  },
+  "logo": "logo.png",
+  "eas": {
+    "projectId": null,
+    "owner": null
+  }
+}

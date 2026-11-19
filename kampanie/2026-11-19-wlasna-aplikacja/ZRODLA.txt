@@ -1,0 +1,51 @@
+Diecik · pochodzenie materiałów · 19.11.2026
+Kampania: Diecik — własna aplikacja dla firm
+
+1. UJĘCIA
+data: 2026-11-19
+urzadzenie: natywne zrzuty iOS 1206×2622 z aplikacji firmowej
+(health-app-company-mobile), firma demonstracyjna z logo „F.”
+konto: konto demonstracyjne klienta firmy demo, plan „Od specjalisty”; bez
+danych realnych osób
+pliki: kopie
+health-app-frontend/public/marketing/company-app-{wellness,sport,classic,progress}-20261119.webp
+— te same ekrany są opublikowane na diecik.com/aplikacja-dla-firmy
+obrobka: jednolite skalowanie i ramka telefonu; bez retuszu interfejsu
+
+zrodla/ekrany/aplikacja-firmy-wellness.webp — Aplikacja firmowa, styl Wellness: dieta od specjalisty z logo firmy
+zrodla/ekrany/aplikacja-firmy-sport.webp — Aplikacja firmowa, styl Sportowy: ten sam ekran w ciemnym stylu
+zrodla/ekrany/aplikacja-firmy-classic.webp — Aplikacja firmowa, styl Klasyczny: ten sam ekran w jasnym stylu z indygo
+
+2. DOWODY TWIERDZEŃ
+Aplikacja z Twoim logo:
+- Aplikacja firmy ma trzy style wyglądu: Klasyczny, Sportowy i Wellness.
+  health-app-company-mobile/src/lib/app-style.ts:2–3
+- Aplikacja przyjmuje paletę kolorów firmy.
+  health-app-company-mobile/src/lib/tenant-theme.ts:8–16
+- Firma włącza w aplikacji moduły: dieta, treningi, postępy, ankiety, czat.
+  health-app-company-mobile/src/features/app-features/app-features.ts
+- Oferta ze strony: aplikacja z nazwą, logo i kolorami firmy w App Store i
+Google Play; publikacja i aktualizacje po stronie Diecika; prowadzenie
+klientów i własna aplikacja od 600 zł brutto miesięcznie.
+  health-app-frontend/src/pages/PublicCompanyApp.tsx:166, 332
+
+Stan repo produktu w chwili budowania:
+health-app-company-mobile HEAD dc3f3f6261e2d572a96011e3385cf61478b94511
+health-app-frontend HEAD 687885dd2e8a74dc73427da3b60a0bf62f855cd6
+
+3. OBRÓBKA
+Ekrany aplikacji są tylko jednolicie skalowane, oprawione w ramkę i kadrowane.
+Narzędzie nie dopisuje do interfejsu etykiet, przycisków, liczb ani treści.
+Nagrania grają w tempie 1×; cięcia mogą pomijać oczekiwanie, nie dodają
+kliknięć.
+
+4. ZAKRES PRZEKAZU
+- Aplikacja jest publikowana na kontach deweloperskich firmy w App Store i
+Google Play, które firma zakłada według instrukcji. Nie obiecujemy publikacji
+pod nazwą klienta z konta Diecika.
+- Nie podajemy terminu wdrożenia: zależy od weryfikacji kont i aplikacji przez
+Apple i Google.
+- Cena „od 600 zł brutto miesięcznie” pochodzi ze strony
+diecik.com/aplikacja-dla-firmy, stan na 19.11.2026. Przed emisją potwierdź, że
+strona nadal ją podaje.
+- Nie obiecujemy pozyskania klientów ani wyniku finansowego.

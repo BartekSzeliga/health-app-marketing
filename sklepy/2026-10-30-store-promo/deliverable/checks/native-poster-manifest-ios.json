@@ -1,0 +1,1736 @@
+{
+  "generatedAt": "2026-10-30T20:59:58.035Z",
+  "config": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/posters.current-native-ios.json",
+  "provenance": "Code-native SVG composition; genuine UI embedded unchanged and scaled uniformly. Every source status and OS-only crop is recorded per output. No fabricated UI, device hardware or status bar.",
+  "outputs": [
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/01-own-diet.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Visually inspected native capture; remove only OS status/inset. Keep full app header/back bar, actual content and navigation; no UI retouch.",
+      "uniformScale": 0.7664917541229386,
+      "uiBounds": {
+        "x": 97.11544227886054,
+        "y": 443,
+        "width": 1011.7691154422789,
+        "height": 2045
+      },
+      "uiHeightFraction": 0.7799389778794813,
+      "outputSize": {
+        "width": 1206,
+        "height": 2622
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/01-diet-day-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/01-diet-day-NATIVE.svg",
+      "outputPngSha256": "16c05ed6e965e49f7ef92e0cea0d9fad52e2fe9d639d6deadcc98dbd84e1a701",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Kalorie\npod kontrolą",
+        "renderedLines": [
+          "Kalorie",
+          "pod kontrolą"
+        ],
+        "headlineSize": 124,
+        "subline": "Posiłki i makro w jednym miejscu.",
+        "sublineSize": 39,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 102.052001953125,
+              "y": 68.2559814453125,
+              "width": 392.0880126953125,
+              "height": 95.72802734375
+            },
+            {
+              "x": 100.93599700927734,
+              "y": 200.2559814453125,
+              "width": 713.3720703125,
+              "height": 123.5040283203125
+            }
+          ],
+          "subline": {
+            "x": 98.35400390625,
+            "y": 342.5159912109375,
+            "width": 572.5480346679688,
+            "height": 38.843994140625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/02-generator.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "ConfirmedOSstatus/inset200px; actual Generator tygodnia appcard starts about235px and remains complete.",
+      "uniformScale": 0.7664917541229386,
+      "uiBounds": {
+        "x": 97.11544227886054,
+        "y": 443,
+        "width": 1011.7691154422789,
+        "height": 2045
+      },
+      "uiHeightFraction": 0.7799389778794813,
+      "outputSize": {
+        "width": 1206,
+        "height": 2622
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/02-generated-plan-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/02-generated-plan-NATIVE.svg",
+      "outputPngSha256": "3d5e8d84eaed23d8227efd7e9d0e92c55f5db3c31114aa2adbfec59122543674",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Jadłospis\npo Twojemu",
+        "renderedLines": [
+          "Jadłospis",
+          "po Twojemu"
+        ],
+        "headlineSize": 124,
+        "subline": "Wybierz dietę, preferencje i liczbę dni.",
+        "sublineSize": 39,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 92.62799835205078,
+              "y": 68.2559814453125,
+              "width": 529.7279663085938,
+              "height": 123.5040283203125
+            },
+            {
+              "x": 100.93599700927734,
+              "y": 201.37200927734375,
+              "width": 681.132080078125,
+              "height": 122.38800048828125
+            }
+          ],
+          "subline": {
+            "x": 95.38999938964844,
+            "y": 342.0479736328125,
+            "width": 660.0750732421875,
+            "height": 39.31201171875
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/03b-recipe-steps.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 120,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Visually inspected native capture; remove only OS status/inset. Keep full app header/back bar, actual content and navigation; no UI retouch.",
+      "uniformScale": 0.7441775836972343,
+      "uiBounds": {
+        "x": 111.84279475982538,
+        "y": 443,
+        "width": 982.3144104803492,
+        "height": 2044.9999999999998
+      },
+      "uiHeightFraction": 0.7799389778794812,
+      "outputSize": {
+        "width": 1206,
+        "height": 2622
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/03-recipe-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/03-recipe-NATIVE.svg",
+      "outputPngSha256": "f47f17bad6045d37b73e648c144dfbc84c7c2145dd6f13b550d52fc8b5edd7fa",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Przepis\npod ręką",
+        "renderedLines": [
+          "Przepis",
+          "pod ręką"
+        ],
+        "headlineSize": 124,
+        "subline": "Składniki, ilości i sposób przygotowania.",
+        "sublineSize": 39,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 102.052001953125,
+              "y": 69.37200927734375,
+              "width": 399.0320129394531,
+              "height": 122.38800048828125
+            },
+            {
+              "x": 100.93599700927734,
+              "y": 200.2559814453125,
+              "width": 490.9159851074219,
+              "height": 123.5040283203125
+            }
+          ],
+          "subline": {
+            "x": 96.44300079345703,
+            "y": 342.5159912109375,
+            "width": 693.8059692382812,
+            "height": 38.843994140625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/04-training.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Root and compositor inspected1320x2868 capture: first app card starts about235px. Crop top200 removes only actualOSstatus/inset and preserves entire header, exercise list, photos and native bottom navigation.",
+      "uniformScale": 0.7664917541229386,
+      "uiBounds": {
+        "x": 97.11544227886054,
+        "y": 443,
+        "width": 1011.7691154422789,
+        "height": 2045
+      },
+      "uiHeightFraction": 0.7799389778794813,
+      "outputSize": {
+        "width": 1206,
+        "height": 2622
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/04-training-plan-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/04-training-plan-NATIVE.svg",
+      "outputPngSha256": "8d391b8de9709a7ac1f0d6c5b673634679e5b135da74b82bb6f7233b4b58f270",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Twój trening\nkrok po kroku",
+        "renderedLines": [
+          "Twój trening",
+          "krok po kroku"
+        ],
+        "headlineSize": 124,
+        "subline": "Ćwiczenia, serie i powtórzenia w planie.",
+        "sublineSize": 39,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 93.62000274658203,
+              "y": 69.37200927734375,
+              "width": 696.0120239257812,
+              "height": 122.38800048828125
+            },
+            {
+              "x": 101.05999755859375,
+              "y": 200.2559814453125,
+              "width": 774.008056640625,
+              "height": 123.5040283203125
+            }
+          ],
+          "subline": {
+            "x": 96.94999694824219,
+            "y": 342.5880126953125,
+            "width": 684.06005859375,
+            "height": 44.77197265625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/05-exercise-instruction.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 0,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Full native screenshot retained: OS status/island overlaps modal underlay, so no crop is safe.",
+      "uniformScale": 0.7130404463040446,
+      "uiBounds": {
+        "x": 132.39330543933056,
+        "y": 443,
+        "width": 941.2133891213389,
+        "height": 2045
+      },
+      "uiHeightFraction": 0.7799389778794813,
+      "outputSize": {
+        "width": 1206,
+        "height": 2622
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/05-exercise-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/05-exercise-NATIVE.svg",
+      "outputPngSha256": "bebdd146e769eb600af592ac639747d86d3a552f7f59d33e915fbefbaab71bdd",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Ćwicz\nz instrukcją",
+        "renderedLines": [
+          "Ćwicz",
+          "z instrukcją"
+        ],
+        "headlineSize": 124,
+        "subline": "Wracaj do wskazówek podczas treningu.",
+        "sublineSize": 39,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 97.95999908447266,
+              "y": 49.40802001953125,
+              "width": 328.10400390625,
+              "height": 114.947998046875
+            },
+            {
+              "x": 97.21600341796875,
+              "y": 200.2559814453125,
+              "width": 621.7360229492188,
+              "height": 123.5040283203125
+            }
+          ],
+          "subline": {
+            "x": 95.38999938964844,
+            "y": 342.5159912109375,
+            "width": 702.1680297851562,
+            "height": 38.843994140625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/06-progress.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Only confirmedOSstatus/inset200px; entire app card, graph or shared-plan UI and native navigation preserved.",
+      "uniformScale": 0.7664917541229386,
+      "uiBounds": {
+        "x": 97.11544227886054,
+        "y": 443,
+        "width": 1011.7691154422789,
+        "height": 2045
+      },
+      "uiHeightFraction": 0.7799389778794813,
+      "outputSize": {
+        "width": 1206,
+        "height": 2622
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/06-progress-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/06-progress-NATIVE.svg",
+      "outputPngSha256": "ae48a28cb470f741c9341b62584b17c2e60679f7b7d995c105e8a737ac7c79ca",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Zapisuj\nswoje postępy",
+        "renderedLines": [
+          "Zapisuj",
+          "swoje postępy"
+        ],
+        "headlineSize": 124,
+        "subline": "Pomiary i wykresy w jednym miejscu.",
+        "sublineSize": 39,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 97.83599853515625,
+              "y": 69.37200927734375,
+              "width": 399.7760009765625,
+              "height": 122.38800048828125
+            },
+            {
+              "x": 94.36399841308594,
+              "y": 201.37200927734375,
+              "width": 823.7319946289062,
+              "height": 122.38800048828125
+            }
+          ],
+          "subline": {
+            "x": 98.35400390625,
+            "y": 342.5159912109375,
+            "width": 632.444091796875,
+            "height": 38.843994140625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/07-specialist-diet.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Only confirmedOSstatus/inset200px; entire app card, graph or shared-plan UI and native navigation preserved.",
+      "uniformScale": 0.7664917541229386,
+      "uiBounds": {
+        "x": 97.11544227886054,
+        "y": 443,
+        "width": 1011.7691154422789,
+        "height": 2045
+      },
+      "uiHeightFraction": 0.7799389778794813,
+      "outputSize": {
+        "width": 1206,
+        "height": 2622
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/07-specialist-diet-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/07-specialist-diet-NATIVE.svg",
+      "outputPngSha256": "af80c8ebd3d8a4643b830049ed118f204db417f9f33016e9798307b25b1c599a",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Plan specjalisty\npod ręką",
+        "renderedLines": [
+          "Plan specjalisty",
+          "pod ręką"
+        ],
+        "headlineSize": 124,
+        "subline": "Odbieraj udostępnione diety w aplikacji.",
+        "sublineSize": 39,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 102.052001953125,
+              "y": 68.2559814453125,
+              "width": 852.0040283203125,
+              "height": 123.5040283203125
+            },
+            {
+              "x": 100.93599700927734,
+              "y": 200.2559814453125,
+              "width": 490.9159851074219,
+              "height": 123.5040283203125
+            }
+          ],
+          "subline": {
+            "x": 96.94999694824219,
+            "y": 342.5159912109375,
+            "width": 700.3231201171875,
+            "height": 38.843994140625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/08-shopping.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 120,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Native backbar begins above appcard; only120pxOSstatus crop preserves complete Lista zakupow header and native list.",
+      "uniformScale": 0.7441775836972343,
+      "uiBounds": {
+        "x": 111.84279475982538,
+        "y": 443,
+        "width": 982.3144104803492,
+        "height": 2044.9999999999998
+      },
+      "uiHeightFraction": 0.7799389778794812,
+      "outputSize": {
+        "width": 1206,
+        "height": 2622
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/08-shopping-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/08-shopping-NATIVE.svg",
+      "outputPngSha256": "2d97cd9f99451e674ebe098c71174fd640093682e4ecadea22d9792e138d2ccf",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Lista zakupów\nz Twojego planu",
+        "renderedLines": [
+          "Lista zakupów",
+          "z Twojego planu"
+        ],
+        "headlineSize": 124,
+        "subline": "Produkty z własnej diety · Premium.",
+        "sublineSize": 39,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 102.052001953125,
+              "y": 68.2559814453125,
+              "width": 796.5760498046875,
+              "height": 123.5040283203125
+            },
+            {
+              "x": 97.21600341796875,
+              "y": 200.2559814453125,
+              "width": 908.1759643554688,
+              "height": 123.5040283203125
+            }
+          ],
+          "subline": {
+            "x": 98.35400390625,
+            "y": 342.5159912109375,
+            "width": 604.4420776367188,
+            "height": 38.843994140625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/01-own-diet.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Visually inspected native capture; remove only OS status/inset. Keep full app header/back bar, actual content and navigation; no UI retouch.",
+      "uniformScale": 0.8122188905547226,
+      "uiBounds": {
+        "x": 105.93553223388301,
+        "y": 469,
+        "width": 1072.128935532234,
+        "height": 2167
+      },
+      "uiHeightFraction": 0.7800575953923686,
+      "outputSize": {
+        "width": 1284,
+        "height": 2778
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/01-diet-day-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/01-diet-day-NATIVE.svg",
+      "outputPngSha256": "f7b699691ecd8bf19609c006c2f97e00653013815b036577836645d51b74957e",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Kalorie\npod kontrolą",
+        "renderedLines": [
+          "Kalorie",
+          "pod kontrolą"
+        ],
+        "headlineSize": 132,
+        "subline": "Posiłki i makro w jednym miejscu.",
+        "sublineSize": 42,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 108.63600158691406,
+              "y": 71.2080078125,
+              "width": 417.384033203125,
+              "height": 101.90399169921875
+            },
+            {
+              "x": 107.447998046875,
+              "y": 212.2080078125,
+              "width": 759.39599609375,
+              "height": 131.4720458984375
+            }
+          ],
+          "subline": {
+            "x": 104.61199951171875,
+            "y": 363.24798583984375,
+            "width": 617.9440307617188,
+            "height": 41.83203125
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/02-generator.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "ConfirmedOSstatus/inset200px; actual Generator tygodnia appcard starts about235px and remains complete.",
+      "uniformScale": 0.8122188905547226,
+      "uiBounds": {
+        "x": 105.93553223388301,
+        "y": 469,
+        "width": 1072.128935532234,
+        "height": 2167
+      },
+      "uiHeightFraction": 0.7800575953923686,
+      "outputSize": {
+        "width": 1284,
+        "height": 2778
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/02-generated-plan-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/02-generated-plan-NATIVE.svg",
+      "outputPngSha256": "bbe163e50b96a9bf345b793457b4847ba8466ab9ba3ff8cb7691cd58e19d337b",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Jadłospis\npo Twojemu",
+        "renderedLines": [
+          "Jadłospis",
+          "po Twojemu"
+        ],
+        "headlineSize": 132,
+        "subline": "Wybierz dietę, preferencje i liczbę dni.",
+        "sublineSize": 42,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 98.60399627685547,
+              "y": 71.2080078125,
+              "width": 563.9039306640625,
+              "height": 131.4720458984375
+            },
+            {
+              "x": 107.447998046875,
+              "y": 213.39599609375,
+              "width": 725.075927734375,
+              "height": 130.2840576171875
+            }
+          ],
+          "subline": {
+            "x": 101.41999816894531,
+            "y": 363.7440185546875,
+            "width": 712.5,
+            "height": 42.33599853515625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/03b-recipe-steps.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 120,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Visually inspected native capture; remove only OS status/inset. Keep full app header/back bar, actual content and navigation; no UI retouch.",
+      "uniformScale": 0.7885735080058224,
+      "uiBounds": {
+        "x": 121.54148471615724,
+        "y": 469,
+        "width": 1040.9170305676855,
+        "height": 2167
+      },
+      "uiHeightFraction": 0.7800575953923686,
+      "outputSize": {
+        "width": 1284,
+        "height": 2778
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/03-recipe-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/03-recipe-NATIVE.svg",
+      "outputPngSha256": "83696174ae72acc47cd5a888c6370f0d572466e21b1057ea1b2d4eefbb32fac9",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Przepis\npod ręką",
+        "renderedLines": [
+          "Przepis",
+          "pod ręką"
+        ],
+        "headlineSize": 132,
+        "subline": "Składniki, ilości i sposób przygotowania.",
+        "sublineSize": 42,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 108.63600158691406,
+              "y": 72.39599609375,
+              "width": 424.7760009765625,
+              "height": 130.2840576171875
+            },
+            {
+              "x": 107.447998046875,
+              "y": 212.2080078125,
+              "width": 522.5880126953125,
+              "height": 131.4720458984375
+            }
+          ],
+          "subline": {
+            "x": 102.55400085449219,
+            "y": 363.24798583984375,
+            "width": 748.8679809570312,
+            "height": 41.83203125
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/04-training.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Root and compositor inspected1320x2868 capture: first app card starts about235px. Crop top200 removes only actualOSstatus/inset and preserves entire header, exercise list, photos and native bottom navigation.",
+      "uniformScale": 0.8122188905547226,
+      "uiBounds": {
+        "x": 105.93553223388301,
+        "y": 469,
+        "width": 1072.128935532234,
+        "height": 2167
+      },
+      "uiHeightFraction": 0.7800575953923686,
+      "outputSize": {
+        "width": 1284,
+        "height": 2778
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/04-training-plan-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/04-training-plan-NATIVE.svg",
+      "outputPngSha256": "05b1d2ccb94e524a67b2178b950cce14ed42f6c6074278866052aa6adc57e4cd",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Twój trening\nkrok po kroku",
+        "renderedLines": [
+          "Twój trening",
+          "krok po kroku"
+        ],
+        "headlineSize": 132,
+        "subline": "Ćwiczenia, serie i powtórzenia w planie.",
+        "sublineSize": 42,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 99.66000366210938,
+              "y": 72.39599609375,
+              "width": 740.916015625,
+              "height": 130.2840576171875
+            },
+            {
+              "x": 107.58000183105469,
+              "y": 212.2080078125,
+              "width": 823.9439697265625,
+              "height": 131.4720458984375
+            }
+          ],
+          "subline": {
+            "x": 103.0999984741211,
+            "y": 362.864013671875,
+            "width": 738.3300170898438,
+            "height": 48.21600341796875
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/05-exercise-instruction.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 0,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Full native screenshot retained: OS status/island overlaps modal underlay, so no crop is safe.",
+      "uniformScale": 0.7555788005578801,
+      "uiBounds": {
+        "x": 143.31799163179915,
+        "y": 469,
+        "width": 997.3640167364017,
+        "height": 2167
+      },
+      "uiHeightFraction": 0.7800575953923686,
+      "outputSize": {
+        "width": 1284,
+        "height": 2778
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/05-exercise-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/05-exercise-NATIVE.svg",
+      "outputPngSha256": "9f77d3bbe0499984acd01b8fd9dfa4289e2097a368fbf66e8dfd2b0d0afc10aa",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Ćwicz\nz instrukcją",
+        "renderedLines": [
+          "Ćwicz",
+          "z instrukcją"
+        ],
+        "headlineSize": 132,
+        "subline": "Wracaj do wskazówek podczas treningu.",
+        "sublineSize": 42,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 104.27999877929688,
+              "y": 51.14398193359375,
+              "width": 349.2720031738281,
+              "height": 122.364013671875
+            },
+            {
+              "x": 103.48799896240234,
+              "y": 212.2080078125,
+              "width": 661.8480834960938,
+              "height": 131.4720458984375
+            }
+          ],
+          "subline": {
+            "x": 101.41999816894531,
+            "y": 363.24798583984375,
+            "width": 757.7039794921875,
+            "height": 41.83203125
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/06-progress.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Only confirmedOSstatus/inset200px; entire app card, graph or shared-plan UI and native navigation preserved.",
+      "uniformScale": 0.8122188905547226,
+      "uiBounds": {
+        "x": 105.93553223388301,
+        "y": 469,
+        "width": 1072.128935532234,
+        "height": 2167
+      },
+      "uiHeightFraction": 0.7800575953923686,
+      "outputSize": {
+        "width": 1284,
+        "height": 2778
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/06-progress-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/06-progress-NATIVE.svg",
+      "outputPngSha256": "21508a9d08d0345b71a89952b116a2d55ffbc29adbe416f31410347a0ee51c94",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Zapisuj\nswoje postępy",
+        "renderedLines": [
+          "Zapisuj",
+          "swoje postępy"
+        ],
+        "headlineSize": 132,
+        "subline": "Pomiary i wykresy w jednym miejscu.",
+        "sublineSize": 42,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 104.14800262451172,
+              "y": 72.39599609375,
+              "width": 425.56793212890625,
+              "height": 130.2840576171875
+            },
+            {
+              "x": 100.4520034790039,
+              "y": 213.39599609375,
+              "width": 876.8760375976562,
+              "height": 130.2840576171875
+            }
+          ],
+          "subline": {
+            "x": 104.61199951171875,
+            "y": 363.24798583984375,
+            "width": 682.531982421875,
+            "height": 41.83203125
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/07-specialist-diet.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Only confirmedOSstatus/inset200px; entire app card, graph or shared-plan UI and native navigation preserved.",
+      "uniformScale": 0.8122188905547226,
+      "uiBounds": {
+        "x": 105.93553223388301,
+        "y": 469,
+        "width": 1072.128935532234,
+        "height": 2167
+      },
+      "uiHeightFraction": 0.7800575953923686,
+      "outputSize": {
+        "width": 1284,
+        "height": 2778
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/07-specialist-diet-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/07-specialist-diet-NATIVE.svg",
+      "outputPngSha256": "a8d5be728caab5b3afe7f5bdd8a9163662cbc33f6f37633f228b23dc6e5fa3fd",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Plan specjalisty\npod ręką",
+        "renderedLines": [
+          "Plan specjalisty",
+          "pod ręką"
+        ],
+        "headlineSize": 132,
+        "subline": "Odbieraj udostępnione diety w aplikacji.",
+        "sublineSize": 42,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 108.63600158691406,
+              "y": 71.2080078125,
+              "width": 906.9720458984375,
+              "height": 131.4720458984375
+            },
+            {
+              "x": 107.447998046875,
+              "y": 212.2080078125,
+              "width": 522.5880126953125,
+              "height": 131.4720458984375
+            }
+          ],
+          "subline": {
+            "x": 103.0999984741211,
+            "y": 363.24798583984375,
+            "width": 755.8440551757812,
+            "height": 41.83203125
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/08-shopping.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 120,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Native backbar begins above appcard; only120pxOSstatus crop preserves complete Lista zakupow header and native list.",
+      "uniformScale": 0.7885735080058224,
+      "uiBounds": {
+        "x": 121.54148471615724,
+        "y": 469,
+        "width": 1040.9170305676855,
+        "height": 2167
+      },
+      "uiHeightFraction": 0.7800575953923686,
+      "outputSize": {
+        "width": 1284,
+        "height": 2778
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/08-shopping-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/08-shopping-NATIVE.svg",
+      "outputPngSha256": "e3f61513fa037712ef5795f38f1ae8457934665d89241ebbb18ba4b444a6fdfe",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Lista zakupów\nz Twojego planu",
+        "renderedLines": [
+          "Lista zakupów",
+          "z Twojego planu"
+        ],
+        "headlineSize": 132,
+        "subline": "Produkty z własnej diety · Premium.",
+        "sublineSize": 42,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 108.63600158691406,
+              "y": 71.2080078125,
+              "width": 847.9679565429688,
+              "height": 131.4720458984375
+            },
+            {
+              "x": 103.48799896240234,
+              "y": 212.2080078125,
+              "width": 966.7680053710938,
+              "height": 131.4720458984375
+            }
+          ],
+          "subline": {
+            "x": 104.61199951171875,
+            "y": 363.24798583984375,
+            "width": 652.3759155273438,
+            "height": 41.83203125
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/01-own-diet.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Visually inspected native capture; remove only OS status/inset. Keep full app header/back bar, actual content and navigation; no UI retouch.",
+      "uniformScale": 0.3823088455772114,
+      "uiBounds": {
+        "x": 122.67616191904048,
+        "y": 246,
+        "width": 504.64767616191904,
+        "height": 1020
+      },
+      "uiHeightFraction": 0.7646176911544228,
+      "outputSize": {
+        "width": 750,
+        "height": 1334
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/01-diet-day-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/01-diet-day-NATIVE.svg",
+      "outputPngSha256": "0eab74ccee05759251bb986ba032de4f3d4a16a73a27eb1c438e539fe63126b8",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Kalorie\npod kontrolą",
+        "renderedLines": [
+          "Kalorie",
+          "pod kontrolą"
+        ],
+        "headlineSize": 77,
+        "subline": "Posiłki i makro w jednym miejscu.",
+        "sublineSize": 24,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 63.621002197265625,
+              "y": 23.78802490234375,
+              "width": 243.4739990234375,
+              "height": 59.4439697265625
+            },
+            {
+              "x": 62.928001403808594,
+              "y": 105.78802490234375,
+              "width": 442.9810485839844,
+              "height": 76.69195556640625
+            }
+          ],
+          "subline": {
+            "x": 62.064002990722656,
+            "y": 193.85601806640625,
+            "width": 345.5679626464844,
+            "height": 23.90399169921875
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/02-generator.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "ConfirmedOSstatus/inset200px; actual Generator tygodnia appcard starts about235px and remains complete.",
+      "uniformScale": 0.38193403298350825,
+      "uiBounds": {
+        "x": 122.92353823088456,
+        "y": 247,
+        "width": 504.1529235382309,
+        "height": 1019
+      },
+      "uiHeightFraction": 0.7638680659670165,
+      "outputSize": {
+        "width": 750,
+        "height": 1334
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/02-generated-plan-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/02-generated-plan-NATIVE.svg",
+      "outputPngSha256": "38423e49df0013bfa5179aaca5a2540436b74d467750d3492ed7d609e795a728",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Jadłospis\npo Twojemu",
+        "renderedLines": [
+          "Jadłospis",
+          "po Twojemu"
+        ],
+        "headlineSize": 77,
+        "subline": "Wybierz dietę, preferencje i liczbę dni.",
+        "sublineSize": 24,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 57.76899719238281,
+              "y": 23.78802490234375,
+              "width": 328.94403076171875,
+              "height": 76.69195556640625
+            },
+            {
+              "x": 62.928001403808594,
+              "y": 106.48101806640625,
+              "width": 422.9610290527344,
+              "height": 75.99896240234375
+            }
+          ],
+          "subline": {
+            "x": 60.23999786376953,
+            "y": 194.5679931640625,
+            "width": 397.949951171875,
+            "height": 24.1920166015625
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/03b-recipe-steps.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 120,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Visually inspected native capture; remove only OS status/inset. Keep full app header/back bar, actual content and navigation; no UI retouch.",
+      "uniformScale": 0.37117903930131,
+      "uiBounds": {
+        "x": 130.0218340611354,
+        "y": 246,
+        "width": 489.9563318777292,
+        "height": 1019.9999999999999
+      },
+      "uiHeightFraction": 0.7646176911544227,
+      "outputSize": {
+        "width": 750,
+        "height": 1334
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/03-recipe-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/03-recipe-NATIVE.svg",
+      "outputPngSha256": "bd45b9c0c2a86f9f49dc0942c8d8bfccd941e7738fd5723c7b166f8a965d1261",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Przepis\npod ręką",
+        "renderedLines": [
+          "Przepis",
+          "pod ręką"
+        ],
+        "headlineSize": 77,
+        "subline": "Składniki, ilości i sposób przygotowania.",
+        "sublineSize": 24,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 63.621002197265625,
+              "y": 24.48101806640625,
+              "width": 247.7860107421875,
+              "height": 75.99896240234375
+            },
+            {
+              "x": 62.928001403808594,
+              "y": 105.78802490234375,
+              "width": 304.8429870605469,
+              "height": 76.69195556640625
+            }
+          ],
+          "subline": {
+            "x": 60.88800048828125,
+            "y": 193.85601806640625,
+            "width": 418.49603271484375,
+            "height": 23.90399169921875
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/04-training.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Root and compositor inspected1320x2868 capture: first app card starts about235px. Crop top200 removes only actualOSstatus/inset and preserves entire header, exercise list, photos and native bottom navigation.",
+      "uniformScale": 0.3808095952023988,
+      "uiBounds": {
+        "x": 123.66566716641677,
+        "y": 250,
+        "width": 502.66866566716647,
+        "height": 1016
+      },
+      "uiHeightFraction": 0.7616191904047976,
+      "outputSize": {
+        "width": 750,
+        "height": 1334
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/04-training-plan-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/04-training-plan-NATIVE.svg",
+      "outputPngSha256": "dd998989dfbcff0ac8c4190e8e18fae820a880e4be87117f3d242a6edba97306",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Twój trening\nkrok po kroku",
+        "renderedLines": [
+          "Twój trening",
+          "krok po kroku"
+        ],
+        "headlineSize": 77,
+        "subline": "Ćwiczenia, serie i powtórzenia w planie.",
+        "sublineSize": 24,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 58.38500213623047,
+              "y": 24.48101806640625,
+              "width": 432.20098876953125,
+              "height": 75.99896240234375
+            },
+            {
+              "x": 63.00499725341797,
+              "y": 105.78802490234375,
+              "width": 480.634033203125,
+              "height": 76.69195556640625
+            }
+          ],
+          "subline": {
+            "x": 61.19999694824219,
+            "y": 194.2080078125,
+            "width": 412.7099609375,
+            "height": 27.552001953125
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/05-exercise-instruction.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 0,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Full native screenshot retained: OS status/island overlaps modal underlay, so no crop is safe.",
+      "uniformScale": 0.35564853556485354,
+      "uiBounds": {
+        "x": 140.27196652719667,
+        "y": 246,
+        "width": 469.45606694560666,
+        "height": 1020
+      },
+      "uiHeightFraction": 0.7646176911544228,
+      "outputSize": {
+        "width": 750,
+        "height": 1334
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/05-exercise-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/05-exercise-NATIVE.svg",
+      "outputPngSha256": "0725b453fa6e397616e00e777adc43433747a203ca47fb0629813dbf9ed3b806",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Ćwicz\nz instrukcją",
+        "renderedLines": [
+          "Ćwicz",
+          "z instrukcją"
+        ],
+        "headlineSize": 77,
+        "subline": "Wracaj do wskazówek podczas treningu.",
+        "sublineSize": 24,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 61.08000183105469,
+              "y": 12.083984375,
+              "width": 203.7420196533203,
+              "height": 71.3790283203125
+            },
+            {
+              "x": 60.61799621582031,
+              "y": 105.78802490234375,
+              "width": 386.0780029296875,
+              "height": 76.69195556640625
+            }
+          ],
+          "subline": {
+            "x": 60.23999786376953,
+            "y": 193.85601806640625,
+            "width": 424.48797607421875,
+            "height": 23.90399169921875
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/06-progress.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Only confirmedOSstatus/inset200px; entire app card, graph or shared-plan UI and native navigation preserved.",
+      "uniformScale": 0.3823088455772114,
+      "uiBounds": {
+        "x": 122.67616191904048,
+        "y": 246,
+        "width": 504.64767616191904,
+        "height": 1020
+      },
+      "uiHeightFraction": 0.7646176911544228,
+      "outputSize": {
+        "width": 750,
+        "height": 1334
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/06-progress-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/06-progress-NATIVE.svg",
+      "outputPngSha256": "f487a273de2915f0fbc04850a3ee00af2e1e0c168f2c47756e978dfe0953ee9b",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Zapisuj\nswoje postępy",
+        "renderedLines": [
+          "Zapisuj",
+          "swoje postępy"
+        ],
+        "headlineSize": 77,
+        "subline": "Pomiary i wykresy w jednym miejscu.",
+        "sublineSize": 24,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 61.00299835205078,
+              "y": 24.48101806640625,
+              "width": 248.248046875,
+              "height": 75.99896240234375
+            },
+            {
+              "x": 58.84700012207031,
+              "y": 106.48101806640625,
+              "width": 511.510986328125,
+              "height": 75.99896240234375
+            }
+          ],
+          "subline": {
+            "x": 62.064002990722656,
+            "y": 193.85601806640625,
+            "width": 382.0039978027344,
+            "height": 23.90399169921875
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/07-specialist-diet.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Only confirmedOSstatus/inset200px; entire app card, graph or shared-plan UI and native navigation preserved.",
+      "uniformScale": 0.3823088455772114,
+      "uiBounds": {
+        "x": 122.67616191904048,
+        "y": 246,
+        "width": 504.64767616191904,
+        "height": 1020
+      },
+      "uiHeightFraction": 0.7646176911544228,
+      "outputSize": {
+        "width": 750,
+        "height": 1334
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/07-specialist-diet-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/07-specialist-diet-NATIVE.svg",
+      "outputPngSha256": "070739a0c3371e94a26e39696b5bcb3ddbf0d8396bce92ca788536eaae365444",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Plan specjalisty\npod ręką",
+        "renderedLines": [
+          "Plan specjalisty",
+          "pod ręką"
+        ],
+        "headlineSize": 77,
+        "subline": "Odbieraj udostępnione diety w aplikacji.",
+        "sublineSize": 24,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 63.621002197265625,
+              "y": 23.78802490234375,
+              "width": 529.0670166015625,
+              "height": 76.69195556640625
+            },
+            {
+              "x": 62.928001403808594,
+              "y": 105.78802490234375,
+              "width": 304.8429870605469,
+              "height": 76.69195556640625
+            }
+          ],
+          "subline": {
+            "x": 61.19999694824219,
+            "y": 193.85601806640625,
+            "width": 422.71795654296875,
+            "height": 23.90399169921875
+          }
+        }
+      }
+    },
+    {
+      "platform": "ios",
+      "source": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/source/native-current/ios/08-shopping.png",
+      "sourceStatus": "Current native ios capture; 1.0.17 / 39; JS SOURCE SNAPSHOT 6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860; synthetic demonstration data.",
+      "reviewOnly": false,
+      "nativeSource": true,
+      "needsNativeCapture": false,
+      "designStatus": "CURRENT-NATIVE-READY-FOR-DESIGN-REVIEW",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "sourceSize": {
+        "width": 1320,
+        "height": 2868
+      },
+      "crop": {
+        "top": 120,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Native backbar begins above appcard; only120pxOSstatus crop preserves complete Lista zakupow header and native list.",
+      "uniformScale": 0.37117903930131,
+      "uiBounds": {
+        "x": 130.0218340611354,
+        "y": 246,
+        "width": 489.9563318777292,
+        "height": 1019.9999999999999
+      },
+      "uiHeightFraction": 0.7646176911544227,
+      "outputSize": {
+        "width": 750,
+        "height": 1334
+      },
+      "outputPng": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/08-shopping-NATIVE.png",
+      "outputSvg": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/08-shopping-NATIVE.svg",
+      "outputPngSha256": "345214d37a3fb6bec900b33cf230ebb5442bc3f5f40d5a042b5e3992d12f770c",
+      "pngColorType": 2,
+      "font": "/System/Library/Fonts/Avenir Next.ttc",
+      "fontFamily": "Avenir Next",
+      "renderer": "@resvg/resvg-js 2.6.2",
+      "caption": {
+        "headline": "Lista zakupów\nz Twojego planu",
+        "renderedLines": [
+          "Lista zakupów",
+          "z Twojego planu"
+        ],
+        "headlineSize": 77,
+        "subline": "Produkty z własnej diety · Premium.",
+        "sublineSize": 24,
+        "textBounds": {
+          "headlines": [
+            {
+              "x": 63.621002197265625,
+              "y": 23.78802490234375,
+              "width": 494.6479797363281,
+              "height": 76.69195556640625
+            },
+            {
+              "x": 60.61799621582031,
+              "y": 105.78802490234375,
+              "width": 563.947998046875,
+              "height": 76.69195556640625
+            }
+          ],
+          "subline": {
+            "x": 62.064002990722656,
+            "y": 193.85601806640625,
+            "width": 364.7720031738281,
+            "height": 23.90399169921875
+          }
+        }
+      }
+    }
+  ],
+  "revision": "Only08Premiumcaption; other21PNGand21SVGunchanged"
+}

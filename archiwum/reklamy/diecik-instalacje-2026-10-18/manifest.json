@@ -1,0 +1,155 @@
+{
+  "package": "Diecik — instalacje aplikacji",
+  "date": "2026-10-18",
+  "revision": 2,
+  "counts": {
+    "videos": 4,
+    "staticImages": 6,
+    "carouselCards": 4
+  },
+  "published": false,
+  "files": [
+    {
+      "file": "Diecik-kalorie-i-makro-Reels-Stories-20s.mp4",
+      "bytes": 11454233,
+      "sha256": "34f84769450cc1c0fc5c286c1d175ad4aa631b20d7c3d08f0395339627e71567",
+      "width": 1440,
+      "height": 2560,
+      "codec": "h264",
+      "duration": 20.0,
+      "fps": 30,
+      "audio": "AAC stereo",
+      "use": "Reels / Stories",
+      "preservedOriginal": false
+    },
+    {
+      "file": "Diecik-plan-treningu-Reels-Stories-20s.mp4",
+      "bytes": 16029334,
+      "sha256": "a169f0f8531e07c69c4bc955f32d999f1b1074fd483d53fb875b796bd5773f23",
+      "width": 1440,
+      "height": 2560,
+      "codec": "h264",
+      "duration": 20.0,
+      "fps": 30,
+      "audio": "AAC stereo",
+      "use": "Reels / Stories",
+      "preservedOriginal": false
+    },
+    {
+      "file": "Diecik-pomysl-na-posilek-Reels-Stories-20s.mp4",
+      "bytes": 14398610,
+      "sha256": "27faccfeaa8d7d6b513811474c37415917632574b76d434e6a4dd9f8dc140950",
+      "width": 1440,
+      "height": 2560,
+      "codec": "h264",
+      "duration": 20.0,
+      "fps": 30,
+      "audio": "AAC stereo",
+      "use": "Reels / Stories",
+      "preservedOriginal": false
+    },
+    {
+      "file": "Diecik-ulubione-posilki-Reels-Stories-20s.mp4",
+      "bytes": 17134155,
+      "sha256": "b918d0b558b94893af6f3bd6ec30375668c0ed4b144b0e2fa8b3007370549b36",
+      "width": 1080,
+      "height": 1920,
+      "codec": "h264",
+      "duration": 20.0,
+      "fps": 30,
+      "audio": "AAC stereo",
+      "use": "Reels / Stories",
+      "preservedOriginal": true
+    },
+    {
+      "file": "Grafika-01-Przepisy-1x1.jpg",
+      "bytes": 278616,
+      "sha256": "e111c8d8dad77430b78685082822eeddb25c7a71373c9c12c1d467b7170cfcc7",
+      "width": 1440,
+      "height": 1440,
+      "codec": "mjpeg",
+      "use": "Feed image"
+    },
+    {
+      "file": "Grafika-01-Przepisy-4x5.jpg",
+      "bytes": 351888,
+      "sha256": "1d100742c88865f150b53da0b3a37c639b5e7dd5dd4ae81a72830f721986a594",
+      "width": 1440,
+      "height": 1800,
+      "codec": "mjpeg",
+      "use": "Feed image"
+    },
+    {
+      "file": "Grafika-02-Kalorie-makro-1x1.jpg",
+      "bytes": 243615,
+      "sha256": "c1ef2f4765557a1235434d9ef2d03f5df597103e3b70a542675fd1d5ea23abc5",
+      "width": 1440,
+      "height": 1440,
+      "codec": "mjpeg",
+      "use": "Feed image"
+    },
+    {
+      "file": "Grafika-02-Kalorie-makro-4x5.jpg",
+      "bytes": 253996,
+      "sha256": "a6100bcbe6e060a426848564f0190b6e49499e76b417df7fd6f9c812909b5eb1",
+      "width": 1440,
+      "height": 1800,
+      "codec": "mjpeg",
+      "use": "Feed image"
+    },
+    {
+      "file": "Grafika-03-Plan-treningu-1x1.jpg",
+      "bytes": 229217,
+      "sha256": "165a36d37b09ea6a17a4496e933606cdfe021e23c9442c2293afbc8d662e05a1",
+      "width": 1440,
+      "height": 1440,
+      "codec": "mjpeg",
+      "use": "Feed image"
+    },
+    {
+      "file": "Grafika-03-Plan-treningu-4x5.jpg",
+      "bytes": 277286,
+      "sha256": "fa3b6c0d26733b48711db83e044ca4945a8254e03ef8aafa7a3e1a6b6cac32a5",
+      "width": 1440,
+      "height": 1800,
+      "codec": "mjpeg",
+      "use": "Feed image"
+    },
+    {
+      "file": "Karuzela-01-Przepisy-1x1.jpg",
+      "bytes": 279129,
+      "sha256": "859836a167a2a141a0a54bfc93bdc4bed9268b9257e8d030dc40e701415878b6",
+      "width": 1440,
+      "height": 1440,
+      "codec": "mjpeg",
+      "use": "Carousel card"
+    },
+    {
+      "file": "Karuzela-02-Kalorie-makro-1x1.jpg",
+      "bytes": 238755,
+      "sha256": "0f47b4d0b856c62a34ed84e6f0ce7281cc3de23431b957284a772a15a1033518",
+      "width": 1440,
+      "height": 1440,
+      "codec": "mjpeg",
+      "use": "Carousel card"
+    },
+    {
+      "file": "Karuzela-03-Plan-treningu-1x1.jpg",
+      "bytes": 221002,
+      "sha256": "c76bf81412fa16e6edc94669c60b5769981160ef0f749461e7c1955f02386363",
+      "width": 1440,
+      "height": 1440,
+      "codec": "mjpeg",
+      "use": "Carousel card"
+    },
+    {
+      "file": "Karuzela-04-Ulubione-posilki-1x1.jpg",
+      "bytes": 256521,
+      "sha256": "20fc04265b3f82ac10ef2ed904ec27e4d1829e56cf8ee849a08c2ded90850820",
+      "width": 1440,
+      "height": 1440,
+      "codec": "mjpeg",
+      "use": "Carousel card"
+    }
+  ]
+}

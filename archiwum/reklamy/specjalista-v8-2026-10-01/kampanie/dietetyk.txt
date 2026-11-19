@@ -1,0 +1,15 @@
+Diecik — dietetyk — v8
+
+Tekst główny:
+Twoja praca nie kończy się na konsultacji. W Dieciku udostępnisz jadłospis
+w aplikacji klienta — z posiłkami, składnikami i przypisanymi przepisami.
+Zacznij bezpłatnie z maksymalnie 2 aktywnymi klientami.
+
+Nagłówek: Dieta nie kończy się w gabinecie
+Opis: Do 2 aktywnych klientów bez opłat.
+Przycisk: Dowiedz się więcej
+Adres: https://diecik.com/specjalista
+Film: filmy/diecik-dietetyk-panel-20s-story.mp4
+Okładka: okladki/diecik-dietetyk-panel-20s-story.jpg
+
+Materiał lokalny, bez emisji lub wydatków.

@@ -1,0 +1,1 @@
+Original16native screenshot captures for provenance/editing only. Do not upload these rawRGBA device-sized files; use finalRGBPNG files in app-screenshots. No sourcepixelretouch. UI sourcesare actualnative iOS/Android, syntheticlocaldemodata, separate runtime/JSsnapshot proof.

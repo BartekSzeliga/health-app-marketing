@@ -1,0 +1,53 @@
+Diecik — rewizja v4 specjalisty, 01.10.2026
+
+Nowy B2B: 25 sekund, 115.2 BPM / 12 taktów. Spokojniejszy rytm pozwala rozpoznać pełny panel,
+edytor, publikację i ekran telefonu przed czytelnymi detalami. Ruch kompozycji jest ciągły.
+0–3: hook; 3–5: pełny panel; 5–9: edytor; 9–12.7: publikacja; 12.7–14.7: wynik;
+15.3–17.3: pełny telefon; 17.3–21: autentyczny scroll 1×; 21–22.8: pełny telefon po scrollu;
+22.8–25: CTA (wejście 22.8–23.1). Hold edytora 6.0–8.2667; collapse 7–8.2667; main tap ~9.9333.
+Confirm nominal/audio 11.65, pierwsza zakodowana klatka 11.6667; pending nominal 11.6833, klatka 11.70.
+Finalny harmonogram/layout/audio zamrożono po gate root + niezależnym marketing_strategy, przed wariantami.
+Lead CTA: Zobacz, jak to działa. Website CTA: Zacznij bezpłatnie.
+Zewnętrzne etykiety DEMO i numery przykładów są usunięte na żądanie użytkownika.
+Nie dodawać belki ani zastępczych oznaczeń. Autentyczne UI pozostaje bez zmian.
+Noty o różnych źródłowych kontach i Pakietach 3/5 są wyłącznie w dokumentach.
+Montaż/copy opisuje funkcje produktu, nie potwierdzone przekazanie tego samego planu.
+Okładki B2B: hook 1.5 s, CTA 23.8 s.
+Audio docelowe: audio/diecik-specjalista-v4-mix-25s.wav; pozostałe własne warstwy music/sfx/ui-taps-25s.wav.
+Dokumentacja nie stwierdza odsłuchu ani akceptacji nowego B2B.
+
+B2C: A20 zaakceptowany przez użytkownika; pięć filmów i wszystkie warstwy B2C audio
+przeniesione bez zmiany bajtów. Poniżej zachowany harmonogram tego materiału.
+
+Diecik — nowa kreacja po odrzuceniu poprzednich filmów, 01.10.2026
+
+Hero v3: JESZCZE RAZ, 20 sekund / 120 BPM / 10 taktów.
+Jedna historia: konkretny posiłek, rzeczywisty zapis, ponowne dodanie na kolejny dzień.
+Wszystkie tekstury produktu pochodzą z nagrań działającej aplikacji.
+Miska pochodzi z oryginalnego zdjęcia przepisu; ImageGen wyciął otoczenie.
+
+0.000–1.150: natychmiastowy diagonalny odjazd z pełnokadrowego makro malin; hook zza jedzenia.
+1.150–3.500: pełny autentyczny ekran Moja dieta w telefonie, z tym samym posiłkiem i nawigacją; telefon osiada o1.42, spokojny widok trwa2.08s.
+3.500–4.450: pełne prawdziwe menu tego posiłku,0.95s na rozpoznanie.
+4.450–5.050: kamera i maska śledzą ten sam ekran do przycisku zapisu; bez rozciągania UI.
+5.050–6.300: duży przycisk, rzeczywiste zapisanie o5.65s i widoczny rezultat; reakcja7klatek w tempie1×.
+6.300–8.200: prawdziwy panel Ulubione posiłki, wejście do6.85 i spokojniejszy ruch przez1.35s.
+8.200–8.850: kalendarz przechodzi przez obiektyw; DZISIAJ zmienia się w JUTRO.
+8.850–11.750: kamera jedzie po prawdziwej karcie do Dodaj; karta wyprostowana od10.6s,1.15s przed kliknięciem.
+11.750: rzeczywista reakcja Dodaj; transient audio w tym samym momencie,12klatek w tempie1×.
+12.100–12.700: odjazd do pełnego autentycznego ekranu kolejnego dnia.
+12.700–15.200: pełny rzeczywisty ekran kolejnego dnia przez2.5s; ta sama miska i cała nawigacja.
+15.200–15.850: zbliżenie wprost z pełnego ekranu na datę i dodany posiłek.
+15.850–16.500: miska wychodzi z rzeczywistej miniatury do dużego zdjęcia.
+17.050–20.000: brand,hasło,URL i CTA; kompozycja w pełni czytelna od17.55. Brak dolnej stopki o limicie.
+
+Ocena przed wariantami: obejrzeć ruch w czasie, a nie tylko planszę klatek.
+Sprawdzić szczególnie pierwszą sekundę, ciągłość miski, czytelność dwóch przycisków,
+zrozumienie po wyciszeniu, brak przeciągających się statycznych kadrów i położenie CTA.
+Techniczne QA i wewnętrzna ocena kreatywna nie stanowią akceptacji użytkownika.
+
+Wariant B: wyłącznie inny pierwszy hook (LUBISZ TEN SMAK?), po 1.42 s kompozycja identyczna.
+Formaty: 1080×1920 i osobno skomponowane 1080×1350; krótki wariant10s:
+pełne Ulubione1.40–3.0, zoom3.0–3.6, prawdziwe Dodaj4.1, pełny rezultat4.9–7.0, finał7.0–10.0.
+Limit3 i Premium bez limitu pozostają w copy kampanii oraz prawdziwym UI; usunięty napis nie ma zastępczego drobnego druku.
+Reklamy i kampanie pozostają lokalnymi materiałami. Brak emisji lub zmiany produkcji.

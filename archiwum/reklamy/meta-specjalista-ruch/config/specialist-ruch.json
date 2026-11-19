@@ -1,0 +1,43 @@
+{
+  "campaign": "Diecik — specjalista — dieta i ruch",
+  "language": "pl-PL",
+  "specialistUrl": "https://diecik.com/specjalista",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 15,
+    "sceneDurationsSeconds": [
+      2.7,
+      3,
+      3.2,
+      3.1,
+      3.8
+    ],
+    "sceneStartsSeconds": [
+      0,
+      2.5,
+      5.3,
+      8.3,
+      11.2
+    ],
+    "transitionSeconds": 0.2,
+    "safeArea": {
+      "left": 90,
+      "right": 90,
+      "top": 240,
+      "bottom": 410
+    }
+  },
+  "claims": {
+    "freePlan": "Free do 2 aktywnych klientów · bez karty",
+    "verifiedInSource": "health-app-frontend/src/pages/TrainerLanding.tsx"
+  },
+  "copy": [
+    "Twoja opieka może więcej — publikuj plany w aplikacji.",
+    "Dodaj plan treningowy.",
+    "Plan diety. Makro i mikro w jednym widoku.",
+    "Dieta + trening. Publikacja w aplikacji klienta.",
+    "Pełniejsza opieka. Jeden panel."
+  ]
+}

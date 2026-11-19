@@ -1,0 +1,7 @@
+appId: com.helti.app
+---
+- tapOn: "Generator tygodnia"
+- extendedWaitUntil:
+    visible: "Założenia"
+    timeout: 10000
+- waitForAnimationToEnd

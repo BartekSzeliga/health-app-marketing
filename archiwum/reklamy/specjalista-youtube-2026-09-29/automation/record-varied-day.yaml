@@ -1,0 +1,31 @@
+appId: com.helti.app
+---
+- swipe:
+    start: "50%,78%"
+    end: "50%,34%"
+    duration: 2100
+- swipe:
+    start: "50%,72%"
+    end: "50%,43%"
+    duration: 1100
+- swipe:
+    start: "50%,24%"
+    end: "50%,86%"
+    duration: 1100
+- swipe:
+    start: "50%,24%"
+    end: "50%,86%"
+    duration: 1100
+- tapOn: "Zobacz przepis: Owsianka jogurtowa z borówkami i siemieniem"
+- assertVisible: "Przepis"
+- swipe:
+    start: "50%,78%"
+    end: "50%,35%"
+    duration: 1800
+- tapOn: "Dieta od specjalisty"
+- tapOn: "Następny dzień"
+- waitForAnimationToEnd
+- swipe:
+    start: "50%,78%"
+    end: "50%,38%"
+    duration: 1900

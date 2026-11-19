@@ -1,0 +1,26 @@
+Diecik — v6, 01.10.2026. Specjalista 30 s z czytelnymi kliknięciami i pełnym UI.
+
+Start: filmy/diecik-specjalista-lead-a-30s-story.mp4.
+Pięć B2B 30 s: A/B lead story, A/B website story, A website wide.
+A „Układasz dietę. Klient ma ją w aplikacji.”; B „Dieta od Ciebie. W aplikacji klienta.”
+Lead CTA „Zobacz, jak to działa”; website CTA „Zacznij bezpłatnie”.
+
+Trzy stałe pełne konteksty, bez zoomu/przelotów/dynamicznego kadrowania:
+0–8,5 s edytor z realnym zwinięciem sekcji 6,766667 s („Zobacz kolejne posiłki”);
+8,5–12 s główny przycisk „Opublikuj w aplikacji”, klik 11,833333 s;
+12–16,5 s pełne potwierdzenie „Opublikuj w aplikacji”, klik 15,45 s, „Publikowanie…” 15,50 s;
+16,5–19,5 s czysty rezultat przez 3 s; 19,5–30 s cały telefon, scroll 1× 21,5–25,2, CTA 27,8–30.
+Main i modal mają ponad 2 s orientacji. Jedna duża zewnętrzna etykieta jest połączona z prawdziwym
+przyciskiem; kursor wskazuje ten sam cel. Story font 60 px oznacza 20 px przy szerokości filmu 360 px.
+Status FROZEN po wewnętrznym odbiorze zakodowanego hero. Źródłowy UI, daty i wartości są zachowane.
+Zewnętrzne DEMO/example nadal wyłączone; noty różnych kont/pakietów są w qa/b2b/source-review.md.
+
+Config: meta-konfiguracja-v6-PAUSED.json — specyfikacja ręczna, nie payload Marketing API.
+Lead/website to alternatywy puli 1000 zł. Short/wide nie zwiększają budżetu. JPG hook to okładki filmów.
+B2C pięć filmów 20 s/10 s i 12 audio zachowane bajtowo; A20 zaakceptowano wcześniej.
+B2B nowy master DSP 30 s / 96 BPM / 12 taktów, audio/diecik-specjalista-v6-mix-30s.wav (już zawiera SFX).
+Nie deklarujemy akceptacji nowego B2B v5/v6. Aktualny audioQA: qa/audio/specialist-audio-validation.json.
+
+Budżet nadal propozycja 3000 zł/30 dni: Search B2B 1500, Meta B2B 1000, Meta B2C 500 warunkowo.
+PAUSED, ID null; nie utworzono reklam na kontach ani nie wydano pieniędzy.
+Plan PDF/MD, XLSX i sześć CSV Search zachowane bajtowo; aktualne media przypisuj z config v6.

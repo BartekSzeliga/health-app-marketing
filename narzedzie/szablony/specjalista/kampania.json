@@ -1,0 +1,47 @@
+{
+  "nazwa": "TU: Diecik dla specjalistów — temat kampanii",
+  "data": "RRRR-MM-DD",
+  "typ": "reklama",
+  "odbiorca": "specjalista",
+  "cel": "ruch na stronę dla specjalistów",
+  "motyw": "diecik",
+  "cta": { "plansza": "Dowiedz się więcej", "podpis": "diecik.com/specjalista", "przycisk": "Dowiedz się więcej" },
+  "ujawnienie": "Dane przykładowe",
+  "linki": { "strona": "https://diecik.com/specjalista" },
+  "pochodzenie": {
+    "data": "TU: data ujęć",
+    "urzadzenie": "TU: panel web (szerokość co najmniej 1440 px) i natywny zrzut aplikacji podopiecznego",
+    "konto": "TU: konto demonstracyjne specjalisty i fikcyjny podopieczny; czy konta są powiązane",
+    "produkt": "TU: repo i commit"
+  },
+  "zrodla": {
+    "panel": { "plik": "zrodla/ekrany/panel.png", "opis": "TU: który ekran panelu i co dowodzi" },
+    "telefonPodopiecznego": { "plik": "zrodla/ekrany/telefon-od-specjalisty.png", "opis": "TU: widok Od specjalisty z opublikowanym planem" }
+  },
+  "tematy": [
+    {
+      "id": "01-Temat",
+      "nazwa": "TU: nazwa tematu do tekstów",
+      "etykieta": "TU: Dla dietetyków / Dla trenerów",
+      "naglowek": ["TU: sytuacja specjalisty,", "nie opis funkcji."],
+      "tresc": ["TU: co robisz w panelu.", "TU: co ma podopieczny."],
+      "uklad": "panel+telefon",
+      "panel": "panel",
+      "ekran": "telefonPodopiecznego",
+      "formaty": ["1x1", "4x5", "9x16"],
+      "teksty": {
+        "glowny": "TU: tekst główny.",
+        "naglowek": "TU: nagłówek reklamy",
+        "opis": "TU: opis"
+      },
+      "dowody": [
+        { "twierdzenie": "TU: co dokładnie twierdzimy o panelu", "repo": "health-app-frontend", "plik": "TU: ścieżka pliku w repo" },
+        { "twierdzenie": "TU: co dokładnie widzi podopieczny", "repo": "health-app-mobile", "plik": "TU: ścieżka pliku w repo" }
+      ]
+    }
+  ],
+  "uwagi": [
+    "Nie obiecujemy pozyskania klientów, wyniku finansowego ani efektów zdrowotnych podopiecznych.",
+    "Plan specjalisty i Premium do własnej diety to osobne produkty."
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "slug": "michalina-gamon",
+  "displayName": "Michalina Gamoń",
+  "supportEmail": "kontakt@diecik.com",
+  "colors": {
+    "light": {
+      "primary": "#047857",
+      "onPrimary": "#ffffff",
+      "primaryContainer": "#d1fae5",
+      "onPrimaryContainer": "#022c22"
+    },
+    "dark": {
+      "primary": "#6ee7b7",
+      "onPrimary": "#022c22",
+      "primaryContainer": "#065f46",
+      "onPrimaryContainer": "#d1fae5"
+    }
+  },
+  "navigation": {
+    "background": "#0a2a1f",
+    "border": "#14503b",
+    "inactive": "#b6e4cf",
+    "activeLabel": "#a7f3d0",
+    "activeContainer": "#059669",
+    "activeIcon": "#ffffff"
+  },
+  "logo": "logo.png"
+}

@@ -1,0 +1,14 @@
+appId: com.helti.app
+---
+- swipe:
+    start: 50%, 76%
+    end: 50%, 38%
+    duration: 550
+- waitForAnimationToEnd
+- tapOn:
+    text: "Instrukcja"
+    index: 1
+- waitForAnimationToEnd
+- extendedWaitUntil:
+    visible: "Jak wykonać"
+    timeout: 10000

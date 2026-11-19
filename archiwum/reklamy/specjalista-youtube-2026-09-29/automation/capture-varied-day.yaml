@@ -1,0 +1,23 @@
+appId: com.helti.app
+---
+- swipe:
+    start: "50%,24%"
+    end: "50%,86%"
+    duration: 700
+- swipe:
+    start: "50%,24%"
+    end: "50%,86%"
+    duration: 700
+- tapOn: "Następny dzień"
+- waitForAnimationToEnd
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-day29-top
+- swipe:
+    start: "50%,77%"
+    end: "50%,29%"
+    duration: 1300
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-day29-meals
+- swipe:
+    start: "50%,72%"
+    end: "50%,43%"
+    duration: 900
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-day29-fifth

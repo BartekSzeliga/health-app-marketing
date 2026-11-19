@@ -1,0 +1,11 @@
+appId: com.helti.app
+---
+- tapOn: "Dieta, tab, 1 of 6"
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 28%
+    end: 50%, 84%
+    duration: 650
+- waitForAnimationToEnd
+- tapOn: "Generator tygodnia"
+- waitForAnimationToEnd

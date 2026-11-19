@@ -1,0 +1,90 @@
+{
+  "kampania": "Diecik — własna aplikacja dla firm",
+  "id": "2026-11-19-wlasna-aplikacja",
+  "data": "2026-11-19",
+  "typ": "reklama",
+  "odbiorca": "specjalista",
+  "cel": "ruch na stronę /aplikacja-dla-firmy; Facebook Feed i Stories",
+  "motyw": "diecik",
+  "status": "ODRZUCONE",
+  "utworzono": "2026-11-19T18:16:26.101Z",
+  "wgraneDoMeta": false,
+  "opublikowane": false,
+  "liczby": {
+    "filmy": 0,
+    "grafiki": 3,
+    "kartyKaruzeli": 0
+  },
+  "pliki": [
+    {
+      "plik": "DO_WGRANIA/Grafika-01-Twoje-logo-1x1.jpg",
+      "nazwa": "Grafika-01-Twoje-logo-1x1.jpg",
+      "rodzaj": "grafika",
+      "temat": "01-Twoje-logo",
+      "format": "1x1",
+      "sha256": "0d24430e36e7fd1290ddf4670790d3f5987d0f3738390df637a1f58676a2b7a4",
+      "bajty": 322082,
+      "szerokosc": 1440,
+      "wysokosc": 1440,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-01-Twoje-logo-4x5.jpg",
+      "nazwa": "Grafika-01-Twoje-logo-4x5.jpg",
+      "rodzaj": "grafika",
+      "temat": "01-Twoje-logo",
+      "format": "4x5",
+      "sha256": "4da4f188094127c4f2aa27c87851ee830bbac795a003e36b1ea76e9d6cd207fe",
+      "bajty": 424990,
+      "szerokosc": 1440,
+      "wysokosc": 1800,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    },
+    {
+      "plik": "DO_WGRANIA/Grafika-01-Twoje-logo-9x16.jpg",
+      "nazwa": "Grafika-01-Twoje-logo-9x16.jpg",
+      "rodzaj": "grafika",
+      "temat": "01-Twoje-logo",
+      "format": "9x16",
+      "sha256": "6503630e30fcb8c69e3981a602b0914129d94564b4d0d57347f93c3592bd81f3",
+      "bajty": 492649,
+      "szerokosc": 1440,
+      "wysokosc": 2560,
+      "kontrole": {
+        "jpeg": true,
+        "wymiary": true,
+        "rozmiar": true
+      },
+      "zaliczone": true
+    }
+  ],
+  "kolejnoscKaruzeli": [],
+  "teksty": "TEKSTY-REKLAM.txt",
+  "zrodla": "ZRODLA.txt",
+  "autentycznyInterfejs": true,
+  "daneDemonstracyjne": true,
+  "interfejsRetuszowany": false,
+  "klikniecieSymulowane": false,
+  "kontrola": {
+    "technicznaZaliczona": true,
+    "uwagi": [],
+    "informacje": [
+      "temat 01-Twoje-logo.teksty.glowny: 274 znaków, Meta zaleca do 125 (Instagram Feed pokazuje ok. 125 znaków; dłuższy tekst zwija się pod „więcej”)"
+    ],
+    "ocenaWizualna": "DO_OCENY_BARTOSZA"
+  },
+  "odrzucenie": {
+    "data": "2026-11-19T18:53:18.157Z",
+    "powod": "raczej nie, reklama na fb ma byc bardziej profesjonalna; akcent na prowadzenie podopiecznych i wlasna aplikacja od 600 zl miesiecznie"
+  }
+}

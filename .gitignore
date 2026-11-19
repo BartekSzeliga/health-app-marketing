@@ -1,0 +1,83 @@
+# Lekkie repo. W Git: zasady, narzędzie, marka, definicje kampanii, źródłowe
+# ekrany i gotowe materiały. Ciężkie pliki robocze leżą w repo na dysku,
+# ale poza Git. Kontrola przed commitem: ./reklama git-kontrola
+
+# --- zawsze poza Git ---
+.DS_Store
+node_modules/
+.tooling/
+.venv/
+.build/
+__pycache__/
+*.pyc
+*.zip
+*.log
+*.local.json
+.env
+.env.*
+*.env
+
+# --- folder do szybkiego przeglądu: kopie plików z DO_WGRANIA ostatniej paczki ---
+/DO_OBEJRZENIA/
+
+# --- kampanie budowane narzędziem: definicja, źródłowe ekrany, teksty i podgląd; bez roboczego qa/ i stocku ---
+/kampanie/*/qa/
+/kampanie/*/zrodla/material/
+# Gotowe grafiki i filmy trafiają do Git dopiero po akceptacji paczki: przebudowy niezaakceptowanej paczki
+# dokładałyby do historii po 100–200 MB. Linie poniżej dopisuje ./reklama akceptuj.
+/kampanie/*/DO_WGRANIA/
+# zaakceptowane paczki kampanii:
+
+# --- przykłady narzędzia: w Git tylko definicja i źródła, wynik się odtwarza ---
+/narzedzie/przyklady/*/*
+!/narzedzie/przyklady/*/kampania.json
+!/narzedzie/przyklady/*/zrodla/
+!/narzedzie/przyklady/*/OPIS.md
+
+# --- archiwum reklam: domyślnie tylko dokumenty, teksty i skrypty ---
+/archiwum/reklamy/*.mov
+/archiwum/reklamy/*/*
+!/archiwum/reklamy/*/README.md
+!/archiwum/reklamy/*/README.txt
+!/archiwum/reklamy/*/MANIFEST.md
+!/archiwum/reklamy/*/LICENSES.md
+!/archiwum/reklamy/*/manifest.json
+!/archiwum/reklamy/*/TEKSTY-REKLAM.txt
+!/archiwum/reklamy/*/ZRODLA.txt
+!/archiwum/reklamy/*/production/
+!/archiwum/reklamy/*/automation/
+!/archiwum/reklamy/*/kampanie/
+!/archiwum/reklamy/*/config/
+!/archiwum/reklamy/*/plan/
+# gotowe materiały paczek aktualnych (statusy: archiwum/INDEX.md)
+!/archiwum/reklamy/diecik-instalacje-2026-10-18/DO_WGRANIA/
+!/archiwum/reklamy/diecik-deficyt-generator-2026-10-21/DO_WGRANIA/
+!/archiwum/reklamy/diecik-brand-v11-2026-10-02/filmy/
+!/archiwum/reklamy/diecik-brand-v11-2026-10-02/okladki/
+!/archiwum/reklamy/specjalista-v10-2026-10-01/filmy/
+!/archiwum/reklamy/specjalista-v10-2026-10-01/okladki/
+!/archiwum/reklamy/meta-start-aplikacji/meta/
+!/archiwum/reklamy/meta-specjalista-ruch/meta/
+!/archiwum/reklamy/specjalista-youtube-2026-09-29/output/
+
+# --- sklepy: opisy, skrypty i pliki gotowe do wgrania ---
+/sklepy/app-store/*/*
+!/sklepy/app-store/*/MANIFEST.md
+!/sklepy/app-store/*/automation/
+!/sklepy/app-store/*/screenshots-*/
+!/sklepy/app-store/*/app-previews-app-store-aac/
+/sklepy/google-play/*/*
+!/sklepy/google-play/*/MANIFEST.md
+!/sklepy/google-play/*/automation/
+!/sklepy/google-play/*/screenshots-*/
+/sklepy/2026-10-30-store-promo/*
+!/sklepy/2026-10-30-store-promo/deliverable/
+!/sklepy/2026-10-30-store-promo/copy/
+
+# --- filmy produktowe: opis, skrypty i finalny master ---
+/filmy/*/*
+!/filmy/*/README.md
+!/filmy/*/*.mjs
+!/filmy/*/output/
+/filmy/dla-dietetykow-2026-08-24/output/*
+!/filmy/dla-dietetykow-2026-08-24/output/*pelny-proces*

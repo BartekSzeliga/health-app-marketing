@@ -1,0 +1,32 @@
+[
+  {
+    "file": "google-feature-1024x500.jpg",
+    "size": [
+      1024,
+      500
+    ],
+    "mode": "RGB",
+    "bytes": 167655,
+    "sha256": "789a1a8300c11430dd30fced8a14772dab1056beeba82e44b6af29189722ccd6"
+  },
+  {
+    "file": "apple-header-v2-3840x1646.png",
+    "size": [
+      3840,
+      1646
+    ],
+    "mode": "RGB",
+    "bytes": 2499495,
+    "sha256": "c86a4d2adf071d764d15b3efc9192a1c6e1fc40e6955c8676a9b08c2ac4bf92d"
+  },
+  {
+    "file": "apple-search-v2-3840x2560.png",
+    "size": [
+      3840,
+      2560
+    ],
+    "mode": "RGB",
+    "bytes": 3752953,
+    "sha256": "319af68faa3a0c5dbb71556388652f645ef018ccff61aa0d943c1bd8f03e1b27"
+  }
+]

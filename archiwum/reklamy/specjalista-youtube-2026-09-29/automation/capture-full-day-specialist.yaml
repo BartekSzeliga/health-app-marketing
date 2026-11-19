@@ -1,0 +1,10 @@
+appId: com.helti.app
+---
+- tapOn: "Od specjalisty"
+- waitForAnimationToEnd
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-full-day-top-refresh
+- swipe:
+    start: "50%,70%"
+    end: "50%,28%"
+    duration: 1700
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-full-day-bottom-refresh

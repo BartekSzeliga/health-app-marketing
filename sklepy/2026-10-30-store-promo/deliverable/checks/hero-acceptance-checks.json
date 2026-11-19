@@ -1,0 +1,8 @@
+{
+  "status": "PASS: Google approved JPG plus two Apple V2 PNGs",
+  "format": "Google JPEG RGB/sRGB; Apple PNG RGB/sRGB without alpha",
+  "font": "Avenir Next; Polish glyphs viewed in FULL270 and390px previews",
+  "current_apple_v2_acceptance": "apple-v2-acceptance.json",
+  "actual_preview_lesson": "Check actual full-image thumbnails, not only template safe crops. Corrected V1 text scale and export extension.",
+  "upload_status": "SUCCESS: all3 assets uploaded and saved as drafts; actual Apple iPhone V2 previews approved; no publication/review/build change"
+}

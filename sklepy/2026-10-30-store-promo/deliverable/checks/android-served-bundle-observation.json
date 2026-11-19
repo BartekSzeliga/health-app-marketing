@@ -1,0 +1,14 @@
+{
+  "manifestRequest": "http://127.0.0.1:8089/",
+  "requestHeaders": {
+    "Expo-Platform": "android",
+    "Accept": "application/expo+json,application/json",
+    "Expo-Protocol-Version": "0"
+  },
+  "bundleUrl": "http://127.0.0.1:8089/index.ts.bundle?platform=android&dev=true&hot=false&lazy=true&transform.engine=hermes&transform.bytecode=1&transform.routerRoot=app&unstable_transformProfile=hermes-stable",
+  "contentType": "application/javascript; charset=UTF-8",
+  "bytes": 14826243,
+  "sha256": "24d41ea625456b726b412bfb4950bd8d03af4f0eac50bd9846c9decee7b13490",
+  "servedAt": 1793393775.974735,
+  "scope": "Hash of the existing local Metro served Android launchAsset at observation time; does not assert prior loaded bytes or common iOS source identity; no runtime edits or reload."
+}

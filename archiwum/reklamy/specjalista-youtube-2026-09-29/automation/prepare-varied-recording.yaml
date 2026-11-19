@@ -1,0 +1,16 @@
+appId: com.helti.app
+---
+- launchApp
+- tapOn: "Dieta, tab, 1 of 7"
+- tapOn: "Od specjalisty"
+- waitForAnimationToEnd
+- swipe:
+    start: "50%,24%"
+    end: "50%,86%"
+    duration: 700
+- swipe:
+    start: "50%,24%"
+    end: "50%,86%"
+    duration: 700
+- tapOn: "Następny dzień"
+- takeScreenshot: /Users/bartoszszeliga/projects/health-app/marketing/reklamy/specjalista-youtube-2026-09-29/qa/iphone-day29-recording-start

@@ -1,0 +1,339 @@
+{
+  "schema": "diecik.manual-campaign-spec.v1",
+  "purpose": "Ręczna konfiguracja w Ads Manager. To nie jest payload Marketing API ani gwarantowany format importu.",
+  "created_at": "2026-10-01",
+  "currency": "PLN",
+  "account_id": null,
+  "page_id": null,
+  "instagram_id": null,
+  "default_status": "PAUSED",
+  "timezone": "Europe/Warsaw",
+  "dates": {
+    "start": null,
+    "end": null,
+    "duration_days": 30
+  },
+  "account_inputs_required": [
+    "ID konta z walutą PLN",
+    "Strona Facebook / konto Instagram",
+    "Dzień startu i koniec 30 dni później",
+    "Publiczny URL aktualnej polityki prywatności",
+    "Sposób odbioru leadów",
+    "Odbiór i zgoda na budżet przed publikacją"
+  ],
+  "current_measurement": "Nie potwierdzono wdrożenia Meta Pixel / GA4. Wszystkie ustawienia pomiaru są warunkami, nie istniejącą konfiguracją.",
+  "campaigns": [
+    {
+      "name": "DC_PL_B2B_LEADS_202610",
+      "status": "PAUSED",
+      "objective_ui": "Leads",
+      "conversion_location_ui": "Instant forms",
+      "performance_goal_ui": "Maksymalizuj liczbę leadów, jeżeli dostępne",
+      "budget": {
+        "scope": "jeden zestaw reklam",
+        "mode_ui": "Lifetime",
+        "amount_pln": 1000,
+        "amount_grosz": 100000,
+        "campaign_budget_ui": "wyłączony / budżet zestawu",
+        "hard_limit": "Sprawdź lifetime 1000 zł i daty w podsumowaniu Ads Manager."
+      },
+      "targeting": {
+        "country": "Polska",
+        "age_min": 18,
+        "age_max": null,
+        "genders": "wszystkie",
+        "languages": "brak filtra języka, kreacja po polsku",
+        "approach": "Jeden zestaw. Kontekst specjalisty w kreacji. Profesjonalne zainteresowania tylko jeśli są dostępne i potwierdzone w UI.",
+        "interests_ids": [],
+        "custom_audiences": [],
+        "lookalikes": [],
+        "excluded_sensitive_signals": "Brak list pacjentów, stanów zdrowia, masy ciała i preferencji dietetycznych."
+      },
+      "placement_policy": "Dwa filmy lead 15 s 9:16 z CTA formularza. Pełne ekrany i detale, dwa osobne przykłady DEMO. Website jest alternatywą tej samej puli, z osobnymi filmami i CTA.",
+      "adset_name": "PL_18PLUS_SPECJALISCI",
+      "instant_form": {
+        "name": "DC_SPECJALISTA_PREZENTACJA_PL_V1",
+        "status": "DRAFT",
+        "type_ui": "Higher intent, jeżeli dostępny",
+        "intro_title": "Zobacz panel specjalisty",
+        "intro_body": "Poznaj proces od ułożenia diety i treningu do publikacji planu w aplikacji klienta. Zostaw kontakt, aby ustalić prezentację.",
+        "prefill_fields": [
+          {
+            "field_ui": "Imię i nazwisko",
+            "required": true
+          },
+          {
+            "field_ui": "Email",
+            "required": true
+          }
+        ],
+        "custom_questions": [
+          {
+            "text": "Jak prowadzisz klientów?",
+            "options": [
+              "Jako dietetyk",
+              "Jako trener personalny",
+              "W innej roli"
+            ]
+          },
+          {
+            "text": "Ilu aktywnych klientów planujesz prowadzić?",
+            "options": [
+              "0–2",
+              "3–30",
+              "31–100",
+              "101+"
+            ]
+          },
+          {
+            "text": "Co chcesz zrobić?",
+            "options": [
+              "Zobaczyć prezentację panelu",
+              "Samodzielnie sprawdzić panel"
+            ]
+          }
+        ],
+        "privacy_policy_url": "https://diecik.com/privacy",
+        "privacy_policy_review": "Trasa potwierdzona w kodzie. Aktualna publiczna treść i zakres obsługi leadów wymagają kontroli przed publikacją.",
+        "consent_notice_draft": "Wysyłając formularz, proszę o kontakt dotyczący panelu specjalisty Diecik na podany adres email. Informacje o przetwarzaniu danych znajdują się w polityce prywatności.",
+        "optional_marketing_opt_in": "Dodaj osobne, dobrowolne pole tylko jeżeli planujesz newsletter. Zgłoszenie prezentacji nie zapisuje automatycznie do newslettera.",
+        "thank_you_title": "Dziękuję za zgłoszenie",
+        "thank_you_body": "Zobacz panel Diecik. Możesz zacząć od darmowego planu do 2 aktywnych klientów.",
+        "thank_you_button": "Zobacz panel",
+        "thank_you_url": "https://diecik.com/specjalista",
+        "qualification": "Qualified lead w CRM: specjalista z Polski, plan prowadzenia co najmniej 3 aktywnych klientów, kontakt i zainteresowanie panelem/prezentacją. Dane pacjentów nie są zbierane.",
+        "ingestion": "Przed startem potwierdź pobieranie leadów przez Leads Center/CRM, właściciela obsługi, deduplikację i odpowiedź do 1 dnia roboczego. SLA jest planem operacyjnym."
+      },
+      "ads": [
+        {
+          "id": "m-b2b-video-a",
+          "campaign": "DC_PL_B2B_LEADS_202610",
+          "adSet": "PL_18PLUS_SPECJALISCI",
+          "audience": "B2B",
+          "format": "Video",
+          "hook": "Plan gotowy. Klient też.",
+          "primary": "Ułóż dietę i trening w panelu Diecik, sprawdź gotowy plan i przekaż go klientowi w aplikacji. Zobacz cały proces na prezentacji. Darmowy plan pozwala prowadzić do 2 aktywnych klientów.",
+          "headline": "Zobacz panel specjalisty",
+          "description": "Dieta, trening i publikacja planu.",
+          "cta": "Zobacz, jak to działa",
+          "button": "Dowiedz się więcej",
+          "url": "https://diecik.com/specjalista",
+          "content": "prezentacja_v3_video_a",
+          "placements": {
+            "Reels / Stories": "filmy/diecik-specjalista-lead-a-15s-story.mp4"
+          },
+          "status": "PAUSED",
+          "destination": "native form",
+          "website_url_role": "Strona po formularzu. Asset prezentacja z CTA Zobacz, jak to działa."
+        },
+        {
+          "id": "m-b2b-video-b",
+          "campaign": "DC_PL_B2B_LEADS_202610",
+          "adSet": "PL_18PLUS_SPECJALISCI",
+          "audience": "B2B",
+          "format": "Video",
+          "hook": "Od planu do aplikacji.",
+          "primary": "Ułóż dietę i trening w panelu Diecik, sprawdź gotowy plan i przekaż go klientowi w aplikacji. Zobacz cały proces na prezentacji. Darmowy plan pozwala prowadzić do 2 aktywnych klientów.",
+          "headline": "Zobacz panel specjalisty",
+          "description": "Dieta, trening i publikacja planu.",
+          "cta": "Zobacz, jak to działa",
+          "button": "Dowiedz się więcej",
+          "url": "https://diecik.com/specjalista",
+          "content": "prezentacja_v3_video_b",
+          "placements": {
+            "Reels / Stories": "filmy/diecik-specjalista-lead-b-15s-story.mp4"
+          },
+          "status": "PAUSED",
+          "destination": "native form",
+          "website_url_role": "Strona po formularzu. Asset prezentacja z CTA Zobacz, jak to działa."
+        }
+      ],
+      "website_alternative": {
+        "status": "PAUSED",
+        "not_additional_budget": "Wybierz zamiast formularza natywnego, nie równolegle. Ta sama pula 1000 zł.",
+        "objective_ui": "Leads",
+        "conversion_location_ui": "Website",
+        "performance_goal_ui": "Neutralny lead potwierdzony przez backend, po audycie i teście",
+        "destination": "https://diecik.com/specjalista",
+        "cta": "Zacznij bezpłatnie",
+        "assets": [
+          "filmy/diecik-specjalista-website-a-15s-story.mp4",
+          "filmy/diecik-specjalista-website-b-15s-story.mp4"
+        ],
+        "dependencies": [
+          "Potwierdzony neutralny pomiar leadu",
+          "Zgody i klasyfikacja źródła danych",
+          "Deduplikacja",
+          "Działający darmowy start po CTA"
+        ],
+        "note": "Publikacja w nazwie pliku opisuje funkcję produktu. Nie oznacza opublikowanej reklamy."
+      }
+    },
+    {
+      "name": "DC_PL_B2C_ULUBIONE_LPV_202610",
+      "status": "PAUSED",
+      "objective_ui": "Traffic",
+      "conversion_location_ui": "Website",
+      "performance_goal_ui": "Landing Page Views, tylko jeśli dostępne i sprawdzone dla źródła danych",
+      "budget": {
+        "scope": "jeden zestaw reklam",
+        "mode_ui": "Lifetime",
+        "amount_pln": 500,
+        "amount_grosz": 50000,
+        "campaign_budget_ui": "wyłączony / budżet zestawu",
+        "hard_limit": "500 zł na uczenie o ruchu i kreacji. Budżet pozostaje zarezerwowany do sprawdzenia pomiaru."
+      },
+      "targeting": {
+        "country": "Polska",
+        "age_min": 18,
+        "age_max": null,
+        "genders": "wszystkie",
+        "languages": "brak filtra języka, kreacja po polsku",
+        "approach": "Szeroki zestaw. Przekaz o organizacji posiłków, bez założeń o zdrowiu lub sylwetce.",
+        "interests_ids": [],
+        "custom_audiences": [],
+        "lookalikes": []
+      },
+      "adset_name": "PL_18PLUS_BROAD_ULUBIONE",
+      "dependencies": [
+        "Potwierdzona aktualna funkcja ulubionych w publicznym produkcie i darmowy limit 3",
+        "Sprawdzony neutralny pomiar wejść i rejestracji oraz poprawny stan zgód",
+        "Klasyfikacja domeny/źródła danych w Events Manager",
+        "Podgląd kreacji i działający URL po kliknięciu"
+      ],
+      "measurement": "Test LPV / kreacji, bez obietnicy CPA lub CPI. Rejestrację, powrót i aktywację licz first-party. Nie wysyłaj nazw posiłków, planu, kalorii, wagi, danych pacjentów ani aktywności związanych ze zdrowiem.",
+      "fallback": "Jeżeli LPV nie jest dostępne lub nie przejdzie QA, pozostaw PAUSED i wykorzystaj materiały organicznie. Wariant kliknięć wymaga osobnego świadomego odbioru celu testu.",
+      "experiment": "Dwa hero 20 s A/B z innym hookiem do 1.42 s. Body, pełne ekrany, reakcje UI i CTA po 1.42 s mają być identyczne. Mały test kierunkowy; bez założenia przewagi przed pomiarem.",
+      "ads": [
+        {
+          "id": "m-b2c-video-a",
+          "campaign": "DC_PL_B2C_ULUBIONE_LPV_202610",
+          "adSet": "PL_18PLUS_BROAD_ULUBIONE",
+          "audience": "B2C",
+          "format": "Video",
+          "hook": "Jeszcze raz?",
+          "primary": "Ulubiony smak wraca jutro. Zapisz gotowy posiłek w Dieciku i dodaj go ponownie do diety. Wypróbuj za darmo: 3 ulubione posiłki. Premium bez limitu.",
+          "headline": "Ulubione posiłki pod ręką",
+          "description": "Darmowy start. 3 ulubione posiłki.",
+          "cta": "Wypróbuj za darmo",
+          "button": "Dowiedz się więcej",
+          "url": "https://diecik.com/",
+          "content": "ulubione_v3_video_a",
+          "placements": {
+            "Reels / Stories": "filmy/diecik-ulubione-a-20s-story.mp4",
+            "Feed": "filmy/diecik-ulubione-a-20s-feed.mp4"
+          },
+          "status": "PAUSED",
+          "url_parameters": "utm_source=meta&utm_medium=paid_social&utm_campaign=dc_pl_b2c_ulubione_202610&utm_content=ulubione_v3_video_a",
+          "thumbnail": "okladki/diecik-ulubione-a-20s-story-hook.jpg"
+        },
+        {
+          "id": "m-b2c-video-b",
+          "campaign": "DC_PL_B2C_ULUBIONE_LPV_202610",
+          "adSet": "PL_18PLUS_BROAD_ULUBIONE",
+          "audience": "B2C",
+          "format": "Video",
+          "hook": "Lubisz ten smak?",
+          "primary": "Ulubiony smak wraca jutro. Zapisz gotowy posiłek w Dieciku i dodaj go ponownie do diety. Wypróbuj za darmo: 3 ulubione posiłki. Premium bez limitu.",
+          "headline": "Ulubione posiłki pod ręką",
+          "description": "Darmowy start. 3 ulubione posiłki.",
+          "cta": "Wypróbuj za darmo",
+          "button": "Dowiedz się więcej",
+          "url": "https://diecik.com/",
+          "content": "ulubione_v3_video_b",
+          "placements": {
+            "Reels / Stories": "filmy/diecik-ulubione-b-20s-story.mp4",
+            "Feed": "filmy/diecik-ulubione-b-20s-feed.mp4"
+          },
+          "status": "PAUSED",
+          "url_parameters": "utm_source=meta&utm_medium=paid_social&utm_campaign=dc_pl_b2c_ulubione_202610&utm_content=ulubione_v3_video_b",
+          "thumbnail": "okladki/diecik-ulubione-b-20s-story-hook.jpg"
+        }
+      ]
+    }
+  ],
+  "primary_sources": {
+    "editorColumns": "https://support.google.com/google-ads/editor/answer/57747?hl=en",
+    "editorCsv": "https://support.google.com/google-ads/editor/answer/56368?hl=en",
+    "editorImport": "https://support.google.com/google-ads/editor/answer/30564?hl=en",
+    "editorRsa": "https://support.google.com/google-ads/editor/answer/7023600?hl=en",
+    "bidding": "https://support.google.com/google-ads/editor/answer/94241?hl=en",
+    "rsa": "https://support.google.com/google-ads/answer/7684791?hl=en",
+    "dailyBudget": "https://support.google.com/google-ads/answer/10486536?hl=en",
+    "totalBudget": "https://support.google.com/google-ads/answer/10486938?hl=en",
+    "negatives": "https://support.google.com/google-ads/editor/answer/71857?hl=en",
+    "personalized": "https://support.google.com/adspolicy/answer/143465?hl=en",
+    "metaAttributes": "https://transparency.meta.com/policies/ad-standards/objectionable-content/privacy-violations-personal-attributes/",
+    "metaTraffic": "https://www.facebook.com/business/ads/ad-objectives/traffic",
+    "metaLeads": "https://www.facebook.com/business/ads/ad-objectives/lead-generation",
+    "metaReels": "https://www.facebook.com/business/ads/facebook-instagram-reels-ads"
+  },
+  "meta_source_access_note": "Strony polityk/Traffic/Leads zwróciły 429 lub ekran logowania 30.09.2026. Nazwy i dostępność opcji wymagają potwierdzenia w zalogowanym Ads Manager. Nie potwierdzono gotowości konta ani zgodności finalnej reklamy.",
+  "creative_library": {
+    "status": "DRAFT",
+    "purpose": "Dodatki: short 10 s i website wide 15 s. Są opcjonalnymi materiałami; nie tworzą nowej kampanii ani dodatkowego budżetu.",
+    "assets": [
+      "filmy/diecik-ulubione-a-10s-story.mp4",
+      "filmy/diecik-specjalista-website-a-15s-wide.mp4"
+    ],
+    "image_usage": "JPG hook są okładkami filmów. JPG CTA mogą służyć jako osobne warianty statyczne po podglądzie placementu. Nie są image assets Search.",
+    "budget_change": false
+  },
+  "creative_revision": "v3: spokojniejsze tempo, hero 20 s / short 10 s, finał bez stopki o limicie",
+  "creative_revision_version": 3,
+  "creative_contract": {
+    "revision": "v3",
+    "hero_duration_seconds": 20,
+    "short_duration_seconds": 10,
+    "b2b_duration_seconds": 15,
+    "b2c_hero": {
+      "hook_variants": [
+        "Jeszcze raz?",
+        "Lubisz ten smak?"
+      ],
+      "body_identical_from_seconds": 1.42,
+      "full_screen_context_seconds": [
+        1.15,
+        3.5
+      ],
+      "save_tap_seconds": 5.65,
+      "add_tap_seconds": 11.75,
+      "result_context_seconds": [
+        12.7,
+        15.2
+      ],
+      "cover_hook_seconds": 0.65,
+      "cover_cta_seconds": 18.7
+    },
+    "b2c_short": {
+      "add_tap_seconds": 4.1,
+      "result_context_seconds": [
+        4.9,
+        7.0
+      ],
+      "cta_seconds": [
+        7.0,
+        10.0
+      ],
+      "cover_hook_seconds": 0.65,
+      "cover_cta_seconds": 8.5
+    },
+    "b2b": {
+      "cover_hook_seconds": 1.3,
+      "cover_cta_seconds": 13.7,
+      "separate_demo_examples": true,
+      "same_package_handoff_verified": false
+    },
+    "favourite_limit_disclosure": {
+      "free_favourite_meals": 3,
+      "premium_favourite_meals": "unlimited",
+      "retained_in": [
+        "ad primary text",
+        "ad description",
+        "manual specification"
+      ],
+      "video_footer_visible": false
+    },
+    "verification_note": "To kontrakt bieżącej rewizji; zgodność finalnych filmów potwierdza osobny odbiór renderów."
+  }
+}

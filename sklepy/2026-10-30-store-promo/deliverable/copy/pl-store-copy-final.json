@@ -1,0 +1,81 @@
+{
+  "language": "pl-PL",
+  "nameKeep": "Diecik: dieta i trening",
+  "googlePlay": {
+    "shortDescription": "Licz kalorie, planuj posiłki i treningi. Twój plan zawsze pod ręką.",
+    "fullDescription": "Dieta i trening w jednym planie. Diecik pomaga liczyć kalorie, układać jadłospisy i organizować aktywność. Zaplanuj najbliższy posiłek, sprawdź makroskładniki i miej swój trening pod ręką.\n\nPOSIŁKI PO TWOJEMU\nZobacz posiłki oraz kalorie, białko, węglowodany, tłuszcz i błonnik w widoku dnia. Układaj dietę samodzielnie lub skorzystaj z generatora jadłospisów. Wybieraj produkty i przepisy, zmieniaj porcje i zapisuj ulubione posiłki.\n\nMNIEJ WPISYWANIA\nWyszukaj produkt w bazie, zeskanuj kod kreskowy lub przeanalizuj zdjęcie posiłku. AI proponuje składniki i ich ilości — sprawdź wynik i popraw go przed zatwierdzeniem.\n\nTRENING POD RĘKĄ\nWygeneruj plan treningowy lub ułóż własny. Dobieraj ćwiczenia, serie i powtórzenia. Korzystaj z dostępnych instrukcji i wracaj do rozpiski podczas treningu.\n\nTWOJA HISTORIA POSTĘPÓW\nZapisuj wagę i pomiary. Przeglądaj wykresy i obserwuj zmiany w wybranym okresie.\n\nTAKŻE ZE SWOIM SPECJALISTĄ\nPołącz konto z dietetykiem lub trenerem, z którym współpracujesz, i odbieraj udostępnione przez niego diety oraz treningi w aplikacji.\n\nZACZNIJ BEZPŁATNIE\nPodstawowe planowanie diety, generator diety standardowej i wybrane funkcje są dostępne bezpłatnie. Premium rozszerza możliwości: dodatkowe typy diet, kopiowanie dni i tygodni, lista zakupów do własnej diety, więcej analiz zdjęć i ulubione posiłki bez limitu.\n\nAnaliza zdjęć podlega limitom wybranego planu. Premium jest opcjonalne. Aktualną cenę, okres dostępu i warunki zakupu zobaczysz przed potwierdzeniem płatności.\n\nZaplanuj dzień po swojemu — z Diecikiem.\n\nDiecik nie jest wyrobem medycznym i nie służy do diagnozowania, leczenia ani zapobiegania chorobom. Nie zastępuje indywidualnej porady medycznej. W sprawach zdrowia skonsultuj się z lekarzem lub dietetykiem.\n\nPolityka prywatności: https://diecik.com/privacy"
+  },
+  "appStore": {
+    "promotionalText": "Planuj posiłki i treningi po swojemu. Sprawdzaj kalorie, korzystaj z analizy zdjęć i obserwuj postępy. Zacznij bezpłatnie, rozwiń możliwości z Premium.",
+    "description": "Dieta i trening w jednym planie. Diecik pomaga liczyć kalorie, układać jadłospisy i organizować aktywność. Zaplanuj najbliższy posiłek, sprawdź makroskładniki i miej swój trening pod ręką.\n\nPOSIŁKI PO TWOJEMU\nZobacz posiłki oraz kalorie, białko, węglowodany, tłuszcz i błonnik w widoku dnia. Układaj dietę samodzielnie lub skorzystaj z generatora jadłospisów. Wybieraj produkty i przepisy, zmieniaj porcje i zapisuj ulubione posiłki.\n\nMNIEJ WPISYWANIA\nWyszukaj produkt w bazie, zeskanuj kod kreskowy lub przeanalizuj zdjęcie posiłku. AI proponuje składniki i ich ilości — sprawdź wynik i popraw go przed zatwierdzeniem.\n\nTRENING POD RĘKĄ\nWygeneruj plan treningowy lub ułóż własny. Dobieraj ćwiczenia, serie i powtórzenia. Korzystaj z dostępnych instrukcji i wracaj do rozpiski podczas treningu.\n\nTWOJA HISTORIA POSTĘPÓW\nZapisuj wagę i pomiary. Przeglądaj wykresy i obserwuj zmiany w wybranym okresie.\n\nTAKŻE ZE SWOIM SPECJALISTĄ\nPołącz konto z dietetykiem lub trenerem, z którym współpracujesz, i odbieraj udostępnione przez niego diety oraz treningi w aplikacji.\n\nZACZNIJ BEZPŁATNIE\nPodstawowe planowanie diety, generator diety standardowej i wybrane funkcje są dostępne bezpłatnie. Premium rozszerza możliwości: dodatkowe typy diet, kopiowanie dni i tygodni, lista zakupów do własnej diety, więcej analiz zdjęć i ulubione posiłki bez limitu.\n\nAnaliza zdjęć podlega limitom wybranego planu. Premium jest opcjonalne. Aktualną cenę, okres dostępu i warunki zakupu zobaczysz przed potwierdzeniem płatności.\n\nZaplanuj dzień po swojemu — z Diecikiem.\n\nDiecik nie jest wyrobem medycznym i nie służy do diagnozowania, leczenia ani zapobiegania chorobom. Nie zastępuje indywidualnej porady medycznej. W sprawach zdrowia skonsultuj się z lekarzem lub dietetykiem.\n\nSubskrypcjami kupionymi w App Store zarządzasz w ustawieniach konta Apple. Subskrypcja odnawia się automatycznie, chyba że wyłączysz odnowienie przed końcem okresu. Cenę i warunki potwierdza App Store przed zakupem.\n\nPolityka prywatności: https://diecik.com/privacy\nWarunki użytkowania (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/",
+    "keywords": "licznik,kalkulator,makro,kcal,jadłospis,posiłki,waga,przepisy,skaner,siłownia",
+    "subtitle": "Kalorie i plan posiłków"
+  },
+  "screenshots": {
+    "language": "pl-PL",
+    "status": "Final8currentnativecards; prepared4sizegroups, no ExpoWeb/archivalpreviews",
+    "screens": [
+      {
+        "order": 1,
+        "file": "01-diet-day-NATIVE.png",
+        "headline": "Kalorie\npod kontrolą",
+        "subline": "Posiłki i makro w jednym miejscu.",
+        "footnote": "Przykładowe dane"
+      },
+      {
+        "order": 2,
+        "file": "02-generated-plan-NATIVE.png",
+        "headline": "Jadłospis\npo Twojemu",
+        "subline": "Wybierz dietę, preferencje i liczbę dni.",
+        "footnote": "Przykładowe dane"
+      },
+      {
+        "order": 3,
+        "file": "03-recipe-NATIVE.png",
+        "headline": "Przepis\npod ręką",
+        "subline": "Składniki, ilości i sposób przygotowania.",
+        "footnote": "Przykładowe dane"
+      },
+      {
+        "order": 4,
+        "file": "04-training-plan-NATIVE.png",
+        "headline": "Twój trening\nkrok po kroku",
+        "subline": "Ćwiczenia, serie i powtórzenia w planie.",
+        "footnote": "Przykładowe dane"
+      },
+      {
+        "order": 5,
+        "file": "05-exercise-NATIVE.png",
+        "headline": "Ćwicz\nz instrukcją",
+        "subline": "Wracaj do wskazówek podczas treningu.",
+        "footnote": "Przykładowe dane"
+      },
+      {
+        "order": 6,
+        "file": "06-progress-NATIVE.png",
+        "headline": "Zapisuj\nswoje postępy",
+        "subline": "Pomiary i wykresy w jednym miejscu.",
+        "footnote": "Przykładowe dane"
+      },
+      {
+        "order": 7,
+        "file": "07-specialist-diet-NATIVE.png",
+        "headline": "Plan specjalisty\npod ręką",
+        "subline": "Odbieraj udostępnione diety w aplikacji.",
+        "footnote": "Przykładowe dane"
+      },
+      {
+        "order": 8,
+        "file": "08-shopping-NATIVE.png",
+        "headline": "Lista zakupów\nz Twojego planu",
+        "subline": "Produkty z własnej diety · Premium.",
+        "footnote": "Przykładowe dane"
+      }
+    ]
+  },
+  "featureGraphic": {
+    "headline": "Dieta. Trening. Twój plan.",
+    "subline": "Kalorie, posiłki i ruch w jednej aplikacji."
+  },
+  "status": "ROOT REVIEWED — evergreen benefits, no numerical subscription limits or unreleased pair claims"
+}

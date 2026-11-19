@@ -1,0 +1,17 @@
+{
+  "concept":"Dieta nie kończy się w gabinecie",
+  "duration":20,
+  "fps":30,
+  "scenes":[
+    {"from":0,"to":4,"file":"assets/panel-composite/opening-panel-4s.mp4","source_start":0,"role":"illustrative specialist with authentic diet panel composited into physical laptop"},
+    {"from":4,"to":7,"file":"assets/footage/kitchen-phone-7198700.mp4","source_start":0.4,"crop":{"x":674,"y":0,"w":608,"h":1080},"role":"replacement phone/kitchen actor"},
+    {"from":7,"to":11,"file":"assets/footage/kitchen-phone-7198700.mp4","source_start":2.1,"crop":{"x":674,"y":0,"w":608,"h":1080},"blur":true,"role":"moving background for genuine complete published diet screen"},
+    {"from":11,"to":16,"file":"../specjalista-v7-2026-10-01/assets/footage/salad-portrait-6707753.mp4","source_start":1,"role":"accepted meal insert; illustrative different actor"},
+    {"from":16,"to":20,"role":"accepted brand and offer"}
+  ],
+  "source_kitchen_ranges_overlap":true,
+  "stock_audio_removed":true,
+  "footage_speed":1,
+  "phone_screen_unmodified":true,
+  "handoff_of_exact_plan_not_asserted":true
+}

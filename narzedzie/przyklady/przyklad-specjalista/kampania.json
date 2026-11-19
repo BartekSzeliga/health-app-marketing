@@ -1,0 +1,107 @@
+{
+  "nazwa": "Przykład układu — dietetyk: plan w panelu, podopieczny w aplikacji",
+  "data": "2026-11-19",
+  "typ": "reklama",
+  "odbiorca": "specjalista",
+  "cel": "ruch na stronę dla specjalistów",
+  "motyw": "diecik",
+  "cta": {
+    "plansza": "Dowiedz się więcej",
+    "podpis": "diecik.com/specjalista",
+    "przycisk": "Dowiedz się więcej"
+  },
+  "ujawnienie": "Dane przykładowe",
+  "linki": {
+    "strona": "https://diecik.com/specjalista"
+  },
+  "pochodzenie": {
+    "data": "2026-11-09",
+    "urzadzenie": "panel web 1440×1000 oraz natywny zrzut iOS; te same ujęcia, które są opublikowane na diecik.com",
+    "konto": "konto demonstracyjne specjalisty i fikcyjny podopieczny",
+    "uwaga": "to przykład układu narzędzia, a nie paczka do publikacji"
+  },
+  "zrodla": {
+    "panelJadlospis": {
+      "plik": "zrodla/ekrany/panel-jadlospis.png",
+      "opis": "Panel specjalisty: dzień jadłospisu z podsumowaniem"
+    },
+    "telefonKlienta": {
+      "plik": "zrodla/ekrany/telefon-od-specjalisty.webp",
+      "opis": "Aplikacja podopiecznego: zakładka Od specjalisty"
+    }
+  },
+  "tematy": [
+    {
+      "id": "01-Plan-u-podopiecznego",
+      "nazwa": "Plan z panelu w aplikacji podopiecznego",
+      "etykieta": "Dla dietetyków",
+      "naglowek": [
+        "Dieta nie kończy się",
+        "w gabinecie."
+      ],
+      "tresc": [
+        "Układasz jadłospis w panelu.",
+        "Podopieczny ma go w swojej aplikacji."
+      ],
+      "uklad": "panel+telefon",
+      "panel": "panelJadlospis",
+      "ekran": "telefonKlienta",
+      "formaty": [
+        "1x1",
+        "4x5",
+        "9x16"
+      ],
+      "teksty": {
+        "glowny": "Dieta nie kończy się w gabinecie. W Dieciku przygotujesz jadłospis dla podopiecznego i udostępnisz go w jego aplikacji.",
+        "naglowek": "Więcej niż jadłospis.",
+        "opis": "Plan w aplikacji podopiecznego."
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Specjalista układa jadłospis dnia w panelu web.",
+          "repo": "health-app-frontend",
+          "plik": "src/features/trainer/TrainerDietContent.tsx"
+        },
+        {
+          "twierdzenie": "Podopieczny widzi opublikowany plan w zakładce Od specjalisty w aplikacji.",
+          "repo": "health-app-mobile",
+          "plik": "src/screens/diet/DietDayScreen.tsx"
+        }
+      ]
+    },
+    {
+      "id": "02-Jadlospis-w-panelu",
+      "nazwa": "Jadłospis i podsumowanie dnia w panelu",
+      "etykieta": "Panel specjalisty",
+      "naglowek": [
+        "Jadłospis i makro",
+        "na jednym ekranie."
+      ],
+      "tresc": [
+        "Posiłki, kalorie i makro dnia widzisz podczas układania planu."
+      ],
+      "uklad": "panel",
+      "panel": "panelJadlospis",
+      "formaty": [
+        "1x1",
+        "4x5"
+      ],
+      "teksty": {
+        "glowny": "Układaj jadłospis i od razu widź podsumowanie dnia: kalorie, białko, węglowodany, tłuszcz i błonnik względem celu podopiecznego.",
+        "naglowek": "Jadłospis i makro razem",
+        "opis": "Panel specjalisty Diecik."
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Panel pokazuje podsumowanie dnia z makro względem celu.",
+          "repo": "health-app-frontend",
+          "plik": "src/features/trainer/components/TrainerDietTemplateSummary.tsx"
+        }
+      ]
+    }
+  ],
+  "uwagi": [
+    "Przykład układu dla specjalistów. Nie obiecujemy pozyskania klientów ani efektów zdrowotnych podopiecznych.",
+    "Ekran panelu i ekran telefonu pochodzą z kont demonstracyjnych; jako jeden przepływ opisujemy je tylko wtedy, gdy konto i opublikowany pakiet są rzeczywiście powiązane."
+  ]
+}

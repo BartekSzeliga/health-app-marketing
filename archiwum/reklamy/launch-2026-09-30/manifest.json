@@ -1,0 +1,482 @@
+{
+  "schema": "diecik.campaign-deliverables.v1",
+  "createdAt": "2026-09-30T21:45:06.615Z",
+  "status": "READY_LOCAL_NOT_PUBLISHED",
+  "themeB2C": "Ulubione posiłki — Zapisz raz. Dodawaj ponownie.",
+  "budget": {
+    "proposed": true,
+    "totalPLN": 3000,
+    "days": 30,
+    "googleSearchB2B": 1500,
+    "metaB2B": 1000,
+    "metaB2C": 500
+  },
+  "sourceProvenance": {
+    "panel": "Authentic screen recording from 2026-09-29, private file preserved in the project.",
+    "native": "Fresh 2026-09-30 local iPhone capture; fictional DEMO accounts.",
+    "b2bContinuity": "Two separate DEMO examples, explicitly labelled in the film.",
+    "photos": "Built-in imagegen; exact prompts in sources/photos/prompts.json.",
+    "audio": "Existing original Diecik composition using GarageBand Apple Loops, see LICENSES.md."
+  },
+  "exports": [
+    {
+      "file": "google/b2b-publikacja-1200x1200.jpg",
+      "bytes": 210920,
+      "sha256": "7c419c494ec82337ce0bc2a78d24e2f54524095bccc89774bff2dc58de389463",
+      "kind": "image",
+      "width": 1200,
+      "height": 1200,
+      "illustrativeFoodPhoto": false
+    },
+    {
+      "file": "google/b2b-publikacja-1200x628.jpg",
+      "bytes": 143004,
+      "sha256": "3377771cd52f59067cbe6aadf9342a6c227239700d078008893852651f573b1c",
+      "kind": "image",
+      "width": 1200,
+      "height": 628,
+      "illustrativeFoodPhoto": false
+    },
+    {
+      "file": "meta/b2b-publikacja-feed-1080x1350.jpg",
+      "bytes": 251313,
+      "sha256": "701e5ae3ecccb3fff7f27fa2b11646e8bcf9afd37e5606032df1efb821b7b873",
+      "kind": "image",
+      "width": 1080,
+      "height": 1350,
+      "illustrativeFoodPhoto": false
+    },
+    {
+      "file": "meta/b2b-publikacja-story-1080x1920.jpg",
+      "bytes": 269728,
+      "sha256": "eac7d53fb7910eb569c9f7184106b1a01c9549f590c07a084606e401d2977dce",
+      "kind": "image",
+      "width": 1080,
+      "height": 1920,
+      "illustrativeFoodPhoto": false
+    },
+    {
+      "file": "meta/b2c-ulubione-feed-1080x1350.jpg",
+      "bytes": 514685,
+      "sha256": "2e6cea178729d020c3a0d1bb0fee85085c8bdd2f9711fcd5151992985c19425b",
+      "kind": "image",
+      "width": 1080,
+      "height": 1350,
+      "illustrativeFoodPhoto": true
+    },
+    {
+      "file": "meta/b2c-ulubione-hook-b-feed-1080x1350.jpg",
+      "bytes": 509318,
+      "sha256": "b43f491404a75aa9d4f9da0f875135a2ca27e1c8e1a4e26363e3c9fe0a1ef9ca",
+      "kind": "image",
+      "width": 1080,
+      "height": 1350,
+      "illustrativeFoodPhoto": true
+    },
+    {
+      "file": "meta/b2c-ulubione-proof-feed-1080x1350.jpg",
+      "bytes": 221850,
+      "sha256": "f7d8c30394e391029a1e884bac4bcccea24734f846cf7d462795cf3e3c794ea2",
+      "kind": "image",
+      "width": 1080,
+      "height": 1350,
+      "illustrativeFoodPhoto": false
+    },
+    {
+      "file": "meta/b2c-ulubione-proof-story-1080x1920.jpg",
+      "bytes": 228565,
+      "sha256": "069ad3b0c7add75b98c366a2bc80175ea212ff2f26a82b4a78235fdcf44af5ca",
+      "kind": "image",
+      "width": 1080,
+      "height": 1920,
+      "illustrativeFoodPhoto": false
+    },
+    {
+      "file": "meta/b2c-ulubione-story-1080x1920.jpg",
+      "bytes": 661511,
+      "sha256": "feacb41ac561e634d1016a99badcbbcdfad52f922e003f1d923acb402839207a",
+      "kind": "image",
+      "width": 1080,
+      "height": 1920,
+      "illustrativeFoodPhoto": true
+    },
+    {
+      "file": "organic/b2c-ulubione-1080x1080.jpg",
+      "bytes": 437794,
+      "sha256": "8925ed4aae0cf17a7953f01a3674f7662ba8a9f0ebeb77014cf8d31a587b26c3",
+      "kind": "image",
+      "width": 1080,
+      "height": 1080,
+      "illustrativeFoodPhoto": true
+    },
+    {
+      "file": "organic/carousel/01-ulubione-1080x1080.jpg",
+      "bytes": 432987,
+      "sha256": "ab7654e35969423e11c6bb7d1a725761cfb0f7bc6388f4b0111e12df007bdcd5",
+      "kind": "image",
+      "width": 1080,
+      "height": 1080,
+      "illustrativeFoodPhoto": true
+    },
+    {
+      "file": "organic/carousel/02-zapisz-1080x1080.jpg",
+      "bytes": 148117,
+      "sha256": "5ca7b7ac75e9927c502c07d555049f1917dc3bbb1b530936ee165282f1c39a76",
+      "kind": "image",
+      "width": 1080,
+      "height": 1080,
+      "illustrativeFoodPhoto": false
+    },
+    {
+      "file": "organic/carousel/03-dodaj-1080x1080.jpg",
+      "bytes": 174210,
+      "sha256": "e3f4d81b8c9453108eb8dd997a256679873c8c51b80c18444dee94bc6261f03b",
+      "kind": "image",
+      "width": 1080,
+      "height": 1080,
+      "illustrativeFoodPhoto": false
+    },
+    {
+      "file": "google/b2b-publikacja-20s-1920x1080.mp4",
+      "bytes": 3288215,
+      "sha256": "4bc400a99b00262297db3a48bd2075765679dc16dea6d9d84cb1f0645f9133f8",
+      "kind": "video",
+      "width": 1920,
+      "height": 1080,
+      "duration": 20,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "google/b2b-publikacja-20s-1920x1080-pl.srt"
+    },
+    {
+      "file": "google/b2b-publikacja-20s-1920x1080-pl.srt",
+      "bytes": 460,
+      "sha256": "f005cec16cac20f24e7dc46178d5aa1ac180e44c1395a193c16ed5a41f278553",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "meta/b2b-prezentacja-20s-1080x1920.mp4",
+      "bytes": 3275277,
+      "sha256": "301bd3f7e855fd134ac33a924fe5c60a920d39394a7ada9fc6b2a45597ffc920",
+      "kind": "video",
+      "width": 1080,
+      "height": 1920,
+      "duration": 20,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "meta/b2b-prezentacja-20s-1080x1920-pl.srt"
+    },
+    {
+      "file": "meta/b2b-prezentacja-20s-1080x1920-pl.srt",
+      "bytes": 463,
+      "sha256": "26cdcea437dc715a6573ac9f1cf22de0d91d1d032f100c43d73707a5721d2cac",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "meta/b2b-prezentacja-hook-b-20s-1080x1920.mp4",
+      "bytes": 3149785,
+      "sha256": "ff13772f8a9627a451e6e2829842127f618035927bc7dd87e3560a7a9786f38c",
+      "kind": "video",
+      "width": 1080,
+      "height": 1920,
+      "duration": 20,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "meta/b2b-prezentacja-hook-b-20s-1080x1920-pl.srt"
+    },
+    {
+      "file": "meta/b2b-prezentacja-hook-b-20s-1080x1920-pl.srt",
+      "bytes": 471,
+      "sha256": "45226918051185cd72163441a885c2eb75a71e1be8176a5f2c549e54a5c9014b",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "meta/b2b-publikacja-20s-1080x1920.mp4",
+      "bytes": 3266578,
+      "sha256": "fee7a5c79ffeea9c7c1475a0a5bb5bd8652f37b29b6938f18dcd65aa473a4f9e",
+      "kind": "video",
+      "width": 1080,
+      "height": 1920,
+      "duration": 20,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "meta/b2b-publikacja-20s-1080x1920-pl.srt"
+    },
+    {
+      "file": "meta/b2b-publikacja-20s-1080x1920-pl.srt",
+      "bytes": 460,
+      "sha256": "f005cec16cac20f24e7dc46178d5aa1ac180e44c1395a193c16ed5a41f278553",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "meta/b2b-publikacja-hook-b-20s-1080x1920.mp4",
+      "bytes": 3141086,
+      "sha256": "04e7fb805fa1f67ffe8e6c2be1ae21b9bc879e628a4a1172b2ca36180af00ae0",
+      "kind": "video",
+      "width": 1080,
+      "height": 1920,
+      "duration": 20,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "meta/b2b-publikacja-hook-b-20s-1080x1920-pl.srt"
+    },
+    {
+      "file": "meta/b2b-publikacja-hook-b-20s-1080x1920-pl.srt",
+      "bytes": 466,
+      "sha256": "38c0096f80e294806909df9cda27f445dbd559aaa4bd452b24e14cadbf46b752",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "meta/b2c-ulubione-15s-1080x1350.mp4",
+      "bytes": 2908513,
+      "sha256": "7582abb6122942e72e7c638ecbb1b244140b8462e1883eaa535ef93459d11b5a",
+      "kind": "video",
+      "width": 1080,
+      "height": 1350,
+      "duration": 15,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "meta/b2c-ulubione-15s-1080x1350-pl.srt"
+    },
+    {
+      "file": "meta/b2c-ulubione-15s-1080x1350-pl.srt",
+      "bytes": 483,
+      "sha256": "3820d5a89ca36bfb3201f4f979fdcabec8a2bca1d33078586d6e61187deccc9f",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "meta/b2c-ulubione-15s-1080x1920.mp4",
+      "bytes": 3212744,
+      "sha256": "f4d3d47de320159b39c3b888c51b700809fd2ca2e180551deb1005b94cf869cc",
+      "kind": "video",
+      "width": 1080,
+      "height": 1920,
+      "duration": 15,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "meta/b2c-ulubione-15s-1080x1920-pl.srt"
+    },
+    {
+      "file": "meta/b2c-ulubione-15s-1080x1920-pl.srt",
+      "bytes": 483,
+      "sha256": "3820d5a89ca36bfb3201f4f979fdcabec8a2bca1d33078586d6e61187deccc9f",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "meta/b2c-ulubione-hook-b-15s-1080x1350.mp4",
+      "bytes": 2890203,
+      "sha256": "73d916a3cd3340cad44a2e7955534a888f6d4e28fc5a33e707b6de68158b6b7d",
+      "kind": "video",
+      "width": 1080,
+      "height": 1350,
+      "duration": 15,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "meta/b2c-ulubione-hook-b-15s-1080x1350-pl.srt"
+    },
+    {
+      "file": "meta/b2c-ulubione-hook-b-15s-1080x1350-pl.srt",
+      "bytes": 508,
+      "sha256": "4cfbefc6bbbad77ff071a74289d9e22581a2c24daad45d760d7b425fef30d1a5",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "meta/b2c-ulubione-hook-b-15s-1080x1920.mp4",
+      "bytes": 3196207,
+      "sha256": "ade5116ddf3ed9808c0979933ed283b1c7b4881ec3f46fa2c0f138dadeed5261",
+      "kind": "video",
+      "width": 1080,
+      "height": 1920,
+      "duration": 15,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "meta/b2c-ulubione-hook-b-15s-1080x1920-pl.srt"
+    },
+    {
+      "file": "meta/b2c-ulubione-hook-b-15s-1080x1920-pl.srt",
+      "bytes": 508,
+      "sha256": "4cfbefc6bbbad77ff071a74289d9e22581a2c24daad45d760d7b425fef30d1a5",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "organic/b2c-ulubione-bumper-6s-1080x1920.mp4",
+      "bytes": 3762057,
+      "sha256": "a1db0cf542d4e0b06b02051dc7a0a7191e19fd4bfb88d60f7718409cccd37b72",
+      "kind": "video",
+      "width": 1080,
+      "height": 1920,
+      "duration": 6,
+      "fps": 30,
+      "codec": "h264",
+      "audio": "aac",
+      "embeddedPolishText": true,
+      "voiceover": false,
+      "transcription": "organic/b2c-ulubione-bumper-6s-1080x1920-pl.srt"
+    },
+    {
+      "file": "organic/b2c-ulubione-bumper-6s-1080x1920-pl.srt",
+      "bytes": 162,
+      "sha256": "e2162889b4da5750aebfe7527f7e0eed16d4f28a24fdee72df64a68ab7859af3",
+      "kind": "transcription",
+      "purpose": "Editable transcription; text is already visible in the video, avoid duplicating it."
+    },
+    {
+      "file": "README.md",
+      "bytes": 7249,
+      "sha256": "7f30f4018fc068720401e4054d9510dd69a235c75f109b01a020fa011d18bbe0",
+      "kind": "document"
+    },
+    {
+      "file": "LICENSES.md",
+      "bytes": 1185,
+      "sha256": "835ff818e758ba852844c15bc22e6cb66635739be55187d7f80492f11974ee4e",
+      "kind": "document"
+    },
+    {
+      "file": "strategy/marketing-plan.pdf",
+      "bytes": 96586,
+      "sha256": "f7ae698d3a6f2f68eb6e80ccbb21fa20cdb931a9aab3494fde196e25acafe5c2",
+      "kind": "document"
+    },
+    {
+      "file": "strategy/marketing-plan.md",
+      "bytes": 39017,
+      "sha256": "36707e55243522d4f0d0273c8ded65ac63681a2efb45f34fe1370e138e826234",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/diecik-campaign-operations.xlsx",
+      "bytes": 48732,
+      "sha256": "6c4e6fb0e92a275eb6d40dc367afff4cb2214bc64698846e391782e0185b5ecf",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/README.md",
+      "bytes": 11529,
+      "sha256": "fddee745bfd7537b7aa91783b8131bcb49308f15a6c3a5ce533dad5e519909a4",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/launch-checklist.md",
+      "bytes": 7829,
+      "sha256": "de89ddfbd20d5ff35ea360e3cc5c5aaf26ecc250ff7f4a75a2af4c0d63e7bc97",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/meta/manual-campaign-spec.json",
+      "bytes": 14313,
+      "sha256": "afd9c6b1b204e29b5e3b6ac06e1090e2c477ee832c4f1c0b930ded05748f1f36",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/meta/manual-ad-copy.csv",
+      "bytes": 2486,
+      "sha256": "11fa0481b446aa23c3ab6180e58d2a35836a7b2863ac2380a1b6d4c1b9802f36",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/google-editor/01-campaign-average-daily-ALTERNATIVE.csv",
+      "bytes": 212,
+      "sha256": "5e5e368cd39de2157493ad1f90b39e04b6e1665faa02c133093bb0e5d54c4cd3",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/google-editor/02-adgroups.csv",
+      "bytes": 174,
+      "sha256": "66859a75f94dd4ce7ecad002229071162711f1f14404a03ea3f945028078ae2f",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/google-editor/03-keywords.csv",
+      "bytes": 3080,
+      "sha256": "76110a3e83ba1b1f45295f6937ac6724dc7b3629340157fb146de60dc2a664c8",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/google-editor/04-campaign-negatives.csv",
+      "bytes": 879,
+      "sha256": "662099521909df9d9e2f6d585930e8020ac4be45a7e9573b943d2eb6103f9cef",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/google-editor/05-rsa-paste-in-RSA-view.csv",
+      "bytes": 2307,
+      "sha256": "d4fb9455492cc993b2928562778fa3b752205caaa4b7348120862b8f25c89f1c",
+      "kind": "document"
+    },
+    {
+      "file": "campaigns/google-editor/06-location.csv",
+      "bytes": 62,
+      "sha256": "316ce92d18abdad580c384f1211f7d6daad2dfed19b0ef942b208254a31dac4f",
+      "kind": "document"
+    },
+    {
+      "file": "sources/photos/prompts.json",
+      "bytes": 3795,
+      "sha256": "ee6bdf8a182cddc5d13691eb9aef3bee9c6370a4b94057df26b0152fee9d0f35",
+      "kind": "document"
+    },
+    {
+      "file": "organic/teksty-publikacji.txt",
+      "bytes": 2404,
+      "sha256": "ac0e88388d5ce8e709826cbdce56dbef8fe1eb57d0d0c39166d6eea4c5c723b7",
+      "kind": "document"
+    },
+    {
+      "file": "podglad-kampanii.jpg",
+      "bytes": 563485,
+      "sha256": "d947c9b716eeb00669afda3abed4607ba032882791467af8e8ee19fae7502791",
+      "kind": "preview"
+    },
+    {
+      "file": "sources/photos/ulubione-kakaowa-owsianka-editorial.png",
+      "bytes": 2136046,
+      "sha256": "3270dde9082e90b76b4d01fcb1c2e92c80988640958e979b43d96e48abcaf975",
+      "kind": "illustrative-photo-source",
+      "aiGenerated": true
+    },
+    {
+      "file": "sources/photos/ulubione-owsianka-editorial.png",
+      "bytes": 2005111,
+      "sha256": "2aaeb8d804ba0a94e5e6a850145887b46393fd026a69ab27c9da63a794e1b7dc",
+      "kind": "illustrative-photo-source",
+      "aiGenerated": true
+    }
+  ]
+}

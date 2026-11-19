@@ -1,0 +1,50 @@
+{
+  "pass": true,
+  "changedRenderCount": 3,
+  "unchangedOtherPNG": 21,
+  "unchangedOtherSVG": 21,
+  "checks": [
+    {
+      "file": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1206x2622/08-shopping-NATIVE.png",
+      "sha256": "2d97cd9f99451e674ebe098c71174fd640093682e4ecadea22d9792e138d2ccf",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "subline": "Produkty z w\u0142asnej diety \u00b7 Premium.",
+      "sublineSize": 39,
+      "bounds": {
+        "x": 98.35400390625,
+        "y": 342.5159912109375,
+        "width": 604.4420776367188,
+        "height": 38.843994140625
+      },
+      "pass": true
+    },
+    {
+      "file": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-1284x2778/08-shopping-NATIVE.png",
+      "sha256": "e3f61513fa037712ef5795f38f1ae8457934665d89241ebbb18ba4b444a6fdfe",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "subline": "Produkty z w\u0142asnej diety \u00b7 Premium.",
+      "sublineSize": 42,
+      "bounds": {
+        "x": 104.61199951171875,
+        "y": 363.24798583984375,
+        "width": 652.3759155273438,
+        "height": 41.83203125
+      },
+      "pass": true
+    },
+    {
+      "file": "/Users/bartoszszeliga/projects/health-app/output/store-promo/2026-10-30/design/native/exports/ios-750x1334/08-shopping-NATIVE.png",
+      "sha256": "345214d37a3fb6bec900b33cf230ebb5442bc3f5f40d5a042b5e3992d12f770c",
+      "sourceSha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "subline": "Produkty z w\u0142asnej diety \u00b7 Premium.",
+      "sublineSize": 24,
+      "bounds": {
+        "x": 62.064002990722656,
+        "y": 193.85601806640625,
+        "width": 364.7720031738281,
+        "height": 23.90399169921875
+      },
+      "pass": true
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+m-b2b-video-a
+Status: PAUSED
+Hook filmu: Plan gotowy. Klient też.
+Tekst: Ułóż dietę i trening w panelu Diecik, sprawdź plan i opublikuj go w aplikacji klienta. Zobacz funkcje panelu na prezentacji. Darmowy plan pozwala prowadzić do 2 aktywnych klientów.
+Nagłówek: Zobacz panel specjalisty
+Opis: Dieta, trening i publikacja planu.
+CTA filmu: Zobacz, jak to działa
+Przycisk Meta: Dowiedz się więcej
+Adres: https://diecik.com/specjalista
+Reels / Stories: filmy/diecik-specjalista-lead-a-25s-story.mp4
+
+m-b2b-video-b
+Status: PAUSED
+Hook filmu: Od planu do aplikacji.
+Tekst: Ułóż dietę i trening w panelu Diecik, sprawdź plan i opublikuj go w aplikacji klienta. Zobacz funkcje panelu na prezentacji. Darmowy plan pozwala prowadzić do 2 aktywnych klientów.
+Nagłówek: Zobacz panel specjalisty
+Opis: Dieta, trening i publikacja planu.
+CTA filmu: Zobacz, jak to działa
+Przycisk Meta: Dowiedz się więcej
+Adres: https://diecik.com/specjalista
+Reels / Stories: filmy/diecik-specjalista-lead-b-25s-story.mp4
+
+m-b2c-video-a
+Status: PAUSED
+Hook filmu: Jeszcze raz?
+Tekst: Ulubiony smak wraca jutro. Zapisz gotowy posiłek w Dieciku i dodaj go ponownie do diety. Wypróbuj za darmo: 3 ulubione posiłki. Premium bez limitu.
+Nagłówek: Ulubione posiłki pod ręką
+Opis: Darmowy start. 3 ulubione posiłki.
+CTA filmu: Wypróbuj za darmo
+Przycisk Meta: Dowiedz się więcej
+Adres: https://diecik.com/
+Reels / Stories: filmy/diecik-ulubione-a-20s-story.mp4
+Feed: filmy/diecik-ulubione-a-20s-feed.mp4
+
+m-b2c-video-b
+Status: PAUSED
+Hook filmu: Lubisz ten smak?
+Tekst: Ulubiony smak wraca jutro. Zapisz gotowy posiłek w Dieciku i dodaj go ponownie do diety. Wypróbuj za darmo: 3 ulubione posiłki. Premium bez limitu.
+Nagłówek: Ulubione posiłki pod ręką
+Opis: Darmowy start. 3 ulubione posiłki.
+CTA filmu: Wypróbuj za darmo
+Przycisk Meta: Dowiedz się więcej
+Adres: https://diecik.com/
+Reels / Stories: filmy/diecik-ulubione-b-20s-story.mp4
+Feed: filmy/diecik-ulubione-b-20s-feed.mp4
+

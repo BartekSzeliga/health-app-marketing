@@ -1,0 +1,296 @@
+{
+  "sourceCount": 16,
+  "status": "All16 actualnative captures frozen; no old/web captures in cleanpackage",
+  "nativeSources": [
+    {
+      "id": "training-plan",
+      "platform": "ios",
+      "file": "native-sources/ios/04-training.png",
+      "sha256": "ab8716d18a2561709fbb3b000d1538d1f08839d41e256c14a2f161c84d3ee7e5",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.17",
+      "binaryBuild": "39",
+      "jsSourceSnapshotSha256": "6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860",
+      "jsScopeNote": "iOS isolated current-source snapshot6942; no claim of identical final canonical tree after parallelGarmin edits.",
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Root and compositor inspected1320x2868 capture: first app card starts about235px. Crop top200 removes only actualOSstatus/inset and preserves entire header, exercise list, photos and native bottom navigation."
+    },
+    {
+      "id": "diet-day",
+      "platform": "ios",
+      "file": "native-sources/ios/01-own-diet.png",
+      "sha256": "30dba00d030d536a91af087602a3bc150405c3bf6f4f1d320a6d636399b657d5",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.17",
+      "binaryBuild": "39",
+      "jsSourceSnapshotSha256": "6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860",
+      "jsScopeNote": "iOS isolated current-source snapshot6942; no claim of identical final canonical tree after parallelGarmin edits.",
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Visually inspected native capture; remove only OS status/inset. Keep full app header/back bar, actual content and navigation; no UI retouch."
+    },
+    {
+      "id": "recipe",
+      "platform": "ios",
+      "file": "native-sources/ios/03b-recipe-steps.png",
+      "sha256": "f7840d6747e1fbfdc10623e3b22ffac3396aec7cd65cfcb21788594a18083567",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.17",
+      "binaryBuild": "39",
+      "jsSourceSnapshotSha256": "6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860",
+      "jsScopeNote": "iOS isolated current-source snapshot6942; no claim of identical final canonical tree after parallelGarmin edits.",
+      "crop": {
+        "top": 120,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Visually inspected native capture; remove only OS status/inset. Keep full app header/back bar, actual content and navigation; no UI retouch."
+    },
+    {
+      "id": "exercise",
+      "platform": "ios",
+      "file": "native-sources/ios/05-exercise-instruction.png",
+      "sha256": "1b58c37eeee7164b9e7f4005a46f5e049287b6c93b2d852b28b02c64f72b235b",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.17",
+      "binaryBuild": "39",
+      "jsSourceSnapshotSha256": "6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860",
+      "jsScopeNote": "iOS isolated current-source snapshot6942; no claim of identical final canonical tree after parallelGarmin edits.",
+      "crop": {
+        "top": 0,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Full native screenshot retained: OS status/island overlaps modal underlay, so no crop is safe."
+    },
+    {
+      "id": "progress",
+      "platform": "ios",
+      "file": "native-sources/ios/06-progress.png",
+      "sha256": "ba336c80cddd878420880d3a8e6f2c844c4e3235b9547f1ae5bf97aba41cdcef",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.17",
+      "binaryBuild": "39",
+      "jsSourceSnapshotSha256": "6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860",
+      "jsScopeNote": "iOS isolated current-source snapshot6942; no claim of identical final canonical tree after parallelGarmin edits.",
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Only confirmedOSstatus/inset200px; entire app card, graph or shared-plan UI and native navigation preserved."
+    },
+    {
+      "id": "specialist-diet",
+      "platform": "ios",
+      "file": "native-sources/ios/07-specialist-diet.png",
+      "sha256": "c55f089cc866c242519ebf0b58aaff175bf2c6b55b5d5cf7823ce3d079413930",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.17",
+      "binaryBuild": "39",
+      "jsSourceSnapshotSha256": "6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860",
+      "jsScopeNote": "iOS isolated current-source snapshot6942; no claim of identical final canonical tree after parallelGarmin edits.",
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Only confirmedOSstatus/inset200px; entire app card, graph or shared-plan UI and native navigation preserved."
+    },
+    {
+      "id": "diet-day",
+      "platform": "android",
+      "file": "native-sources/android/01-own-diet.png",
+      "sha256": "a7a06c7b227b049ad6596aa089b5c6f783a0669493b2bf3049b7f157add72545",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.16",
+      "binaryBuild": 58,
+      "jsSourceSnapshotSha256": "68b0fb84c1155ed270a7a01efbdacdc172f57d69d002a4db06831dcfc32ce9ff",
+      "jsScopeNote": "SOURCE SNAPSHOT at runtime start, not actual bundle SHA. Android direct canonical Metro with CI watcher reload disabled.17parallelGarmin changes differ from iOS snapshot; root accepted actual captured current coreUI per snapshot, no whole-tree identity claim.",
+      "crop": {
+        "top": 100,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Statusbar dark ink ends at89px; crop100 removes onlyOSstatus/inset, while actual app header begins about180px. Native bottom navigation and gesture indicator kept."
+    },
+    {
+      "id": "recipe",
+      "platform": "android",
+      "file": "native-sources/android/03-recipe-ingredients.png",
+      "sha256": "0f6c658d122883593c7685e68e27f5d7446bafe5b06def00856ba7f5a9e87190",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.16",
+      "binaryBuild": 58,
+      "jsSourceSnapshotSha256": "68b0fb84c1155ed270a7a01efbdacdc172f57d69d002a4db06831dcfc32ce9ff",
+      "jsScopeNote": "SOURCE SNAPSHOT at runtime start, not actual bundle SHA. Android direct canonical Metro with CI watcher reload disabled.17parallelGarmin changes differ from iOS snapshot; root accepted actual captured current coreUI per snapshot, no whole-tree identity claim.",
+      "crop": {
+        "top": 100,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Statusbar dark ink ends at89px; crop100 removes onlyOSstatus/inset, while actual app header begins about180px. Native bottom navigation and gesture indicator kept."
+    },
+    {
+      "id": "training-plan",
+      "platform": "android",
+      "file": "native-sources/android/04-training-plan.png",
+      "sha256": "a1ef1edf72e9465b8c593c65c53e6f35c5089ec0d9210342c6a4713297eefdc3",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.16",
+      "binaryBuild": 58,
+      "jsSourceSnapshotSha256": "68b0fb84c1155ed270a7a01efbdacdc172f57d69d002a4db06831dcfc32ce9ff",
+      "jsScopeNote": "SOURCE SNAPSHOT at runtime start, not actual bundle SHA. Android direct canonical Metro with CI watcher reload disabled.17parallelGarmin changes differ from iOS snapshot; root accepted actual captured current coreUI per snapshot, no whole-tree identity claim.",
+      "crop": {
+        "top": 100,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Statusbar dark ink ends at89px; crop100 removes onlyOSstatus/inset, while actual app header begins about180px. Native bottom navigation and gesture indicator kept."
+    },
+    {
+      "id": "specialist-diet",
+      "platform": "android",
+      "file": "native-sources/android/07-specialist-diet.png",
+      "sha256": "6c4f74f22376819b3bac494f0147f4390a1aaed68f6f53e8a0ff27a3ad3a3b34",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.16",
+      "binaryBuild": 58,
+      "jsSourceSnapshotSha256": "68b0fb84c1155ed270a7a01efbdacdc172f57d69d002a4db06831dcfc32ce9ff",
+      "jsScopeNote": "SOURCE SNAPSHOT at runtime start, not actual bundle SHA. Android direct canonical Metro with CI watcher reload disabled.17parallelGarmin changes differ from iOS snapshot; root accepted actual captured current coreUI per snapshot, no whole-tree identity claim.",
+      "crop": {
+        "top": 100,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Statusbar dark ink ends at89px; crop100 removes onlyOSstatus/inset, while actual app header begins about180px. Native bottom navigation and gesture indicator kept."
+    },
+    {
+      "id": "shopping",
+      "platform": "ios",
+      "file": "native-sources/ios/08-shopping.png",
+      "sha256": "aabc7b33eee724ba9345ca8242b9a92131b36dc1cd90c1c6c2473bb906ed7cab",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.17",
+      "binaryBuild": "39",
+      "jsSourceSnapshotSha256": "6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860",
+      "jsScopeNote": "iOS isolated current-source snapshot6942; no claim of identical final canonical tree after parallelGarmin edits.",
+      "crop": {
+        "top": 120,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Native backbar begins above appcard; only120pxOSstatus crop preserves complete Lista zakupow header and native list."
+    },
+    {
+      "id": "generated-plan",
+      "platform": "ios",
+      "file": "native-sources/ios/02-generator.png",
+      "sha256": "92728696df26e90beab0ec06b70e285721201e1105e801a6efe6ccae0798365a",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.17",
+      "binaryBuild": "39",
+      "jsSourceSnapshotSha256": "6942d395659e6176901ff2bbd8f7bc542281656afaec8bc9cd67299695afe860",
+      "jsScopeNote": "iOS isolated current-source snapshot6942; no claim of identical final canonical tree after parallelGarmin edits.",
+      "crop": {
+        "top": 200,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "ConfirmedOSstatus/inset200px; actual Generator tygodnia appcard starts about235px and remains complete."
+    },
+    {
+      "id": "exercise",
+      "platform": "android",
+      "file": "native-sources/android/05-exercise-instruction.png",
+      "sha256": "15a32fff310b3fc5330fcc18caeae8f8e6922957c3d05f360d78387f5333e525",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.16",
+      "binaryBuild": 58,
+      "jsSourceSnapshotSha256": "68b0fb84c1155ed270a7a01efbdacdc172f57d69d002a4db06831dcfc32ce9ff",
+      "jsScopeNote": "SOURCE SNAPSHOT at runtime start, not actual bundle SHA. Android direct canonical Metro with CI watcher reload disabled.17parallelGarmin changes differ from iOS snapshot; root accepted actual captured current coreUI per snapshot, no whole-tree identity claim.",
+      "crop": {
+        "top": 100,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Statusbar dark ink ends at89px; crop100 removes onlyOSstatus/inset, while actual app header begins about180px. Native bottom navigation and gesture indicator kept."
+    },
+    {
+      "id": "progress",
+      "platform": "android",
+      "file": "native-sources/android/06-progress-weight.png",
+      "sha256": "2c0b777da0171dac98180ea788305c1c94cfdb60c18212b927f5fe49dbf8203e",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.16",
+      "binaryBuild": 58,
+      "jsSourceSnapshotSha256": "68b0fb84c1155ed270a7a01efbdacdc172f57d69d002a4db06831dcfc32ce9ff",
+      "jsScopeNote": "SOURCE SNAPSHOT at runtime start, not actual bundle SHA. Android direct canonical Metro with CI watcher reload disabled.17parallelGarmin changes differ from iOS snapshot; root accepted actual captured current coreUI per snapshot, no whole-tree identity claim.",
+      "crop": {
+        "top": 100,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Statusbar dark ink ends at89px; crop100 removes onlyOSstatus/inset, while actual app header begins about180px. Native bottom navigation and gesture indicator kept."
+    },
+    {
+      "id": "generated-plan",
+      "platform": "android",
+      "file": "native-sources/android/02-generator-config.png",
+      "sha256": "673b0f6fc1d177592cdcaee16fad5e91469ef91af9cae01cf4feab362bb0c840",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.16",
+      "binaryBuild": 58,
+      "jsSourceSnapshotSha256": "68b0fb84c1155ed270a7a01efbdacdc172f57d69d002a4db06831dcfc32ce9ff",
+      "jsScopeNote": "SOURCE SNAPSHOT at runtime start, not actual bundle SHA. Android direct canonical Metro with CI watcher reload disabled.17parallelGarmin changes differ from iOS snapshot; root accepted actual captured current coreUI per snapshot, no whole-tree identity claim.",
+      "crop": {
+        "top": 100,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Statusbar dark ink ends at89px; crop100 removes onlyOSstatus/inset, while actual app header begins about180px. Native bottom navigation and gesture indicator kept."
+    },
+    {
+      "id": "shopping",
+      "platform": "android",
+      "file": "native-sources/android/08-shopping-list.png",
+      "sha256": "bd72a73b5b8571b61f0efa8f4a8f07892d37ce273c795eaa7bc986768f12f464",
+      "nativeConfirmed": true,
+      "binaryVersion": "1.0.16",
+      "binaryBuild": 58,
+      "jsSourceSnapshotSha256": "68b0fb84c1155ed270a7a01efbdacdc172f57d69d002a4db06831dcfc32ce9ff",
+      "jsScopeNote": "SOURCE SNAPSHOT at runtime start, not actual bundle SHA. Android direct canonical Metro with CI watcher reload disabled.17parallelGarmin changes differ from iOS snapshot; root accepted actual captured current coreUI per snapshot, no whole-tree identity claim.",
+      "crop": {
+        "top": 100,
+        "bottom": 0,
+        "left": 0,
+        "right": 0
+      },
+      "cropReason": "Statusbar dark ink ends at89px; crop100 removes onlyOSstatus/inset, while actual app header begins about180px. Native bottom navigation and gesture indicator kept."
+    }
+  ],
+  "crossRuntimeScope": "Distinct runtime/nativebuild and JS source snapshots. AndroidservedSHA is observationtime only; do not claim priorloadedbytes/whole-sourceidentity withiOS.",
+  "sourcePixUnchanged": true
+}

@@ -1,0 +1,9 @@
+appId: com.helti.app
+---
+- inputText: "${DEMO_EMAIL}"
+- tapOn:
+    text: "Hasło"
+    index: 0
+- inputText: "${DEMO_PASSWORD}"
+- hideKeyboard
+- waitForAnimationToEnd

@@ -1,0 +1,7 @@
+appId: com.helti.app
+---
+- tapOn: "Logowanie"
+- extendedWaitUntil:
+    notVisible: "Logowanie"
+    timeout: 20000
+- waitForAnimationToEnd

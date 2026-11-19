@@ -1,0 +1,7 @@
+appId: com.helti.app
+---
+- tapOn: "Wygeneruj szkic tygodnia"
+- extendedWaitUntil:
+    visible: "Plan gotowy"
+    timeout: 120000
+- waitForAnimationToEnd

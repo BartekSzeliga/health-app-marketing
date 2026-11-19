@@ -1,0 +1,7 @@
+appId: com.helti.app
+---
+- tapOn: "Przejdź do diety"
+- waitForAnimationToEnd
+- extendedWaitUntil:
+    visible: "Podsumowanie dnia"
+    timeout: 15000

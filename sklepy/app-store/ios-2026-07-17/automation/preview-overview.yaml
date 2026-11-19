@@ -1,0 +1,30 @@
+appId: com.helti.app
+---
+- swipe:
+    start: 50%, 28%
+    end: 50%, 82%
+    duration: 700
+- waitForAnimationToEnd
+- tapOn: "Dieta, tab, 1 of 6"
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 70%
+    end: 50%, 48%
+    duration: 900
+- waitForAnimationToEnd
+- tapOn: "Trening, tab, 2 of 6"
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 76%
+    end: 50%, 38%
+    duration: 700
+- waitForAnimationToEnd
+- tapOn:
+    text: "Instrukcja"
+    index: 1
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 75%
+    end: 50%, 58%
+    duration: 1100
+- waitForAnimationToEnd

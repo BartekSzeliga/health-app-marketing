@@ -1,0 +1,24 @@
+Diecik — specjalista v5, 25 s, 01.10.2026
+
+Jedna obietnica: Ułóż dietę w panelu. Klient ma plan pod ręką w aplikacji.
+Tylko trzy pełne, nieruchome sceny: edytor → panel publikacji → telefon klienta.
+Bez makrodetali, odciętych części panelu, zoomu, perspektywy i przestrzennych przelotów.
+Main/modal/status publikacji to ta sama zakotwiczona cała rama aplikacji.
+Cały telefon pokazuje rzeczywisty naturalny scroll 1×; nie animować samego body na zamrożonym UI.
+
+Zamrożony harmonogram v5:
+A, 0–8.5 s: Układasz dietę. Klient ma ją w aplikacji. / pełny edytor.
+B, 0–8.5 s: Dieta od Ciebie. W aplikacji klienta. / ten sam pełny edytor.
+Pierwsza scena: pierwszy prawdziwy kadr 0–4.8 s; rzeczywista praca edytora 4.8–7.833333 s
+przy prędkości 1×; ostatni prawdziwy kadr 7.833333–8.5 s. Źródło raw 172.5–175.533333 s.
+8.5–15.3: Publikujesz plan w aplikacji. / pełne main, modal i status.
+15.3–22.8: Klient ma dietę pod ręką. / cały telefon, naturalny scroll 17.3–21 s.
+22.8–25: CTA lead Zobacz, jak to działa; website Zacznij bezpłatnie. Cały telefon pozostaje widoczny.
+Zewnętrzne DEMO/example etykiety wyłączone; prawdziwe UI zostaje.
+
+Audio 25 s ponownie używane z v4 bez zmiany bajtów (115.2 BPM/12 taktów, nazwy plików v4).
+Naciśnięcia przycisków 9.933333/11.65 s i naturalny scroll 17.3–21 s zostają zsynchronizowane z masterem.
+Harmonogram zamrożony po nowym odbiorze hero przez root i marketing_strategy.
+SHA hero: 0f5b96032e045c30f4952228d86aaed9279e34092bd33b1f64b2f3f99f989095.
+Wcześniejszy PASS v4 nie był akceptacją użytkownika; ten freeze też oznacza odbiór wewnętrzny.
+Pięć filmów B2C oraz 12 plików audio pozostaje bez zmian; autentyczne zasoby źródłowe nie są retuszowane.

@@ -1,0 +1,38 @@
+appId: com.helti.app
+---
+- swipe:
+    start: 50%, 77%
+    end: 50%, 38%
+    duration: 1700
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 77%
+    end: 50%, 38%
+    duration: 1700
+- waitForAnimationToEnd
+- scrollUntilVisible:
+    element:
+      text: "Szkic planu"
+    direction: DOWN
+    timeout: 30000
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 76%
+    end: 50%, 52%
+    duration: 1400
+- waitForAnimationToEnd
+- scrollUntilVisible:
+    element:
+      text: "Instrukcja"
+      index: 1
+    direction: DOWN
+    timeout: 20000
+- tapOn:
+    text: "Instrukcja"
+    index: 1
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 75%
+    end: 50%, 58%
+    duration: 1200
+- waitForAnimationToEnd

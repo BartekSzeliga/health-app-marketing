@@ -1,0 +1,11 @@
+appId: com.helti.app
+---
+- scrollUntilVisible:
+    element:
+      text: "Szkic planu"
+    direction: DOWN
+    timeout: 90000
+    speed: 90
+    visibilityPercentage: 50
+    centerElement: true
+- waitForAnimationToEnd

@@ -1,0 +1,185 @@
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<title>Konta Apple i Google dla aplikacji Twojej firmy</title>
+<style>
+  @page { size: A4; margin: 16mm 15mm 18mm; }
+  :root { --navy:#14213d; --teal:#155e75; --green:#43a047; --mint:#eaf6f3; --sky:#e8f4fb; --warm:#ea580c; --muted:#52606d; --line:#d8e1dd; }
+  * { box-sizing: border-box; }
+  body { font-family: -apple-system, "Helvetica Neue", Arial, sans-serif; color: var(--navy); font-size: 10.5pt; line-height: 1.5; margin: 0; }
+  h1 { font-size: 24pt; line-height: 1.15; margin: 0 0 8px; }
+  h2 { font-size: 16pt; margin: 0 0 6px; display: flex; align-items: center; gap: 10px; }
+  h3 { font-size: 11.5pt; margin: 14px 0 4px; }
+  p { margin: 4px 0 8px; }
+  .muted { color: var(--muted); }
+  .cover { background: linear-gradient(135deg, var(--navy), var(--teal)); color: #fff; border-radius: 16px; padding: 28px 30px; margin-bottom: 16px; }
+  .cover .eyebrow { letter-spacing: .18em; font-size: 8.5pt; color: #8bc53f; font-weight: 700; text-transform: uppercase; margin-bottom: 10px; }
+  .cover p { color: #dbe7ef; font-size: 11pt; max-width: 150mm; }
+  .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px; margin: 12px 0; }
+  .card { border: 1px solid var(--line); border-radius: 12px; padding: 10px 12px; background: #fff; }
+  .card b { display: block; font-size: 15pt; color: var(--teal); }
+  .step { break-inside: avoid; page-break-inside: avoid; }
+  .num { display: inline-flex; width: 30px; height: 30px; border-radius: 50%; background: var(--green); color: #fff; align-items: center; justify-content: center; font-size: 13pt; font-weight: 700; flex: none; }
+  .section { margin: 18px 0 10px; }
+  .page-break { break-before: page; page-break-before: always; }
+  ol, ul { margin: 4px 0 8px; padding-left: 20px; }
+  li { margin: 2px 0; }
+  .callout { border-radius: 10px; padding: 9px 12px; margin: 8px 0; break-inside: avoid; }
+  .tip { background: var(--mint); border-left: 4px solid var(--green); }
+  .warn { background: #fff4ec; border-left: 4px solid var(--warm); }
+  .info { background: var(--sky); border-left: 4px solid var(--teal); }
+  .shot { margin: 6px 0 8px; break-inside: avoid; }
+  .shot img { width: 100%; border: 1px solid var(--line); border-radius: 10px; display: block; }
+  .shot.narrow img { width: 62%; margin: 0 auto; }
+  .shot.small img { width: 46%; margin: 0 auto; }
+  .shot.tiny img { width: 40%; margin: 0 auto; }
+  .shot figcaption { font-size: 8.5pt; color: var(--muted); margin-top: 4px; text-align: center; }
+  table { width: 100%; border-collapse: collapse; margin: 8px 0 12px; font-size: 9.5pt; break-inside: avoid; }
+  th { background: var(--navy); color: #fff; text-align: left; padding: 6px 8px; font-weight: 600; }
+  td { padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  tr:nth-child(even) td { background: #f6faf8; }
+  .check li { list-style: none; margin-left: -18px; }
+  .check li::before { content: "☐ "; color: var(--teal); font-weight: 700; }
+  code { background: #f0f4f3; padding: 1px 5px; border-radius: 4px; font-size: 9.5pt; }
+  .two { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+  .footer { margin-top: 18px; border-top: 1px solid var(--line); padding-top: 10px; font-size: 9pt; color: var(--muted); }
+</style>
+</head>
+<body>
+
+<div class="cover">
+  <div class="eyebrow">Diecik · instrukcja dla firm</div>
+  <h1>Aplikacja Twojej firmy w App&nbsp;Store i Google Play</h1>
+  <p>Jak założyć konta deweloperskie Apple i Google, żeby Twoja aplikacja ukazała się pod nazwą Twojej firmy. Większość pracy wykonujemy my. Od Ciebie potrzebujemy około godziny i kilku dokumentów.</p>
+</div>
+
+<div class="grid">
+  <div class="card"><b>~1 godzina</b>Twojej pracy, najlepiej razem z nami na spotkaniu online</div>
+  <div class="card"><b>1–2 tygodnie</b>oczekiwania na weryfikację; w tym czasie przygotowujemy aplikację</div>
+  <div class="card"><b>99 USD / rok + 25 USD</b>opłaty Apple (co roku) i Google (jednorazowo); numer D-U-N-S jest bezpłatny</div>
+</div>
+
+<h3>Dlaczego konto ma być Twoje?</h3>
+<p>Apple wymaga, żeby aplikacje tworzone na wspólnej platformie publikował <b>właściciel ich treści</b>, a nie dostawca platformy (App Store Review Guidelines, pkt 4.2.6). Google zaleca osobne konto dla każdej firmy. Dzięki temu w sklepach jako wydawca widnieje <b>Twoja firma</b>, a aplikacja i jej oceny należą do Ciebie.</p>
+<div class="callout info"><b>Co robimy my:</b> po założeniu kont dodajesz nas jako administratora. Budujemy aplikację, przygotowujemy kartę w sklepie, publikujemy ją i aktualizujemy. Ty niczego nie musisz klikać w sklepach.</div>
+
+<h3>Przygotuj przed startem</h3>
+<p>Lista zależy od formy firmy. Sprawdź, czy prowadzisz <b>jednoosobową działalność (JDG)</b> czy <b>spółkę</b> (np. sp. z o.o., spółka komandytowa).</p>
+
+<h3>Zawsze potrzebne</h3>
+<ul class="check">
+  <li>Dane firmy dokładnie jak w CEIDG lub KRS: pełna nazwa, adres, NIP</li>
+  <li>Numer D-U-N-S (krok 1, bezpłatny). Przy JDG potrzebny tylko do Google Play</li>
+  <li>Telefon komórkowy i kartę płatniczą</li>
+  <li>Osobę uprawnioną do reprezentowania firmy (właściciel, członek zarządu albo pełnomocnik)</li>
+  <li>Konto Apple (Apple ID) i konto Google tej osoby. Jeśli ich nie masz, założysz je w kilka minut, opis poniżej</li>
+  <li>Dowód osobisty albo paszport. Apple prosi o zdjęcie dokumentu przy zakładaniu konta deweloperskiego</li>
+  <li>iPhone albo iPad, choćby pożyczony na jeden dzień. Apple najczęściej potwierdza tożsamość w aplikacji Apple Developer na takim urządzeniu. Jeśli go nie masz, przejdziemy to razem na spotkaniu</li>
+</ul>
+
+<div class="callout tip"><b>Jak założyć konto Apple (Apple ID).</b> Jeśli masz iPhone'a, prawdopodobnie już je masz: Ustawienia → Twoje imię na górze. Jeśli nie, wejdź na <code>account.apple.com</code> i kliknij <b>Utwórz konto Apple</b>. Wpisz <b>prawdziwe imię i nazwisko</b>, takie jak w dowodzie, oraz swój numer telefonu. Na ten numer będą przychodzić kody SMS przy logowaniu; to jest weryfikacja dwuetapowa, którą Apple wymaga. Wystarczy zwykły telefon, także z Androidem.<br><br>
+<b>Jak założyć konto Google.</b> Wystarczy zwykłe konto Gmail, także to, którego już używasz. Jeśli nie masz, wejdź na <code>accounts.google.com</code> → <b>Utwórz konto</b> → <b>Do celów służbowych lub firmowych</b>. Google też poprosi o numer telefonu.</div>
+
+<h3>JDG (konto indywidualne w Apple)</h3>
+<ul class="check">
+  <li><b>Strona internetowa nie jest potrzebna.</b> Nie jest potrzebny też e-mail w domenie firmy ani D-U-N-S w Apple</li>
+  <li>Apple zakłada konta firmowe tylko dla osób prawnych, więc przy JDG wybierasz konto <b>Individual / Sole Proprietor</b>. W App Store jako wydawca widnieje Twoje imię i nazwisko, a nie nazwa firmy; aplikacja nadal ma nazwę i logo Twojego studia</li>
+  <li>W Unii Europejskiej Apple pokazuje na karcie aplikacji dane kontaktowe wydawcy prowadzącego działalność (adres, telefon, e-mail). Jeśli JDG jest zarejestrowana pod adresem domowym, ten adres może być widoczny</li>
+  <li>Konto indywidualne można później przenieść na spółkę, gdy ją założysz (przez wsparcie Apple, z numerem D-U-N-S spółki)</li>
+</ul>
+
+<h3>Tylko spółka (konto firmowe w Apple)</h3>
+<ul class="check">
+  <li>Stronę internetową firmy na własnej domenie (np. <code>twojafirma.pl</code>). Apple wymaga działającej strony z treścią o firmie; profil na Facebooku lub Instagramie ani pusta strona nie wystarczą. Jeśli jej nie masz, przygotujemy prostą stronę, potrzebna będzie tylko domena</li>
+  <li>Adres e-mail w domenie firmy (np. <code>kontakt@twojafirma.pl</code>). Apple nie akceptuje adresów Gmail dla kont firmowych</li>
+</ul>
+
+<div class="callout info"><b>Polityka prywatności i regulamin nie są potrzebne do założenia kont.</b> Wymagają ich dopiero karty aplikacji w sklepach. Przygotowujemy je my i publikujemy pod adresem Diecika, więc nie potrzebujesz na nie własnej strony. Możesz też podać linki do własnych dokumentów.</div>
+
+<div class="section step page-break">
+  <h2><span class="num">1</span> Numer D-U-N-S (bezpłatny)</h2>
+  <p>D-U-N-S to dziewięciocyfrowy numer firmy w bazie Dun &amp; Bradstreet. Apple i Google sprawdzają na jego podstawie, że Twoja firma istnieje. Wiele polskich firm już go ma, bo D&amp;B pobiera dane z CEIDG i KRS.</p>
+  <ol>
+    <li>Wejdź na <code>dunsnumberlookup.dnb.com</code>, wybierz kraj <b>Poland</b> i wyszukaj firmę po <b>numerze rejestrowym (NIP)</b>.</li>
+    <li>Jeśli firma się pojawi, kliknij <b>E-mail</b>. Numer przyjdzie na adres przypisany do firmy.</li>
+    <li>Jeśli firmy nie ma: na <code>developer.apple.com/enroll/duns-lookup</code> zaloguj się kontem Apple i złóż bezpłatny wniosek. Numer przychodzi zwykle w ciągu 5 dni roboczych, czasem później.</li>
+    <li>Po otrzymaniu numeru odczekaj około 2 dni robocze, zanim użyjesz go w Apple. Apple potrzebuje czasu na pobranie danych z D&amp;B.</li>
+  </ol>
+  <figure class="shot"><img src="img/dnb-result.png"><figcaption>Wynik wyszukiwania po NIP w Dun &amp; Bradstreet. Przycisk „E-mail” wysyła numer D-U-N-S (dane firmy zamazane).</figcaption></figure>
+  <div class="callout warn"><b>Nie płać za numer D-U-N-S.</b> Niektóre firmy pośredniczące pobierają wysokie opłaty za tę bezpłatną usługę. Dane we wniosku muszą być identyczne jak w CEIDG lub KRS; różnice to najczęstsza przyczyna odrzucenia.</div>
+</div>
+
+<div class="section step page-break">
+  <h2><span class="num">2</span> Konto Apple Developer</h2>
+  <ol>
+    <li>Wejdź na <code>developer.apple.com/programs/enroll</code> i kliknij <b>Start your enrollment</b>. Zaloguj się Apple ID osoby uprawnionej.</li>
+    <li>Wybierz <b>Organization</b> (spółka) albo <b>Individual / Sole Proprietor</b> (JDG).</li>
+    <li><b>Spółka:</b> podaj nazwę prawną firmy, numer D-U-N-S, stronę WWW, e-mail w domenie firmy i telefon. <b>JDG:</b> podajesz swoje dane osobowe i telefon; bez D-U-N-S, strony i domeny.</li>
+    <li>Potwierdź tożsamość, jeśli Apple o to poprosi (zdjęcie dokumentu w aplikacji Apple Developer).</li>
+    <li>Po weryfikacji zaakceptuj umowę <b>Apple Developer Program License Agreement</b> i opłać członkostwo (99 USD rocznie, cena w złotówkach pokaże się przy płatności).</li>
+  </ol>
+  <figure class="shot small"><img style="width:36%" src="img/apple-org.png"><figcaption>Wymagania Apple dla konta firmowego: uprawnienie do zawierania umów, status prawny, D-U-N-S, e-mail w domenie firmy i działająca strona WWW.</figcaption></figure>
+
+  <h3>Dodaj nas do zespołu (po zatwierdzeniu konta)</h3>
+  <ol>
+    <li>Zaloguj się na <code>appstoreconnect.apple.com</code> i otwórz <b>Users and Access</b>.</li>
+    <li>W sekcji <b>People</b> kliknij <b>+</b> i wpisz: imię <b>Bartosz</b>, nazwisko <b>Szeliga</b>, e-mail <code>szebartek@gmail.com</code>.</li>
+    <li>Wybierz rolę <b>Admin</b> i zaznacz dostęp do <b>Certificates, Identifiers &amp; Profiles</b>.</li>
+    <li>Kliknij <b>Invite</b>. Zaproszenie wygasa po 3 dniach, więc daj nam znać od razu.</li>
+  </ol>
+  <figure class="shot tiny"><img src="img/asc-users.png"><figcaption>Pomoc Apple: dodawanie użytkowników w App Store Connect (Users and Access).</figcaption></figure>
+  <div class="callout tip">Ty pozostajesz właścicielem konta (Account Holder). Co roku Apple poprosi Cię o odnowienie członkostwa i czasem o akceptację nowej wersji umowy. Przypomnimy Ci o tym.</div>
+</div>
+
+<div class="section step page-break">
+  <h2><span class="num">3</span> Konto Google Play Console</h2>
+  <ol>
+    <li>Wejdź na <code>play.google.com/console/signup</code> i zaloguj się kontem Google osoby uprawnionej.</li>
+    <li>Wybierz konto <b>dla organizacji</b> (także przy JDG) i podaj numer D-U-N-S, dane firmy i telefon. Stronę WWW podaj, jeśli ją masz.</li>
+    <li>Opłać jednorazową rejestrację (25 USD) i przejdź weryfikację tożsamości i organizacji. Trwa zwykle kilka dni.</li>
+  </ol>
+  <div class="callout info"><b>Dlaczego konto organizacji, a nie osobiste?</b> Google wymaga konta organizacji dla aplikacji związanych ze zdrowiem. Nowe konta osobiste muszą też przed publikacją przejść test z co najmniej 12 testerami przez 14 dni; ten wymóg dotyczy kont osobistych.</div>
+  <figure class="shot tiny" style="--w:34%"><img style="width:34%" src="img/play-types.png"><figcaption>Pomoc Google Play: rodzaje kont dewelopera. Konto organizacji wymaga numeru D-U-N-S.</figcaption></figure>
+
+  <h3>Dodaj nas do konta</h3>
+  <ol>
+    <li>W Play Console wybierz <b>Użytkownicy i uprawnienia</b>.</li>
+    <li>Kliknij <b>Zaproś nowych użytkowników</b> i wpisz adres <code>szebartek@gmail.com</code>.</li>
+    <li>Włącz przełącznik <b>Ustaw tego użytkownika jako administratora konta</b>.</li>
+    <li>Kliknij <b>Zaproś użytkownika</b>. Zaproszenie jest ważne 30 dni.</li>
+  </ol>
+  <figure class="shot tiny"><img src="img/play-users-steps.png"><figcaption>Pomoc Google Play: zapraszanie użytkownika i nadanie uprawnień administratora.</figcaption></figure>
+</div>
+
+<div class="section step page-break">
+  <h2><span class="num">4</span> Co nam przekazujesz</h2>
+  <table>
+    <tr><th>Co</th><th>Szczegóły</th></tr>
+    <tr><td>Potwierdzenie zaproszeń</td><td>Krótki e-mail, że zaprosiłeś nas w Apple i Google</td></tr>
+    <tr><td>Logo</td><td>Najlepiej SVG albo PNG z przezroczystym tłem, wersja jasna i ciemna</td></tr>
+    <tr><td>Kolory marki</td><td>Kody kolorów (np. z księgi znaku albo strony WWW); jeśli ich nie masz, dobierzemy je</td></tr>
+    <tr><td>Nazwa aplikacji</td><td>Do 30 znaków, np. nazwa studia</td></tr>
+    <tr><td>Kontakt dla klientów</td><td>E-mail i telefon widoczne w aplikacji i w sklepach</td></tr>
+    <tr><td>Polityka prywatności i regulamin</td><td>Nic nie musisz publikować. Generujemy je z danych Twojej firmy i hostujemy w Diecik; Ty je akceptujesz. Jeśli masz własne, podaj linki</td></tr>
+  </table>
+
+  <h2 style="margin-top:18px">Harmonogram</h2>
+  <table>
+    <tr><th>Kiedy</th><th>Ty</th><th>My</th></tr>
+    <tr><td>Dzień 1</td><td>D-U-N-S, start rejestracji w Apple i Google</td><td>Marka, konfiguracja aplikacji, konta zespołu w panelu</td></tr>
+    <tr><td>Tydzień 1–2</td><td>Czekasz na weryfikację, zapraszasz nas</td><td>Szablony planów i ankiet, pilotaż z kilkoma klientami</td></tr>
+    <tr><td>Tydzień 2–4</td><td>Akceptujesz kartę sklepu</td><td>Publikacja w App Store i Google Play</td></tr>
+  </table>
+
+  <h3>Najczęstsze pytania</h3>
+  <p><b>Czy muszę cokolwiek robić po publikacji?</b> Nie. Aktualizacje i wymagania sklepów obsługujemy my. Raz w roku odnawiasz członkostwo Apple.</p>
+  <p><b>Do kogo należy aplikacja?</b> Karta w sklepie, oceny i konto należą do Twojej firmy. Platformę i kod dostarcza Diecik.</p>
+  <p><b>Co, jeśli coś pójdzie nie tak przy weryfikacji?</b> Najczęściej chodzi o różnice w nazwie lub adresie między D&amp;B, CEIDG/KRS i formularzem. Pomożemy to wyjaśnić z Apple, Google albo D&amp;B.</p>
+  <p><b>Nie chcę zakładać kont.</b> Możesz zacząć od wspólnej aplikacji Diecik. Twoi klienci instalują Diecik, a po zaproszeniu widzą w niej plany, ankiety i czat od Twojej firmy, z nazwą firmy i opiekunami przy planach. Start jest natychmiastowy, ale aplikacja ma nazwę, logo i kolory Diecika; Twoje logo pojawia się na planach w PDF. Własną aplikację możesz dodać później.</p>
+
+  <div class="footer">Diecik · Bartosz Szeliga · kontakt@diecik.com<br>Stan na listopad 2026. Wymagania Apple i Google mogą się zmieniać; przy rejestracji obowiązują informacje ze stron Apple i Google.</div>
+</div>
+
+</body>
+</html>

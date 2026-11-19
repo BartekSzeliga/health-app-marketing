@@ -1,0 +1,14 @@
+appId: com.helti.app
+---
+- tapOn:
+    point: 87%, 12%
+- waitForAnimationToEnd
+- tapOn:
+    text: "Instrukcja"
+    index: 1
+- waitForAnimationToEnd
+- swipe:
+    start: 50%, 75%
+    end: 50%, 58%
+    duration: 900
+- waitForAnimationToEnd

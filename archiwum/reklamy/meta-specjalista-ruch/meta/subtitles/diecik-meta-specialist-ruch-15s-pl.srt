@@ -1,0 +1,19 @@
+1
+00:00:00,000 --> 00:00:02,500
+Dietetyku: publikuj plany w aplikacji klienta.
+
+2
+00:00:02,500 --> 00:00:05,300
+Dodaj plan treningowy w tym samym pakiecie co dieta.
+
+3
+00:00:05,300 --> 00:00:08,300
+Plan diety, makro i mikroskładniki w jednym widoku.
+
+4
+00:00:08,300 --> 00:00:11,200
+Opublikuj dietę i trening w aplikacji klienta.
+
+5
+00:00:11,200 --> 00:00:15,000
+Pełniejsza opieka. Jeden panel. Sprawdź diecik.com/specjalista.

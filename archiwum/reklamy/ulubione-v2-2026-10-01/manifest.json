@@ -1,0 +1,760 @@
+{
+  "created_at": "2026-10-01T06:27:53.541571+00:00",
+  "movie_count": 10,
+  "media_validation": "qa/delivery-validation.json",
+  "campaign_state": "local specification only / PAUSED",
+  "campaign_account_created": false,
+  "user_feedback": "New direction described as much better; full-screen context added following user feedback. No advertising performance claim.",
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 1848,
+      "sha256": "ff9c713e09d6d8b309c9c995d61ad419193114ff811bf4e838210342fde4a455"
+    },
+    {
+      "path": "assets/b2b/client-first-meal.png",
+      "bytes": 125937,
+      "sha256": "4bf154a2c174eddaa5471da0ea595bb4b819af31aa0216b4abff661e52214ee9"
+    },
+    {
+      "path": "assets/b2b/client-plan-date-meals.png",
+      "bytes": 265332,
+      "sha256": "cfa83f6ca59c31014553e84bceca49908bd8803305da6d5cd0753961fc6cb198"
+    },
+    {
+      "path": "assets/b2b/client-plan-full-after.png",
+      "bytes": 908675,
+      "sha256": "9859a8d19703afc0f17c8fb2d50e966a8d25a3c15281ee797cfc7ce124456b17"
+    },
+    {
+      "path": "assets/b2b/client-plan-full-before.png",
+      "bytes": 741374,
+      "sha256": "53064c04ac2309b7f02c0da4640697f86221392ae2fa43c59945bdfb712ce1de"
+    },
+    {
+      "path": "assets/b2b/client-plan-full-screenshot.png",
+      "bytes": 605696,
+      "sha256": "401d23f47251b61c2b2cfd8544d4bde87882cc86b08c16dfadbffb4ae23b1213"
+    },
+    {
+      "path": "assets/b2b/client-plan-full-scroll.mp4",
+      "bytes": 645154,
+      "sha256": "372cc599add4c9f4a2c28bc1db4c2167a902dca8a1fa1e4275484e45de747bb2"
+    },
+    {
+      "path": "assets/b2b/client-plan-heading.png",
+      "bytes": 15628,
+      "sha256": "c630fbc863c7abe826b82189a672408877b31fdac5bfa259910cef787e142d58"
+    },
+    {
+      "path": "assets/b2b/client-plan-published.png",
+      "bytes": 5950,
+      "sha256": "6daed3bc36279fdae0870364e1f368555cc86a52f1aa8501ef0aefb547efeb39"
+    },
+    {
+      "path": "assets/b2b/client-plan-scroll-reaction.mp4",
+      "bytes": 318147,
+      "sha256": "6fc4f3e67918949fa787a1e989c8a9c617d91f656c5c1f3dab879fb1d7df967b"
+    },
+    {
+      "path": "assets/b2b/client-plan-scroll.mp4",
+      "bytes": 337938,
+      "sha256": "e57dbdc7ad692f1f01765cbaa44b21503af0dede6f466c9bd63bb05e90cb2e66"
+    },
+    {
+      "path": "assets/b2b/editor-collapse.mp4",
+      "bytes": 96662,
+      "sha256": "d3b8f276d1d2858bca7d09e948b7a7683c0687bbcb6cf2ff72cedcaf2ea763ef"
+    },
+    {
+      "path": "assets/b2b/editor-day-totals.png",
+      "bytes": 69504,
+      "sha256": "cabe959cd17be3ecf9b1b736907799742625496253c1751dec2b03799247a9b1"
+    },
+    {
+      "path": "assets/b2b/editor-detail.png",
+      "bytes": 111233,
+      "sha256": "3584d539819a4022d82b905ea47b055f5f8112b6a159b3a05d093a9150134623"
+    },
+    {
+      "path": "assets/b2b/editor-grams.png",
+      "bytes": 2433,
+      "sha256": "7542b5b392eeed940eb6d037ce5e620c83d5e3c87d01e06f58f256df48cd1846"
+    },
+    {
+      "path": "assets/b2b/editor-ingredient.png",
+      "bytes": 28391,
+      "sha256": "24e3a538c3529196b67346d5e1ee282f8f95e07138247fdd273e420cfd84fc86"
+    },
+    {
+      "path": "assets/b2b/editor-scroll.mp4",
+      "bytes": 493582,
+      "sha256": "abe59124b7f2ed7a57c767498407c7b29de733776de73c7481f8d3a8daf90c1b"
+    },
+    {
+      "path": "assets/b2b/publication-result.mp4",
+      "bytes": 9080,
+      "sha256": "6e090c7486c99d4049ff64e475bcc5c875ad444dc31e288e640a0d447d33916c"
+    },
+    {
+      "path": "assets/b2b/publication-result.png",
+      "bytes": 23778,
+      "sha256": "73d4847e008009d2baefa6c8f033f91396d2abea287f54e6c2a1b7edb1f470d2"
+    },
+    {
+      "path": "assets/b2b/publish-confirm-button.png",
+      "bytes": 7878,
+      "sha256": "707145da046a47aa786cd4f1fdb42be375684a73f7b7b9335a8cefd418f10d3e"
+    },
+    {
+      "path": "assets/b2b/publish-confirm-dialog.mp4",
+      "bytes": 20775,
+      "sha256": "df2d7888287a3d070025819ea5e66186187e81612003d982d07f84ae008d1c80"
+    },
+    {
+      "path": "assets/b2b/publish-confirm-dialog.png",
+      "bytes": 49142,
+      "sha256": "06b66ea6075873d7c158ddfda21d9bb0841810f9318bffd723fc34b1dbb4e56c"
+    },
+    {
+      "path": "assets/b2b/publish-confirm-reaction.mp4",
+      "bytes": 17951,
+      "sha256": "00dbc9aab94627d6e36b66456b5b2e8f258fd4e64af53b4c828f3e9b89bd37ce"
+    },
+    {
+      "path": "assets/b2b/publish-entry-button.png",
+      "bytes": 8596,
+      "sha256": "8dd4a7d8c515421491517ad080802b9b44b61c335e1735db92cf10a713c6e4c2"
+    },
+    {
+      "path": "assets/b2b/publish-entry-press.mp4",
+      "bytes": 4706,
+      "sha256": "7281fa49fb81a455b7e680730ad406ae07a86e93c8d76e56054fd3a6731f9e0b"
+    },
+    {
+      "path": "assets/b2b/publish-pending-button.png",
+      "bytes": 4400,
+      "sha256": "e500d38d93b03ecf9d7844e25105064f624c67859a6941ea4494d67890f771ed"
+    },
+    {
+      "path": "assets/b2b/published-date.png",
+      "bytes": 10774,
+      "sha256": "7efd63fc1508b1c436751efe01e837e1c94b001e2198d19f040efb3c40b3c598"
+    },
+    {
+      "path": "assets/b2b/published-status.mp4",
+      "bytes": 4373,
+      "sha256": "48a0a07f32edfd5b371509fb70218ba5598911e0224b2b2c14acbed6e563ca83"
+    },
+    {
+      "path": "assets/b2b/published-status.png",
+      "bytes": 6700,
+      "sha256": "f59a6e0b8ae9573b72659865cf55b456597dc4cafd1969d64f746560afa87b9b"
+    },
+    {
+      "path": "assets/b2b/source-spec.json",
+      "bytes": 22506,
+      "sha256": "0f867f02fed025eec113032bd0533df9a06785a0524d423e0764a078930145dd"
+    },
+    {
+      "path": "assets/b2b/web-editor-full-collapse.mp4",
+      "bytes": 141631,
+      "sha256": "b2a4340d878f4f8bbe385e4ebf867b07859ad18626d9055bfbe9b8f74ac7321b"
+    },
+    {
+      "path": "assets/b2b/web-editor-full-context.png",
+      "bytes": 299315,
+      "sha256": "61a325fe3db138234e48bbd8e59def5f7d34c9ecab02fe43b63ccc29553a08d7"
+    },
+    {
+      "path": "assets/b2b/web-package-range.png",
+      "bytes": 8290,
+      "sha256": "a6788d9285fa676d4f490f50d95712f07dd34fddd08f10149932ce0b9245ccd5"
+    },
+    {
+      "path": "assets/b2b/web-publish-full-context.png",
+      "bytes": 202981,
+      "sha256": "8d54b35b4d8b225b4263efb0c6a3c760ab577d9c0c6e55749864943d804d053b"
+    },
+    {
+      "path": "assets/b2b/web-published-full-context.png",
+      "bytes": 211674,
+      "sha256": "9b59994ebe07cded2ba115748ec75076d976ec3bc8cada9e7fa135be7d13629d"
+    },
+    {
+      "path": "assets/b2b/web-ready-status.png",
+      "bytes": 8029,
+      "sha256": "5e183c4f9093bc1046fea6fe2c43f89fbaee5a28ca49539eb87bd509ff6c554b"
+    },
+    {
+      "path": "assets/context/favorite-added-day.png",
+      "bytes": 460233,
+      "sha256": "f36b301cf1b89be683f9f832267c17ad3e18e4909882b7880fead4eb8e7cecaa"
+    },
+    {
+      "path": "assets/context/favorite-list.png",
+      "bytes": 421682,
+      "sha256": "1a251e59be73baa554f336eabbf12d9e4cb0030bf83bde2210dafd06661a25cc"
+    },
+    {
+      "path": "assets/context/favorite-save-actions.png",
+      "bytes": 394438,
+      "sha256": "303b0ef149b733d149dab713f6bcd443d202ae207a46573674609112e46b986a"
+    },
+    {
+      "path": "assets/context/own-meal.png",
+      "bytes": 683418,
+      "sha256": "87824d2bbb44d6d42e6f2e33f5d8308da3e8213eda06599b90ffedb1eeb35a84"
+    },
+    {
+      "path": "assets/context/provenance.json",
+      "bytes": 471,
+      "sha256": "e63061fa81c06f14612f8871ad6be48a37b5bd67bb987f7a15e7d9b98dbc29f1"
+    },
+    {
+      "path": "assets/diecik-icon.png",
+      "bytes": 62933,
+      "sha256": "843d5e5653a949499d410ecad9eae192d71a8862d8e73ef6b448fda1a597eec7"
+    },
+    {
+      "path": "assets/imagegen-prompts.json",
+      "bytes": 1371,
+      "sha256": "0053d1f38f09ab327b3f6b05c8a145ea0735fb7a18257b4813062dfe9163a44d"
+    },
+    {
+      "path": "assets/meal-cutout.png",
+      "bytes": 1990875,
+      "sha256": "3dd02864527e4823f88e475d11e97a0fc9fd89ebfc9bbdf46885b991f64b11bd"
+    },
+    {
+      "path": "assets/meal-source-provenance.json",
+      "bytes": 1063,
+      "sha256": "af9597c7c74ff65250acb94ab0a1ad63c8a0ea0ec5571facffc26a63dcea61d7"
+    },
+    {
+      "path": "assets/meal-source.png",
+      "bytes": 2343768,
+      "sha256": "c901799ce2b514f5b5a00229a9e94e57e7be4d4f6da48b551ce7f0f693397e31"
+    },
+    {
+      "path": "assets/ui-add-button.png",
+      "bytes": 5831,
+      "sha256": "6f659329e22846bf0c7c9b44f631e61b951da7f393512432fcade89d80df09c0"
+    },
+    {
+      "path": "assets/ui-add-press.mp4",
+      "bytes": 6918,
+      "sha256": "5c24cacaa21e18ac85828356725167b1b528d18eb1c6cd082e14fa34c5e99576"
+    },
+    {
+      "path": "assets/ui-added-card.png",
+      "bytes": 122642,
+      "sha256": "3179a73577d6daaea3b57a17b161af2cd8c6851dcf200bd3a318fb46f94b4189"
+    },
+    {
+      "path": "assets/ui-added-date-card.png",
+      "bytes": 150696,
+      "sha256": "faf1b91c2afc8e2c1595f8c1b906c7bd1ee3f08446e885c039f6e299af189ffb"
+    },
+    {
+      "path": "assets/ui-favorite-card-provenance.json",
+      "bytes": 324,
+      "sha256": "21e14924a76b4c4faa7820bb1fce29e42af9563cfe5b27d120f3f654233f1ac9"
+    },
+    {
+      "path": "assets/ui-favorite-card.png",
+      "bytes": 174858,
+      "sha256": "da202b94cfab62f7b3d930b12dc2d5a4ff94bc0d6b9125bf51271b68f67d9fc8"
+    },
+    {
+      "path": "assets/ui-favorite-panel.png",
+      "bytes": 219592,
+      "sha256": "be9f06cf6c644db9fc3b8352d190189c0ccc2cd6dd3d2f393b78db348e727622"
+    },
+    {
+      "path": "assets/ui-save-button.png",
+      "bytes": 10752,
+      "sha256": "7b150599c7b1a0f3e8a358764daa2f0aefbbf76d7bdf39f53c7a48e5684c9bda"
+    },
+    {
+      "path": "assets/ui-save-press.mp4",
+      "bytes": 10465,
+      "sha256": "e2f4b8171c12e6d3fa332360789df9e3e7b9cc65fac9ff6c1b2d64921b727bf0"
+    },
+    {
+      "path": "assets/ui-source-spec.json",
+      "bytes": 1815,
+      "sha256": "be7a9333da077c992e3189d689d763d26ed3bc2826b31c673d19cf5cfe4567af"
+    },
+    {
+      "path": "audio/LICENSES.md",
+      "bytes": 3147,
+      "sha256": "7c7acd40fa486b6dee15d02dfb2a1673c7400ca050a3b4458125d7608d3dd118"
+    },
+    {
+      "path": "audio/animation-cues-128bpm.csv",
+      "bytes": 2530,
+      "sha256": "b75b91907c9421a724028ab36746ae1a631eecfb7ac263f86e8a209c2b083ba2"
+    },
+    {
+      "path": "audio/diecik-specjalista-v2-mix-15s-128bpm.m4a",
+      "bytes": 480562,
+      "sha256": "2ed99fffaa4f1bbae82c2c4c5b928fe81f7f8bc4442fc9329e020408bb993074"
+    },
+    {
+      "path": "audio/diecik-specjalista-v2-mix-15s-128bpm.wav",
+      "bytes": 4320102,
+      "sha256": "fea67568d3893957da5024498a2b2bb62832deebe1dfdcce77e6f762803a1e34"
+    },
+    {
+      "path": "audio/diecik-specjalista-v2-sfx-15s.wav",
+      "bytes": 4320102,
+      "sha256": "3b53b27a84245bb11fa0d6d0b0d323e0e54d9fea86ff07d4b6203845a893b8fa"
+    },
+    {
+      "path": "audio/diecik-ulubione-v2-mix-15s-128bpm.m4a",
+      "bytes": 482824,
+      "sha256": "4385395b463936520ec4717775d746cf04a3856a04d738946940d0b80b1c041d"
+    },
+    {
+      "path": "audio/diecik-ulubione-v2-mix-15s-128bpm.wav",
+      "bytes": 4320102,
+      "sha256": "b852b64f6f35496e5da0052ddc045be2612d6480085661a598222e466847e9ef"
+    },
+    {
+      "path": "audio/diecik-ulubione-v2-music-15s-128bpm.wav",
+      "bytes": 4320102,
+      "sha256": "6bdda77aec4e6702be176de3d1fe0392545b7e5ad4cc13316c5d291b82b5e49b"
+    },
+    {
+      "path": "audio/diecik-ulubione-v2-sfx-15s.wav",
+      "bytes": 4320102,
+      "sha256": "b16963ca3a497ac701d976d340869503d74bc112bfa9598b152954531a5105fc"
+    },
+    {
+      "path": "audio/diecik-ulubione-v2-sfx-no-ui-taps-15s.wav",
+      "bytes": 4320102,
+      "sha256": "f7d726d70b8bdd5f0259de36ab23fa7ba67d4247e1d50469521dc4b2d0fd0d76"
+    },
+    {
+      "path": "audio/diecik-ulubione-v2-ui-taps-15s.wav",
+      "bytes": 4320102,
+      "sha256": "be6a8f89e5bc22ce78b1bb96f54190e3ee0278ea1fe3d0f9e2963ce84c28dcb6"
+    },
+    {
+      "path": "audio/mix-notes.md",
+      "bytes": 3297,
+      "sha256": "21832bc24941a479bef81d4720f77c8651722b1b24e5484d47af30e8515ed3be"
+    },
+    {
+      "path": "audio/specialist-sfx-cues.json",
+      "bytes": 891,
+      "sha256": "57a9607309b827b3bab57926378d717d523681194007dac9a1022468c6ee8068"
+    },
+    {
+      "path": "audio/ui-tap-cues.csv",
+      "bytes": 279,
+      "sha256": "816b92979ad1570fe3bd5cf24fd7ec3804422233a479a8b647d1c0a57954ba89"
+    },
+    {
+      "path": "filmy/diecik-specjalista-lead-a-15s-story.mp4",
+      "bytes": 8869512,
+      "sha256": "6db07fb06a16bd9ce72b6f9dbd43d0e458b264a7fe998d097d7cb562e6714020"
+    },
+    {
+      "path": "filmy/diecik-specjalista-lead-b-15s-story.mp4",
+      "bytes": 8868660,
+      "sha256": "9156cba0c6f154b668d34884e8a3762ad276c91ff64cc06917c7f4f8207fc828"
+    },
+    {
+      "path": "filmy/diecik-specjalista-website-a-15s-story.mp4",
+      "bytes": 8863463,
+      "sha256": "3c3e309b771c0aadfbb651b54d7a95b9251ac1d393daaed072d8dff6ccab3472"
+    },
+    {
+      "path": "filmy/diecik-specjalista-website-a-15s-wide.mp4",
+      "bytes": 9193277,
+      "sha256": "a5f34bd31c1965f9893e96a3e6ff53089e76957ac58d51738582db8984254772"
+    },
+    {
+      "path": "filmy/diecik-specjalista-website-b-15s-story.mp4",
+      "bytes": 8862611,
+      "sha256": "9d92ccdc0b57de51f4d74200eb8d19b2dbe801eec116d2ce4b8799f22a0205b0"
+    },
+    {
+      "path": "filmy/diecik-ulubione-a-15s-feed.mp4",
+      "bytes": 12320871,
+      "sha256": "2544eef16b6c252f4cea788922bd5be2da9432779b89f5a211903de5157e79cf"
+    },
+    {
+      "path": "filmy/diecik-ulubione-a-15s-story.mp4",
+      "bytes": 14581049,
+      "sha256": "7124907073e8252009c2c7b9f91446e3f7772ef3ab610d564aa9828557f170a4"
+    },
+    {
+      "path": "filmy/diecik-ulubione-a-6s-story.mp4",
+      "bytes": 5018532,
+      "sha256": "39f91b4b60874a475f6631d69021873bfe21b099c2ee27798b58772ab85c6f70"
+    },
+    {
+      "path": "filmy/diecik-ulubione-b-15s-feed.mp4",
+      "bytes": 12302255,
+      "sha256": "eced43f1fb31651fbced5d8d63cdf393ac2959171d16fc73f9a31214cc300ae6"
+    },
+    {
+      "path": "filmy/diecik-ulubione-b-15s-story.mp4",
+      "bytes": 14587866,
+      "sha256": "ebc3953970a418bf52919ce90419e5a261ab9848350208051c47e6c9523d7137"
+    },
+    {
+      "path": "kampanie/google-editor/01-campaign-average-daily-ALTERNATIVE.csv",
+      "bytes": 212,
+      "sha256": "5e5e368cd39de2157493ad1f90b39e04b6e1665faa02c133093bb0e5d54c4cd3"
+    },
+    {
+      "path": "kampanie/google-editor/02-adgroups.csv",
+      "bytes": 174,
+      "sha256": "66859a75f94dd4ce7ecad002229071162711f1f14404a03ea3f945028078ae2f"
+    },
+    {
+      "path": "kampanie/google-editor/03-keywords.csv",
+      "bytes": 3080,
+      "sha256": "76110a3e83ba1b1f45295f6937ac6724dc7b3629340157fb146de60dc2a664c8"
+    },
+    {
+      "path": "kampanie/google-editor/04-campaign-negatives.csv",
+      "bytes": 879,
+      "sha256": "662099521909df9d9e2f6d585930e8020ac4be45a7e9573b943d2eb6103f9cef"
+    },
+    {
+      "path": "kampanie/google-editor/05-rsa-paste-in-RSA-view.csv",
+      "bytes": 2307,
+      "sha256": "d4fb9455492cc993b2928562778fa3b752205caaa4b7348120862b8f25c89f1c"
+    },
+    {
+      "path": "kampanie/google-editor/06-location.csv",
+      "bytes": 62,
+      "sha256": "316ce92d18abdad580c384f1211f7d6daad2dfed19b0ef942b208254a31dac4f"
+    },
+    {
+      "path": "kampanie/instrukcja-v2.txt",
+      "bytes": 1751,
+      "sha256": "711de6b1fd0ef54c0a2cc1bd595e2f5e2f6b9c55b0aa80271455bc1166bfb593"
+    },
+    {
+      "path": "kampanie/meta-konfiguracja-v2-PAUSED.json",
+      "bytes": 14169,
+      "sha256": "f6add487046adfbff4f57ed59ad444da46885be8213e50648b3fcfbcfc46d57d"
+    },
+    {
+      "path": "kampanie/teksty-meta-do-wklejenia.txt",
+      "bytes": 2010,
+      "sha256": "e0f28f5e22176f2e571dc195453d45379d64d56fcb62116c23d1e699eb4a4944"
+    },
+    {
+      "path": "okladki/diecik-specjalista-lead-a-15s-story-cta.jpg",
+      "bytes": 194565,
+      "sha256": "b30b581970a1f4d837893e2890b59a08069f43eeef0e09f21422f67d805f50ac"
+    },
+    {
+      "path": "okladki/diecik-specjalista-lead-a-15s-story-hook.jpg",
+      "bytes": 119918,
+      "sha256": "e619f0b986df8c11b16d9a795547616a9793846806ba87a49735da7de3e486bf"
+    },
+    {
+      "path": "okladki/diecik-specjalista-lead-b-15s-story-cta.jpg",
+      "bytes": 194565,
+      "sha256": "b30b581970a1f4d837893e2890b59a08069f43eeef0e09f21422f67d805f50ac"
+    },
+    {
+      "path": "okladki/diecik-specjalista-lead-b-15s-story-hook.jpg",
+      "bytes": 119143,
+      "sha256": "121535702a6523f9f4a23e24efd36a0ca0f459a5214f45d1106bac138420ca49"
+    },
+    {
+      "path": "okladki/diecik-specjalista-website-a-15s-story-cta.jpg",
+      "bytes": 193636,
+      "sha256": "17dfa4ae70efc7186cb8dfc7856691a346bf5f6db2d8dbf0f7ae2bee0e0855d7"
+    },
+    {
+      "path": "okladki/diecik-specjalista-website-a-15s-story-hook.jpg",
+      "bytes": 119918,
+      "sha256": "e619f0b986df8c11b16d9a795547616a9793846806ba87a49735da7de3e486bf"
+    },
+    {
+      "path": "okladki/diecik-specjalista-website-a-15s-wide-cta.jpg",
+      "bytes": 211974,
+      "sha256": "07ceff844a17a0d7b7db62c07a88971850b77eb8ac7e3d044689cf16a6a916cc"
+    },
+    {
+      "path": "okladki/diecik-specjalista-website-a-15s-wide-hook.jpg",
+      "bytes": 150346,
+      "sha256": "dd5b9979dc438dc9eae0c2d581107550b2159858ea5e5db2afab8992a4fa8b35"
+    },
+    {
+      "path": "okladki/diecik-specjalista-website-b-15s-story-cta.jpg",
+      "bytes": 193636,
+      "sha256": "17dfa4ae70efc7186cb8dfc7856691a346bf5f6db2d8dbf0f7ae2bee0e0855d7"
+    },
+    {
+      "path": "okladki/diecik-specjalista-website-b-15s-story-hook.jpg",
+      "bytes": 119143,
+      "sha256": "121535702a6523f9f4a23e24efd36a0ca0f459a5214f45d1106bac138420ca49"
+    },
+    {
+      "path": "okladki/diecik-ulubione-a-15s-feed-cta.jpg",
+      "bytes": 165091,
+      "sha256": "e0fe8ac679ff6e935bf3fe3eba77aa52641e46d9b2f4f60762e0fa5945b73867"
+    },
+    {
+      "path": "okladki/diecik-ulubione-a-15s-feed-hook.jpg",
+      "bytes": 255398,
+      "sha256": "8972f1cae6c2c9b3e3302286131edb8abaa4749bbd1c6b12b6ef6780a72b2588"
+    },
+    {
+      "path": "okladki/diecik-ulubione-a-15s-story-cta.jpg",
+      "bytes": 236988,
+      "sha256": "086d3bc15fda4fcff7cd18f8d5b3c3d0de15870cd4a02c867508e143a7ddb7da"
+    },
+    {
+      "path": "okladki/diecik-ulubione-a-15s-story-hook.jpg",
+      "bytes": 311249,
+      "sha256": "257896adc3c0694b415a4e6fbd3b8896de7ffa1850432354df8e8d951ccebf12"
+    },
+    {
+      "path": "okladki/diecik-ulubione-a-6s-story-cta.jpg",
+      "bytes": 241410,
+      "sha256": "28728b02f36359b362dc974e4da53313496e2fb62a7cf92060c3c250c289eec8"
+    },
+    {
+      "path": "okladki/diecik-ulubione-a-6s-story-hook.jpg",
+      "bytes": 315370,
+      "sha256": "46f434fc2b9d4793c8756c6d9eafcc4eab259d399a3d6b8cab41d3ede9b835fc"
+    },
+    {
+      "path": "okladki/diecik-ulubione-b-15s-feed-cta.jpg",
+      "bytes": 165091,
+      "sha256": "e0fe8ac679ff6e935bf3fe3eba77aa52641e46d9b2f4f60762e0fa5945b73867"
+    },
+    {
+      "path": "okladki/diecik-ulubione-b-15s-feed-hook.jpg",
+      "bytes": 259976,
+      "sha256": "61da109a51e22b0625200e25f9fc35cd0a761cbace41a1ba20931bb811e1b63f"
+    },
+    {
+      "path": "okladki/diecik-ulubione-b-15s-story-cta.jpg",
+      "bytes": 236988,
+      "sha256": "086d3bc15fda4fcff7cd18f8d5b3c3d0de15870cd4a02c867508e143a7ddb7da"
+    },
+    {
+      "path": "okladki/diecik-ulubione-b-15s-story-hook.jpg",
+      "bytes": 316655,
+      "sha256": "d10286059d3df5fe60d2f4ca7300ed885a1e355cc3764751ff7a3ead82be4aae"
+    },
+    {
+      "path": "plan/budzet-i-KPI-baza-2026-09-30.xlsx",
+      "bytes": 48732,
+      "sha256": "6c4e6fb0e92a275eb6d40dc367afff4cb2214bc64698846e391782e0185b5ecf"
+    },
+    {
+      "path": "plan/marketing-plan.md",
+      "bytes": 39017,
+      "sha256": "36707e55243522d4f0d0273c8ded65ac63681a2efb45f34fe1370e138e826234"
+    },
+    {
+      "path": "plan/marketing-plan.pdf",
+      "bytes": 96586,
+      "sha256": "f7ae698d3a6f2f68eb6e80ccbb21fa20cdb931a9aab3494fde196e25acafe5c2"
+    },
+    {
+      "path": "podglad/hero-context-review-board.png",
+      "bytes": 2415280,
+      "sha256": "b33eceb1a20e0f35b5aa83406c8bbf053920d210082aedeb2964c14a13a1253e"
+    },
+    {
+      "path": "podglad/phone-size-hero-final.png",
+      "bytes": 1443373,
+      "sha256": "e607369a67e59d5216e2cf973fa5e447e277bd109836c730e205d2229e6cc072"
+    },
+    {
+      "path": "production/creative-brief.txt",
+      "bytes": 2108,
+      "sha256": "ee361c06615e1fc7f79c5e45abb628297fa177fffb3bcff3c49ac3a943fa3653"
+    },
+    {
+      "path": "production/package-delivery.py",
+      "bytes": 3303,
+      "sha256": "0e919e5d62f6416e5632627ca540bec34fbc18f54db5e07855e2d8af1781b040"
+    },
+    {
+      "path": "production/prepare-assets.mjs",
+      "bytes": 2042,
+      "sha256": "3e1b079770d18f6b3c2ade49b138b0ed253d710fffbde4dad2655fd3d5ae98a4"
+    },
+    {
+      "path": "production/prepare-delivery.mjs",
+      "bytes": 6899,
+      "sha256": "7232989c3c6ca22266da1a92c0155c1fb6e50b364cc7981a34c1c8fc176c7991"
+    },
+    {
+      "path": "production/render-motion.mjs",
+      "bytes": 24064,
+      "sha256": "3c79484ac6994f844c9d5f4b0019886af55c173cd178b645d52feb91320ee9a8"
+    },
+    {
+      "path": "production/render-specialist.mjs",
+      "bytes": 19140,
+      "sha256": "7710a58585ee8b5cfa4ac857a2b77431325a2817098a0cc93fd2a40920867ac5"
+    },
+    {
+      "path": "production/validate-delivery.mjs",
+      "bytes": 5738,
+      "sha256": "342afa4e28c72368933daadac6cb9314daae35dff9992d86b5e5c1219f4b8e53"
+    },
+    {
+      "path": "qa/audio/audio-validation.json",
+      "bytes": 4314,
+      "sha256": "ad8e9c05ec1a798a3bb24bec7c56a6505e90fdd1f130a131fd2a9859e2a027c0"
+    },
+    {
+      "path": "qa/audio/specialist-audio-validation.json",
+      "bytes": 1664,
+      "sha256": "2233e9a3f550430fdf2db474d90bd25f7435bc4d4c0eb44f8b268cdc6c09e269"
+    },
+    {
+      "path": "qa/audio/specialist-master-log.txt",
+      "bytes": 1188,
+      "sha256": "79a8722b1fe2b7756c8e9d34bb6c88cd9ff16eeef3fa6f24f47ff95109c34cd0"
+    },
+    {
+      "path": "qa/b2b/source-review.md",
+      "bytes": 7475,
+      "sha256": "0896805f902f3ab4d6dc97b639cc84a37a47e3518e606fb28b3b06b25444fbdd"
+    },
+    {
+      "path": "qa/b2b/source-validation.json",
+      "bytes": 8756,
+      "sha256": "9353703e17532203b63e967ae701d0c036a57f7d5187399232c2c54f78af78bc"
+    },
+    {
+      "path": "qa/b2b-render/asset-map.json",
+      "bytes": 3011,
+      "sha256": "0acab58bc0620746f35c605e93660a4a1ec940c29d62583256580277daa01f31"
+    },
+    {
+      "path": "qa/b2b-render/creative-spec.md",
+      "bytes": 2940,
+      "sha256": "d3a2ff32ca0d731c213eeb526bf87a5c0687a6c5a6bba219590b576792fa78ab"
+    },
+    {
+      "path": "qa/b2b-render/critical-review.md",
+      "bytes": 3985,
+      "sha256": "b43d42837883c66bc44dcc55dbe51678ccbe482b9c0d7f5c79f8f590da2dc609"
+    },
+    {
+      "path": "qa/b2b-render/derived-source-timing.json",
+      "bytes": 596,
+      "sha256": "accfbf9b44465cf21855e59430abfca29ed4f8ff45d7fd6acf15f052c5a0ba1c"
+    },
+    {
+      "path": "qa/b2b-render/diecik-specjalista-lead-a-15s-story-timing.json",
+      "bytes": 3236,
+      "sha256": "c09de4f3ea6edc19cc2a9b7b5a27f48bfac38064768dcf028830ed545b8ab991"
+    },
+    {
+      "path": "qa/b2b-render/diecik-specjalista-lead-b-15s-story-timing.json",
+      "bytes": 3233,
+      "sha256": "fdcff198cb77e0c6db81955df12acf502e1cd85e7c09fd9593c84f9e7ea4596a"
+    },
+    {
+      "path": "qa/b2b-render/diecik-specjalista-website-a-15s-story-timing.json",
+      "bytes": 3239,
+      "sha256": "6ebe61fb9edf7e062d82cad806120bafff19a730407685c311a3201eda9b9a46"
+    },
+    {
+      "path": "qa/b2b-render/diecik-specjalista-website-a-15s-wide-timing.json",
+      "bytes": 3232,
+      "sha256": "8c4d0bfe29822a4619adecccae0579de0bbf2dfa390b40e133a9cda035262a20"
+    },
+    {
+      "path": "qa/b2b-render/diecik-specjalista-website-b-15s-story-timing.json",
+      "bytes": 3236,
+      "sha256": "e45fd627256cdfad54b2cb248192ca1edb217b04f3cb68ae1f3486f1a89b1833"
+    },
+    {
+      "path": "qa/b2b-render/hero-technical-validation.json",
+      "bytes": 1185,
+      "sha256": "36258f2015a076b88fbbb77d36b394b39972bbcef0aae1db198468a90a5eeb4f"
+    },
+    {
+      "path": "qa/b2b-render/review-summary.json",
+      "bytes": 3099,
+      "sha256": "4735d74944591683b6aa5965be044973e52f623019f2e384a090a3e9a60731f8"
+    },
+    {
+      "path": "qa/b2b-render/technical-validation.json",
+      "bytes": 4924,
+      "sha256": "ceeb7398c082bf1afb2f218a408a7e5dae1d9d58aaf660843f05805c9a05859c"
+    },
+    {
+      "path": "qa/b2c-variants-frames/corrected/extraction.json",
+      "bytes": 1443,
+      "sha256": "94f6c8d38d84dfe6850017f7126706312ce417c69eb76bd51a571465d2dd0bf6"
+    },
+    {
+      "path": "qa/b2c-variants-frames/extraction.json",
+      "bytes": 3797,
+      "sha256": "3126ae627ee9a9d77e41ecadbde10a16f3592f862b4630abb68dc543ef3d4a10"
+    },
+    {
+      "path": "qa/b2c-variants-review.json",
+      "bytes": 5386,
+      "sha256": "096812c0db1e94b0c6d2e838a366ba1286082b7e1a578c0e8a3ea9a11c4dcc13"
+    },
+    {
+      "path": "qa/b2c-variants-review.md",
+      "bytes": 2304,
+      "sha256": "ad39600ddf7e8be4201588a495f58ca6a214e74c8c1ccaaa3de4aa3877d645b8"
+    },
+    {
+      "path": "qa/copied-plan-validation.json",
+      "bytes": 1878,
+      "sha256": "186cd7d48e8ed67c4ae83154bb396a84028db1b49b26d3f66e2383181003aca7"
+    },
+    {
+      "path": "qa/creative-final-frames/context-source-check.json",
+      "bytes": 901,
+      "sha256": "80dad28f9984af26275bd543d4f1b710af5c89b8347602112ce9b3e29fa8b0aa"
+    },
+    {
+      "path": "qa/creative-final-frames/corrected/extraction.json",
+      "bytes": 1225,
+      "sha256": "a955f02ebcaf4c78a06d8724a6ef8801c076c983c462e297dfdf794a57dfe2d8"
+    },
+    {
+      "path": "qa/creative-final-frames/extraction.json",
+      "bytes": 1583,
+      "sha256": "dab7d15903135969343b9823a7c78c4795fd99b44155404fd97410c92be9c122"
+    },
+    {
+      "path": "qa/creative-final-review.json",
+      "bytes": 1798,
+      "sha256": "62243d192ad7682d9d7faa4fc8b40b3313997da66a825bd2ce89cf4b561433fe"
+    },
+    {
+      "path": "qa/creative-final-review.md",
+      "bytes": 4391,
+      "sha256": "36ae117af5caee8a3a11e5ea5429ead499c1786778f141b638f903d391b42914"
+    },
+    {
+      "path": "qa/delivery-validation.json",
+      "bytes": 16781,
+      "sha256": "9e59dc50b54653f42b90eec06abdbf025d39133667d9b7cd4efe7411273cdc67"
+    },
+    {
+      "path": "qa/ui-source-review.md",
+      "bytes": 3036,
+      "sha256": "725bb973806f8f37217b869969585f40f0c60bac93fc89e516f50900279dc87f"
+    }
+  ]
+}

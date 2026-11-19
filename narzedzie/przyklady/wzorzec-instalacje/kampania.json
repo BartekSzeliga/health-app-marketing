@@ -1,0 +1,419 @@
+{
+  "nazwa": "Diecik — cel kalorii i generator diety",
+  "data": "2026-10-21",
+  "typ": "reklama",
+  "odbiorca": "b2c",
+  "cel": "instalacje",
+  "motyw": "diecik",
+  "cta": {
+    "plansza": "Pobierz Diecik",
+    "podpis": "iOS i Android",
+    "przycisk": "Zainstaluj teraz"
+  },
+  "ujawnienie": "Dane przykładowe",
+  "linki": {
+    "ios": "https://apps.apple.com/pl/app/diecik/id6762611821?l=pl",
+    "android": "https://play.google.com/store/apps/details?id=com.helti.app"
+  },
+  "pochodzenie": {
+    "data": "2026-10-21",
+    "urzadzenie": "symulator iOS 26.5, natywne Screenshot/Record w Device Hub",
+    "konto": "własne konto demonstracyjne, dane przykładowe, bez danych realnego klienta",
+    "produkt": "health-app-mobile 5ef6ab9075f536c66a32a5313827ce1d9603f0bc",
+    "obrobka": "jednolite skalowanie, ramka, kadrowanie rzeczywistych detali, cięcia nagrania pomijające oczekiwanie; bez retuszu interfejsu"
+  },
+  "zrodla": {
+    "profileBasics": {
+      "plik": "zrodla/ekrany/profile-basics.png",
+      "opis": "Edycja profilu: dane podstawowe"
+    },
+    "profileAuto": {
+      "plik": "zrodla/ekrany/profile-auto.png",
+      "opis": "Cele makro w trybie automatycznym: 1902 kcal"
+    },
+    "generatorConfig": {
+      "plik": "zrodla/ekrany/generator-config.png",
+      "opis": "Generator diety: ustawienia"
+    },
+    "generatorMacro": {
+      "plik": "zrodla/ekrany/generator-macro.png",
+      "opis": "Generator diety: makro z profilu"
+    },
+    "generatorPreview": {
+      "plik": "zrodla/ekrany/generator-preview.png",
+      "opis": "Generator diety: podgląd posiłków"
+    },
+    "generatorPreviewTop": {
+      "plik": "zrodla/ekrany/generator-preview-top.png",
+      "opis": "Generator diety: nagłówek podglądu"
+    },
+    "generatorSaved": {
+      "plik": "zrodla/ekrany/generator-saved.png",
+      "opis": "Generator diety: plan zapisany"
+    },
+    "dietSaved": {
+      "plik": "zrodla/ekrany/diet-saved.png",
+      "opis": "Zapisany plan otwarty w diecie"
+    },
+    "profileFlow": {
+      "plik": "zrodla/nagrania/profile-flow.mp4",
+      "opis": "Nagranie: wybór celu redukcji i przeliczenie"
+    },
+    "generatorFlow": {
+      "plik": "zrodla/nagrania/generator-flow.mp4",
+      "opis": "Nagranie: generowanie podglądu, zapis i otwarcie diety"
+    }
+  },
+  "kadry": {
+    "wynikKalorii": {
+      "zrodlo": "profileAuto",
+      "x": 96,
+      "y": 1320,
+      "szer": 1014,
+      "wys": 918
+    },
+    "podgladPosilkow": {
+      "zrodlo": "generatorPreview",
+      "x": 96,
+      "y": 274,
+      "szer": 1014,
+      "wys": 1296
+    },
+    "trybAutomatyczny": {
+      "zrodlo": "profileAuto",
+      "x": 95,
+      "y": 640,
+      "szer": 1016,
+      "wys": 1120
+    },
+    "podgladDnia": {
+      "zrodlo": "generatorPreview",
+      "x": 100,
+      "y": 260,
+      "szer": 1006,
+      "wys": 980
+    },
+    "zapisPlanu": {
+      "zrodlo": "generatorSaved",
+      "x": 80,
+      "y": 535,
+      "szer": 1046,
+      "wys": 1250
+    }
+  },
+  "tematy": [
+    {
+      "id": "01-Cel-kalorii",
+      "nazwa": "Cel kalorii dla redukcji",
+      "etykieta": "Cel dla redukcji",
+      "naglowek": [
+        "Cel kalorii.",
+        "Wyliczony."
+      ],
+      "tresc": [
+        "Ustaw cel redukcji.",
+        "Zobacz propozycję",
+        "kalorii i makro."
+      ],
+      "dopisek": "Z danych profilu i aktywności.",
+      "uklad": "telefon+detal",
+      "ekran": "profileAuto",
+      "detal": "wynikKalorii",
+      "pozycjaDetalu": {
+        "4x5": 814
+      },
+      "formaty": [
+        "1x1",
+        "4x5"
+      ],
+      "teksty": {
+        "glowny": "Wybierz cel redukcji i uzupełnij profil. Diecik oszacuje zapotrzebowanie, uwzględni wybraną korektę i zaproponuje kalorie oraz makro. Potem przejdź do planowania diety.",
+        "krotki": "Ile kalorii na cel redukcji? Uzupełnij profil, wybierz cel i zobacz automatycznie wyliczoną propozycję kalorii oraz makro w Diecik.",
+        "naglowek": "Cel kalorii dla redukcji",
+        "opis": "Z profilu i aktywności."
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Cel kalorii wynika ze wzoru Mifflina, współczynnika aktywności, korekty wybranego celu i dolnego limitu.",
+          "repo": "health-app-mobile",
+          "plik": "src/features/users/utils/calculateTDEE.ts",
+          "linie": "29–63"
+        },
+        {
+          "twierdzenie": "Aplikacja proponuje makro, a kalorie wynikają z zaokrąglonych makroskładników.",
+          "repo": "health-app-mobile",
+          "plik": "src/features/users/utils/macros-utils.tsx",
+          "linie": "221–279"
+        },
+        {
+          "twierdzenie": "Profil ma tryb automatyczny, ręczne nadpisanie i przywrócenie automatu.",
+          "repo": "health-app-mobile",
+          "plik": "src/screens/profile/ProfileScreen.tsx",
+          "linie": "1505–1548"
+        }
+      ],
+      "film": {
+        "plik": "Diecik-automatyczny-cel-kalorii-Reels-Stories-20s",
+        "muzyka": {
+          "plik": "marka/muzyka/cel-kalorii-124bpm-20s.wav"
+        },
+        "sceny": [
+          {
+            "typ": "hook",
+            "czas": 3.8,
+            "naglowek": [
+              "Ile kalorii",
+              "na Twój cel?"
+            ],
+            "rozmiar": 110,
+            "wstep": "Ustaw cel. Zobacz propozycję kcal.",
+            "ekran": "profileBasics"
+          },
+          {
+            "typ": "ekran",
+            "czas": 4.6,
+            "tytul": "Cel + aktywność.",
+            "opis": "Aplikacja proponuje cel kalorii.",
+            "ekran": "profileBasics",
+            "klipy": [
+              {
+                "zrodlo": "profileFlow",
+                "od": 7.5
+              }
+            ]
+          },
+          {
+            "typ": "detal",
+            "czas": 3.2,
+            "tytul": "Twój cel kalorii.",
+            "opis": "Wyliczony z ustawień profilu.",
+            "kadr": "trybAutomatyczny"
+          },
+          {
+            "typ": "detal",
+            "czas": 5.0,
+            "tlo": "jasne",
+            "tytul": "Punkt wyjścia do planowania.",
+            "opis": "Przykładowe ustawienia w aplikacji.",
+            "kadr": "wynikKalorii"
+          },
+          {
+            "typ": "cta",
+            "czas": 3.4,
+            "haslo": [
+              "Cel kalorii.",
+              "Wyliczony za Ciebie."
+            ],
+            "rozmiar": 80,
+            "ekran": "profileAuto"
+          }
+        ]
+      }
+    },
+    {
+      "id": "02-Generator-diety",
+      "nazwa": "Generator diety",
+      "etykieta": "Generator diety",
+      "naglowek": [
+        "Od celu",
+        "do jadłospisu."
+      ],
+      "rozmiarNaglowka": 102,
+      "tresc": [
+        "Wybierz preferencje.",
+        "Sprawdź posiłki.",
+        "Zapisz swój plan."
+      ],
+      "dopisek": "Generator Standard za darmo.",
+      "uklad": "telefon+detal",
+      "ekran": "generatorPreviewTop",
+      "detal": "podgladPosilkow",
+      "formaty": [
+        "1x1",
+        "4x5"
+      ],
+      "teksty": {
+        "glowny": "Cel kalorii już ustawiony? Wybierz liczbę dni, posiłków i preferencje. Generator pobierze makro z profilu i przygotuje podgląd jadłospisu. Sprawdź posiłki, a potem zapisz plan w Diecik. Dieta Standard jest dostępna bezpłatnie.",
+        "krotki": "Od celu kalorii do jadłospisu. Ustaw preferencje, wygeneruj podgląd diety i zapisz plan po sprawdzeniu posiłków. Zacznij od bezpłatnej diety Standard w Diecik.",
+        "naglowek": "Od celu do jadłospisu",
+        "opis": "Podgląd. Sprawdzenie. Zapis."
+      },
+      "dowody": [
+        {
+          "twierdzenie": "Generator Standard jest darmowy, pobiera makro z profilu, tworzy podgląd i zapisuje plan po wyborze użytkownika; inne typy diet i lista zakupów wymagają Premium.",
+          "repo": "health-app-mobile",
+          "plik": "src/screens/diet/DietGeneratorScreen.tsx",
+          "linie": "211, 476, 1012, 1222, 1511–1602"
+        }
+      ],
+      "film": {
+        "plik": "Diecik-generator-diety-Reels-Stories-20s",
+        "muzyka": {
+          "plik": "marka/muzyka/generator-126bpm-20s.wav"
+        },
+        "sceny": [
+          {
+            "typ": "hook",
+            "czas": 3.8,
+            "naglowek": [
+              "Twój cel.",
+              "Twój jadłospis."
+            ],
+            "rozmiar": 106,
+            "wstep": "Ustaw preferencje. Wygeneruj dietę.",
+            "ekran": "generatorMacro"
+          },
+          {
+            "typ": "ekran",
+            "czas": 4.6,
+            "tytul": "Ustaw swoją dietę.",
+            "opis": "Wybierz parametry generatora.",
+            "ekran": "generatorMacro",
+            "klipy": [
+              {
+                "zrodlo": "generatorFlow",
+                "od": 5.0,
+                "epoka": 0
+              }
+            ]
+          },
+          {
+            "typ": "detal",
+            "czas": 3.2,
+            "tytul": "Zobacz gotowy podgląd.",
+            "opis": "Przejrzyj posiłki przed zapisem.",
+            "kadr": "podgladDnia"
+          },
+          {
+            "typ": "ekran",
+            "czas": 5.0,
+            "tytul": "Zapisz do swojej diety.",
+            "opis": "Przykładowy plan w aplikacji.",
+            "ekran": "dietSaved",
+            "klipy": [
+              {
+                "zrodlo": "generatorFlow",
+                "od": 323.4,
+                "epoka": 1,
+                "start": 0,
+                "koniec": 2.7,
+                "ujecie": "detal",
+                "kadr": "zapisPlanu"
+              },
+              {
+                "zrodlo": "generatorFlow",
+                "od": 338.0,
+                "epoka": 1,
+                "start": 2.7,
+                "koniec": 5.0,
+                "ujecie": "pelny"
+              }
+            ]
+          },
+          {
+            "typ": "cta",
+            "czas": 3.4,
+            "haslo": [
+              "Od celu",
+              "do jadłospisu."
+            ],
+            "rozmiar": 88,
+            "ekran": "dietSaved"
+          }
+        ]
+      }
+    }
+  ],
+  "karuzela": {
+    "format": "1x1",
+    "nazwa": "Od celu do własnej diety",
+    "tekstGlowny": "Ustaw cel kalorii, wybierz parametry generatora i sprawdź podgląd posiłków. Gotowy jadłospis zapisz do swojej diety. Zobacz cały proces w Diecik — od ustawień profilu do planu na kolejne dni.",
+    "karty": [
+      {
+        "id": "01-Cel",
+        "etykieta": "01 / TWÓJ CEL",
+        "naglowek": [
+          "Najpierw",
+          "cel kalorii."
+        ],
+        "tresc": [
+          "Ustaw redukcję i aktywność.",
+          "Zobacz sugerowane makro."
+        ],
+        "dopisek": "Propozycja z danych profilu.",
+        "uklad": "telefon+detal",
+        "ekran": "profileAuto",
+        "detal": "wynikKalorii",
+        "teksty": {
+          "naglowek": "Cel kalorii",
+          "opis": "Propozycja z profilu."
+        }
+      },
+      {
+        "id": "02-Ustawienia",
+        "etykieta": "02 / USTAWIENIA",
+        "naglowek": [
+          "Twój plan.",
+          "Twoje wybory."
+        ],
+        "tresc": [
+          "Wybierz liczbę posiłków,",
+          "dni i preferencje."
+        ],
+        "dopisek": "Generator Standard za darmo.",
+        "uklad": "telefon",
+        "ekran": "generatorConfig",
+        "teksty": {
+          "naglowek": "Ustaw generator",
+          "opis": "Dni, posiłki, preferencje."
+        }
+      },
+      {
+        "id": "03-Podglad",
+        "etykieta": "03 / PODGLĄD",
+        "naglowek": [
+          "Najpierw",
+          "podgląd."
+        ],
+        "rozmiarNaglowka": 94,
+        "tresc": [
+          "Sprawdź posiłki",
+          "i dostępne przepisy."
+        ],
+        "dopisek": "Zanim zapiszesz swój plan.",
+        "uklad": "telefon+detal",
+        "ekran": "generatorPreviewTop",
+        "detal": "podgladPosilkow",
+        "teksty": {
+          "naglowek": "Sprawdź jadłospis",
+          "opis": "Zobacz posiłki przed zapisem."
+        }
+      },
+      {
+        "id": "04-Zapis",
+        "etykieta": "04 / ZAPIS",
+        "naglowek": [
+          "Plan gotowy?",
+          "Zapisz go."
+        ],
+        "tresc": [
+          "Otwórz swoją dietę.",
+          "Edytuj posiłki po swojemu."
+        ],
+        "dopisek": "Ty decydujesz o zapisie.",
+        "uklad": "telefon",
+        "ekran": "dietSaved",
+        "teksty": {
+          "naglowek": "Zapisz swoją dietę",
+          "opis": "Plan w aplikacji."
+        }
+      }
+    ]
+  },
+  "uwagi": [
+    "W montażu są cięcia pomijające oczekiwanie; nie deklarować czasu generowania.",
+    "Cel kalorii dla redukcji to propozycja oparta na szacowanym zapotrzebowaniu i wybranej korekcie, nie pomiar rzeczywistego deficytu ani obietnica wyniku.",
+    "Pokazane 1902 kcal i jadłospis 1842 kcal to autentyczne dane demonstracyjne; nie deklarować idealnego dopasowania każdej wartości ani gwarancji efektów.",
+    "Bezpłatność dotyczy generatora Standard. Pozostałe typy diet i lista zakupów wymagają Premium."
+  ]
+}

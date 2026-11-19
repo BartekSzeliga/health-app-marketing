@@ -1,0 +1,10 @@
+appId: com.helti.app
+---
+- tapOn:
+    point: 87%, 12%
+- waitForAnimationToEnd
+- tapOn: "Dieta, tab, 1 of 6"
+- waitForAnimationToEnd
+- extendedWaitUntil:
+    visible: "Dieta"
+    timeout: 10000

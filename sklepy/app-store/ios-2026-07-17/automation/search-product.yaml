@@ -1,0 +1,6 @@
+appId: com.helti.app
+---
+- tapOn: "Szukaj produktu lub posiłku"
+- inputText: "łosoś"
+- hideKeyboard
+- waitForAnimationToEnd

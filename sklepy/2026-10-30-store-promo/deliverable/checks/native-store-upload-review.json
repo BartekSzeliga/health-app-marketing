@@ -1,0 +1,73 @@
+{
+  "date": "2026-10-30",
+  "scope": "Draft-only complete native screenshot replacement",
+  "google": {
+    "url": "https://play.google.com/console/u/0/developers/7197953661716897400/app/4976012247082787839/store-listings/default/edit",
+    "phoneScreenshotNames": [
+      "01-diet-day-NATIVE.png",
+      "02-generated-plan-NATIVE.png",
+      "03-recipe-NATIVE.png",
+      "04-training-plan-NATIVE.png",
+      "05-exercise-NATIVE.png",
+      "06-progress-NATIVE.png",
+      "07-specialist-diet-NATIVE.png",
+      "08-shopping-NATIVE.png"
+    ],
+    "count": 8,
+    "saved": true,
+    "saveButtonDisabled": true,
+    "visibleStatus": "Zmiany zostały zapisane",
+    "oldPhoneScreenshotsRemovedFromDraft": [
+      "a.jpg",
+      "02-twoj-tydzien-gotowy-w-chwile.jpg",
+      "03-posilki-dopasowane-do-ciebie.jpg",
+      "04-makro-pod-kontrola.jpg",
+      "05-plan-treningowy-w-kilka-chwil.jpg",
+      "06-trening-zaplanowany-na-dzis.jpg",
+      "07-technika-krok-po-kroku.jpg",
+      "08-postepy-ktore-widac.jpg"
+    ],
+    "otherDeviceGroups": "Tablet7, Tablet10, computer and AndroidXR empty",
+    "videoUrl": "empty",
+    "proof": "google-new-native-screenshots-saved.png"
+  },
+  "apple": {
+    "url": "https://appstoreconnect.apple.com/apps/6762611821/distribution/ios/version/inflight",
+    "version": "1.0.22",
+    "status": "Prepare for Submission",
+    "primarySize": "1206x2622",
+    "screenshotNames": [
+      "01-diet-day-NATIVE.png",
+      "02-generated-plan-NATIVE.png",
+      "03-recipe-NATIVE.png",
+      "04-training-plan-NATIVE.png",
+      "05-exercise-NATIVE.png",
+      "06-progress-NATIVE.png",
+      "07-specialist-diet-NATIVE.png",
+      "08-shopping-NATIVE.png"
+    ],
+    "count": 8,
+    "appPreviews": 0,
+    "persistedAfterNavigation": true,
+    "oldExplicitSetsRemovedFromDraft": [
+      {
+        "group": "iPhone with Face ID (large display)",
+        "screenshots": 10,
+        "appPreviews": 3
+      },
+      {
+        "group": "iPhone with Home Button (medium display)",
+        "screenshots": 6,
+        "appPreviews": 0
+      }
+    ],
+    "phoneInheritance": "Eight used iPhone groups contain new8 in exact01-08 order; iPhoneDuo empty as before",
+    "otherGroups": "All5iPad, AppleWatch and all14iMessage groups checked empty",
+    "library": "Previous assets retained",
+    "proof": "apple-new-native-screenshots-version.png",
+    "devicePreviewProof": "apple-new-native-device-preview.png"
+  },
+  "publication": false,
+  "buildUploaded": false,
+  "pagesLeftOpen": true
+}

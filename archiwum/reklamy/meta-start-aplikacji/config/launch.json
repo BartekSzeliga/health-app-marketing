@@ -1,0 +1,67 @@
+{
+  "campaign": "Diecik — start aplikacji",
+  "language": "pl-PL",
+  "video": {
+    "width": 1080,
+    "height": 1920,
+    "fps": 30,
+    "durationSeconds": 15,
+    "sceneDurationsSeconds": [2.6, 4.0, 5.8, 3.2],
+    "transitionSeconds": 0.2,
+    "safeArea": {
+      "left": 90,
+      "right": 180,
+      "top": 250,
+      "bottom": 420
+    }
+  },
+  "feed": {
+    "width": 1080,
+    "height": 1350
+  },
+  "audio": {
+    "type": "original-apple-loops-mix",
+    "voice": false,
+    "sampleRate": 48000,
+    "channels": 2,
+    "targetLufs": -14,
+    "truePeakDb": -1.5,
+    "source": "GarageBand Apple Loops / 07 Chillwave",
+    "mix": [
+      "Moving Pictures Acoustic Guitar",
+      "Moving Pictures Bass",
+      "Minimal Backbeat 01",
+      "Moving Pictures Synth"
+    ]
+  },
+  "scenes": [
+    {
+      "start": 0,
+      "end": 2.6,
+      "eyebrow": "NOWA APLIKACJA",
+      "title": ["DIECIK", "JUŻ JEST"],
+      "body": ["Dieta i trening", "w jednym miejscu."]
+    },
+    {
+      "start": 2.4,
+      "end": 6.4,
+      "eyebrow": "PLAN DIETY",
+      "title": ["USTAW.", "WYGENERUJ."],
+      "body": ["Preferencje, wykluczenia", "i makro pod ręką."]
+    },
+    {
+      "start": 6.2,
+      "end": 12,
+      "eyebrow": "PLAN TRENINGOWY",
+      "title": ["TRENUJ", "PO SWOJEMU."],
+      "body": ["Wybierz dni, czas,", "poziom i sprzęt."]
+    },
+    {
+      "start": 11.8,
+      "end": 15,
+      "eyebrow": "DIECIK",
+      "title": ["ZACZNIJ", "DZISIAJ."],
+      "body": ["Pobierz aplikację", "na iOS lub Androida."]
+    }
+  ]
+}
