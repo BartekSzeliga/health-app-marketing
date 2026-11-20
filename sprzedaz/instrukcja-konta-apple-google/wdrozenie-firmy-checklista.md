@@ -147,7 +147,7 @@ U każdej firmy w formularzu Bezpieczeństwo danych, sekcja Identyfikatory urzą
 - nie tymczasowo;
 - wymagane;
 - cele „Funkcje aplikacji” i „Analityka”.
-Diecik ma to zadeklarowane (opcjonalne, Analityka, przez Meta). Przy każdym nowym SDK sprawdź, czy wysyła identyfikatory, i porównaj z formularzem Diecika.
+Apple, w sekcji App Privacy to samo: Identifiers → Device ID, cele App Functionality i Analytics, powiązane z tożsamością (RODO), bez śledzenia. Diecik ma to zadeklarowane (opcjonalne, Analityka, przez Meta). Przy każdym nowym SDK sprawdź, czy wysyła identyfikatory, i porównaj z formularzem Diecika.
 
 ## 6c. Nagranie dla App Review (wzór: Forma Studio, 20.11.2026)
 Apple chce nagrania z „fizycznego urządzenia z najnowszym iOS”. Research z 20.11.2026: nie ma przykładów, w których Apple przyjęło nagranie z symulatora, gdy prosiło o urządzenie. Przyjmuje za to nagranie ekranu z Centrum sterowania iPhone'a. Że Diecik kiedyś przeszedł z symulatorem, nie jest dowodem na przyszłość.
