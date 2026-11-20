@@ -126,6 +126,45 @@ Google Play: pierwsze wydanie i tak przechodzi ręczne „Wyślij zmiany do spra
 
 Kolejność, która działa: 1) DAC7 i umowy na koncie, 2) dane recenzenta + kontakt, 3) build wybrany, 4) ręczne wydanie, 5) Add for Review → Submit for Review („1 Item Submitted”, do 48 h).
 
+Apple odrzuciło Forma Studio 20.11 jako **2.1 „Information Needed”**, bo krótka notatka nie wystarczyła. Aplikacja firmowa wygląda dla Apple jak aplikacja tylko dla jednej firmy, a Apple przypomina wtedy o Guideline 3.2 (dystrybucja prywatna).
+
+Przy każdej firmie, już przy pierwszej wysyłce:
+- **Notes:** wpisz pełną notatkę EN. Wzór jest w polu Notes wersji Forma Studio (zapisany 20.11). Musi zawierać:
+  - cel i odbiorców: publiczna aplikacja dla klientów studia, nie narzędzie wewnętrzne;
+  - zakładki po polsku z tłumaczeniem;
+  - usługi zewnętrzne: nasz backend, Keycloak, Google jako opcja logowania, Expo Update; bez płatności i AI;
+  - region: tylko Polska;
+  - informację, że to nie wyrób medyczny.
+- **Attachment:** dołącz nagranie ekranu. Ma zaczynać się od uruchomienia aplikacji i pokazywać:
+  - logowanie;
+  - połączenie z firmą;
+  - funkcje;
+  - usunięcie konta (Więcej → Usuń konto).
+
+## 6c. Nagranie dla App Review (wzór: Forma Studio, 20.11.2026)
+Apple chce nagrania z „fizycznego urządzenia z najnowszym iOS”. Research z 20.11.2026: nie ma przykładów, w których Apple przyjęło nagranie z symulatora, gdy prosiło o urządzenie. Przyjmuje za to nagranie ekranu z Centrum sterowania iPhone'a. Że Diecik kiedyś przeszedł z symulatorem, nie jest dowodem na przyszłość.
+**Kolejność wyboru:** 1) nowszy iPhone z najnowszym iOS (np. pożyczony; instalacja przez TestFlight, nagranie z Centrum sterowania); 2) starszy iPhone z najnowszym iOS, jaki obsługuje, i ta informacja w notatce (aplikacja wymaga iOS ≥ 16.4, więc iPhone 8 z iOS 16.7 wystarczy); 3) symulator tylko w ostateczności.
+Kroki z symulatorem poniżej zostają jako wariant awaryjny i do zrzutów ekranu.
+
+| Krok | Kto | Czas |
+|---|---|---|
+| Build na symulator z produkcji: `TENANT=<slug> npx eas build -p ios --profile <slug>-simulator --non-interactive --no-wait`. Profil dziedziczy po `<slug>-production`, a dodatkowo ma `distribution: internal`, `ios.simulator: true`, `ios.autoIncrement: false`, żeby nie podbijać numeru buildu w sklepie | agent | ~15 min (chmura) |
+| Runtime z najnowszym iOS **dla zwykłych iPhone'ów**: `xcrun simctl list runtimes -j` → supportedDeviceTypes. Stan na 20.11.2026: iOS 27.1 jest tylko dla „iPhone Duo” (także po `xcodebuild -downloadPlatform iOS`, 7,85 GB, niepotrzebne), więc najnowszy iOS dla zwykłego iPhone'a to **27.0 na iPhone 18 Pro** | agent | 1 min |
+| Nowy symulator „App Review iPhone 17 Pro” na tym runtime, `simctl install`, czysty start bez danych | agent | 2 min |
+| Nagranie `xcrun simctl io <udid> recordVideo --codec=h264 <plik>.mov`. Bartosz klika w oknie symulatora (w Xcode 27 to **DeviceHub.app** w `/Applications/Xcode.app/Contents/Applications/`, nie Simulator.app; pasek statusu: `simctl status_bar <udid> override --time 9:41 --batteryState charged --batteryLevel 100`) i wpisuje hasła (agent nie wpisuje haseł ani danych rejestracji na produkcji) | agent + Bartosz | ~10 min |
+| Kontrola filmu klatkami (start od uruchomienia, każdy wymagany krok widoczny), dopisanie do notatki, wgranie do Attachment, Resubmit za zgodą Bartosza | agent | ~10 min |
+
+**Scenariusz** (ok. 3–4 min, bez przyspieszania):
+1. Ekran główny symulatora → tap w ikonę aplikacji (nagranie zaczyna się PRZED uruchomieniem).
+2. **Rejestracja:** Zaloguj → strona logowania firmy → „Rejestracja” → nowy adres e-mail i hasło → (potwierdzenie e-mail, jeśli Keycloak wymaga) → powrót do aplikacji.
+3. Konto bez zaproszenia: ekran „Poproś o zaproszenie” z kontaktem do firmy.
+4. **Usunięcie konta:** Więcej → Usuń konto → potwierdzenie → powrót do logowania. Konto testowe znika z produkcji.
+5. **Logowanie** kontem demo z Sign-In Information.
+6. Funkcje: Start → Dieta (posiłek, przepis, lista zakupów) → Trening → Postępy → Ankiety → Czat.
+7. **Treści użytkowników (czat):** przytrzymanie wiadomości → „Zgłoś wiadomość” (anuluj); ikona „i” → „Zgłoś zachowanie”, „Zablokuj rozmowę” (pokazać, nie potwierdzać).
+8. Więcej → Usuń konto: pokazać ekran, nie usuwać konta demo.
+Płatnych treści brak, więc ten punkt opisujemy tylko w notatce.
+
 ## 7. Po publikacji w sklepach — zaproszenia w marce firmy
 Zaproszenia klientów od firmy z AKTYWNĄ aplikacją wychodzą w jej marce: nadawca = nazwa firmy (adres noreply@diecik.com),
 odpowiedź = e-mail kontaktowy firmy, logo z Ustawień firmy, kolor wybranej palety, stopka „w imieniu … przez Diecik”.
