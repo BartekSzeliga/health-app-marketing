@@ -141,6 +141,14 @@ Przy każdej firmie, już przy pierwszej wysyłce:
   - funkcje;
   - usunięcie konta (Więcej → Usuń konto).
 
+Google odrzuciło Forma Studio 20.11 (build 3) z powodu **nieprawidłowego formularza Bezpieczeństwo danych**: nie zadeklarowano „Identyfikatory urządzenia i inne”. Przyczyna: `expo-updates` przy sprawdzaniu aktualizacji OTA wysyła do serwerów Expo stały identyfikator instalacji (nagłówek `EAS-Client-ID`).
+U każdej firmy w formularzu Bezpieczeństwo danych, sekcja Identyfikatory urządzenia i inne, zaznacz:
+- zbierane, nieudostępniane;
+- nie tymczasowo;
+- wymagane;
+- cele „Funkcje aplikacji” i „Analityka”.
+Diecik ma to zadeklarowane (opcjonalne, Analityka, przez Meta). Przy każdym nowym SDK sprawdź, czy wysyła identyfikatory, i porównaj z formularzem Diecika.
+
 ## 6c. Nagranie dla App Review (wzór: Forma Studio, 20.11.2026)
 Apple chce nagrania z „fizycznego urządzenia z najnowszym iOS”. Research z 20.11.2026: nie ma przykładów, w których Apple przyjęło nagranie z symulatora, gdy prosiło o urządzenie. Przyjmuje za to nagranie ekranu z Centrum sterowania iPhone'a. Że Diecik kiedyś przeszedł z symulatorem, nie jest dowodem na przyszłość.
 **Kolejność wyboru:** 1) nowszy iPhone z najnowszym iOS (np. pożyczony; instalacja przez TestFlight, nagranie z Centrum sterowania); 2) starszy iPhone z najnowszym iOS, jaki obsługuje, i ta informacja w notatce (aplikacja wymaga iOS ≥ 16.4, więc iPhone 8 z iOS 16.7 wystarczy); 3) symulator tylko w ostateczności.
