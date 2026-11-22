@@ -166,6 +166,10 @@ Apple chce nagrania z „fizycznego urządzenia z najnowszym iOS”. Research z 
 - Po „Rejestracja” nie klikaj nic w oknie logowania w aplikacji, póki link z maila nie zostanie otwarty. Stara strona w tym oknie daje „Strona wygasła”. Po potwierdzeniu maila i ustawieniu hasła zamknij okno (X) i zaloguj się od nowa.
 - Każda próba zostawia na produkcji konto z tym adresem („Nazwa użytkownika już istnieje”), więc przy powtórce bierz nowy adres.
 - Klawiatura iOS podpowiada prywatny e-mail właściciela telefonu. Przed nagraniem wyłącz Ustawienia → Ogólne → Klawiatura → Przewidywanie.
+- Pole hasła pokazuje nad klawiaturą zapisane loginy dla `auth.diecik.com` (np. konto administratora). Na czas nagrania wyłącz Ustawienia → Ogólne → Autouzupełnianie i hasła → Autouzupełnianie haseł.
+- Nie dotykaj „Napisz kontakt@…”: otwiera aplikację Mail z prywatnym adresem nadawcy i skrzynką odbiorczą (próba 22.11.2026 pokazała prywatne maile).
+- Każde nagranie zaczynaj na ekranie głównym telefonu i uruchamiaj aplikację z ikony, nie od ekranu startowego aplikacji.
+- Czat konta demo musi mieć co najmniej jedną wiadomość od specjalisty. Bez niej nie da się pokazać „Zgłoś wiadomość”, a formularz zgłoszenia mówi na czerwono „Brak wiadomości specjalisty…”. Wyślij ją przed nagraniem z panelu specjalisty demo.
 
 Kroki z symulatorem poniżej zostają jako wariant awaryjny i do zrzutów ekranu.
 
