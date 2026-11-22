@@ -1,0 +1,33 @@
+SCREEN RECORDING (attachment, 2:33): recorded on a physical iPhone 17e with iOS 27.0 on 22 Nov 2026. It has two parts; each starts on the Home Screen and launches the app from its icon.
+1. Registration and account deletion (0:00-1:45): "Zaloguj się lub załóż konto" (Sign in or create an account) -> "Rejestracja" (Register) -> e-mail confirmation link -> setting a password -> sign-in -> "Poproś o zaproszenie" (Ask for an invitation; shown to an account the studio has not linked yet) -> "Więcej" (More) -> "Usuń konto" (Delete account) -> confirmation -> the app returns to the start screen.
+2. Demo account (1:45-2:33): sign-in with the demo account -> Dieta (diet: meals, shopping list) -> Trening (workouts) -> Postępy (progress) -> Czat (chat) with reporting and blocking -> Więcej (More) with "Usuń konto".
+
+1. PURPOSE AND AUDIENCE
+Forma Studio is a public consumer app for the clients of Forma Studio, a nutrition and fitness studio in Poland. The studio's dietitian or trainer prepares the client's diet plan, training plan and questionnaires. The app puts meals, recipes, shopping list, workouts, progress and chat with the specialist in one place. It is not an internal tool for employees; anyone who becomes a client of the studio downloads it from the App Store.
+
+2. HOW TO ACCESS THE FEATURES
+- Tap "Zaloguj się lub załóż konto" and sign in with the demo e-mail and password from Sign-In Information (no 2FA). The demo client is already linked with the studio and has a diet plan, workouts, a questionnaire and a message from the specialist in the chat.
+- The interface is in Polish. Tabs: Dieta (diet: meals, recipes, shopping list), Trening (workouts), Postępy (progress: weight and measurements), Czat (chat with the studio), Więcej (More: questionnaires, plans, contact, profile, health data and consents, privacy policy, terms, delete account).
+- Anyone can create an account on the sign-in page ("Rejestracja"). Until the studio links the account, the app shows "Poproś o zaproszenie" with the studio's contact details, as in part 1 of the recording. The studio invites its clients by e-mail; the client confirms the invitation and the account is linked.
+- No in-app purchases; the studio bills its clients for its services outside the app.
+
+3. ACCOUNT DELETION
+Więcej -> Usuń konto -> "Usuń konto Diecik i dane" -> confirm. The studio runs its app on the Diecik platform, and the user's account is a Diecik account (the sign-in page is auth.diecik.com), which is why the button says "Delete Diecik account and data". Deletion removes the profile, weight history, body measurements, chat messages and settings, notifications, diets, private products, training plans and the sign-in account. If the account ever had a purchase, only minimal billing data required by law is kept.
+
+4. USER-GENERATED CONTENT
+The only user-generated content is the private chat between a client and the studio's specialists.
+- Long-press a specialist's message -> "Zgłoś wiadomość" (Report message).
+- The "i" button in the chat -> "Zgłoś zachowanie" (Report behavior: a reason and up to 5 messages as evidence), "Zablokuj rozmowę" (Block conversation) and "Zasady czatu" (Chat rules).
+A report sends the selected messages and a limited excerpt of the conversation to a moderator.
+
+5. EXTERNAL SERVICES
+- Diecik platform (our own backend, api.diecik.com) - stores plans, progress and messages.
+- Keycloak (self-hosted at auth.diecik.com) - sign-in and registration; the sign-in page also offers Sign in with Apple, Facebook and Google.
+- Expo / EAS Update - delivery of app updates.
+No payment processors, no advertising, no AI services in this app.
+
+6. REGIONS
+The app is available in Poland only and works the same for every user there. The interface is in Polish.
+
+7. REGULATED CONTENT
+The app is not a medical device and does not diagnose or treat. Plans are prepared by the studio's specialists; the app only displays them. No third-party protected content is used.

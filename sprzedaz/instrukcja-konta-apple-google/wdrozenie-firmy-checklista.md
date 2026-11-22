@@ -129,7 +129,7 @@ Kolejność, która działa: 1) DAC7 i umowy na koncie, 2) dane recenzenta + kon
 Apple odrzuciło Forma Studio 20.11 jako **2.1 „Information Needed”**, bo krótka notatka nie wystarczyła. Aplikacja firmowa wygląda dla Apple jak aplikacja tylko dla jednej firmy, a Apple przypomina wtedy o Guideline 3.2 (dystrybucja prywatna).
 
 Przy każdej firmie, już przy pierwszej wysyłce:
-- **Notes:** wpisz pełną notatkę EN. Wzór jest w polu Notes wersji Forma Studio (zapisany 20.11). Musi zawierać:
+- **Notes:** wpisz pełną notatkę EN. Wzór: `app-review-notatka-wzor-forma-studio.txt` obok tej checklisty (wysłany 22.11.2026). Sekcję PURPOSE AND AUDIENCE pisz o prawdziwej firmie klienta; w demie opisuje ona fikcyjne studio, więc nie kopiuj jej bez zmian. Limit pola to 4000 znaków (nowa linia liczy się jako 1). Musi zawierać:
   - cel i odbiorców: publiczna aplikacja dla klientów studia, nie narzędzie wewnętrzne;
   - zakładki po polsku z tłumaczeniem;
   - usługi zewnętrzne: nasz backend, Keycloak, Google jako opcja logowania, Expo Update; bez płatności i AI;
@@ -161,11 +161,22 @@ Apple chce nagrania z „fizycznego urządzenia z najnowszym iOS”. Research z 
 6. Zatrzymaj nagranie czerwonym wskaźnikiem w lewym górnym rogu → Zatrzymaj (albo przyciskiem w Centrum sterowania). Film trafia do Zdjęć.
 7. Prześlij film AirDropem na Maca. iPhone nagrywa w HEVC, więc przed wgraniem sprawdź, czy film się odtwarza; w razie potrzeby przekonwertuj go do H.264 (bez przyspieszania i cięcia w środku).
 
+8. Pole Attachment w App Review Information przyjmuje **jeden plik**. Kilka nagrań łączy agent w jeden film bez ponownego kodowania (AVFoundation: `AVMutableComposition` + eksport `Passthrough`, HEVC zostaje), a w notatce podaje znaczniki czasu części. Plik ok. 270 MB wybiera w polu Bartosz, bo przeglądarka agenta wgrywa najwyżej 10 MB. Potem Save, nie „Update Review”.
+
+**Ponowna wysyłka po 2.1 (Forma Studio, 22.11.2026):**
+- Kolejność: notatka + Save na stronie wersji → Attachment + Save → klasyfikacja wiekowa → „Update Review” → strona zgłoszenia → „Resubmit to App Review” → status „Waiting for Review”.
+- **Klasyfikacja wiekowa:** Apple dokłada nowe pytania (XI 2026: „Shared Location” w kroku 1 i „Dating and Relationships” w kroku 2). Baner na stronie wersji mówi, że nowe aplikacje muszą odpowiedzieć od razu. Bez odpowiedzi „Next” w kwestionariuszu jest nieaktywne. Dla aplikacji firmowej obie odpowiedzi to „No” (aplikacja nie używa lokalizacji), a ocena zostaje 9+. Zapis jest dwuetapowy: „Save” w kwestionariuszu, potem „Save” na stronie App Information. Sprawdź po przeładowaniu, bo ASC potrafi pokazać „Sorry, something went wrong”, mimo że zapisało.
+- Przed wysyłką sprawdź w TestFlight, że build w review to ten z nagrania (liczba instalacji i sesji).
+- Banery o Chinach (Security Assessment, AIGC) nie dotyczą aplikacji dostępnej tylko w Polsce.
+
 **Pułapki rejestracji na nagraniu (próba 22.11.2026):**
 - Link w mailu „potwierdź adres e-mail” był ważny **5 minut** (domyślne ustawienie Keycloaka); od 22.11.2026 jest ważny **1 godzinę** (Realm settings → Tokens). Otwieraj zawsze **najnowszy** mail i sprawdź jego godzinę. Kliknięcie starego maila daje „Przykro nam… Akcja wygasła”. Na skrzynce tymczasowej po odświeżeniu kolejność maili się zmienia.
 - Po „Rejestracja” nie klikaj nic w oknie logowania w aplikacji, póki link z maila nie zostanie otwarty. Stara strona w tym oknie daje „Strona wygasła”. Po potwierdzeniu maila i ustawieniu hasła zamknij okno (X) i zaloguj się od nowa.
 - Każda próba zostawia na produkcji konto z tym adresem („Nazwa użytkownika już istnieje”), więc przy powtórce bierz nowy adres.
-- Klawiatura iOS podpowiada prywatny e-mail właściciela telefonu. Przed nagraniem wyłącz Ustawienia → Ogólne → Klawiatura → Przewidywanie.
+- Telefon do nagrania ma mieć zainstalowane Safari ustawione jako przeglądarkę domyślną, tak jak urządzenie recenzenta Apple. Na iPhonie Bartosza Safari było usunięte (22.11.2026): link z maila otwierał się w innej przeglądarce, w Ustawieniach brakowało pozycji Safari, a w oknie rejestracji nie działało wklejanie (związek z brakiem Safari niepotwierdzony).
+- Nad klawiaturą w polu „E-mail” pojawia się prywatny adres właściciela telefonu z etykietą „dom”. To autouzupełnianie danych kontaktowych z wizytówki „Moje dane”, a nie przewidywanie tekstu; strona logowania otwiera się w oknie Safari. Przed nagraniem wyłącz Ustawienia → Aplikacje → Safari → Autouzupełnianie → dane kontaktowe.
+- Nazwy przełączników różnią się między wersjami iOS (na iPhonie 17e Bartosza nie było pozycji „Przewidywanie” w Ustawienia → Ogólne → Klawiatura, 22.11.2026). Jeśli ścieżka się nie zgadza, wpisz nazwę w wyszukiwarkę na górze Ustawień.
+- Przed włączeniem nagrywania zrób próbę: Rejestracja → dotknij pola „E-mail”, potem pola hasła. Nad klawiaturą nie może być żadnego adresu ani zapisanego loginu.
 - Pole hasła pokazuje nad klawiaturą zapisane loginy dla `auth.diecik.com` (np. konto administratora). Na czas nagrania wyłącz Ustawienia → Ogólne → Autouzupełnianie i hasła → Autouzupełnianie haseł.
 - Nie dotykaj „Napisz kontakt@…”: otwiera aplikację Mail z prywatnym adresem nadawcy i skrzynką odbiorczą (próba 22.11.2026 pokazała prywatne maile).
 - Każde nagranie zaczynaj na ekranie głównym telefonu i uruchamiaj aplikację z ikony, nie od ekranu startowego aplikacji.
