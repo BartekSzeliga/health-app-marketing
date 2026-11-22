@@ -152,6 +152,21 @@ Apple, w sekcji App Privacy to samo: Identifiers → Device ID, cele App Functio
 ## 6c. Nagranie dla App Review (wzór: Forma Studio, 20.11.2026)
 Apple chce nagrania z „fizycznego urządzenia z najnowszym iOS”. Research z 20.11.2026: nie ma przykładów, w których Apple przyjęło nagranie z symulatora, gdy prosiło o urządzenie. Przyjmuje za to nagranie ekranu z Centrum sterowania iPhone'a. Że Diecik kiedyś przeszedł z symulatorem, nie jest dowodem na przyszłość.
 **Kolejność wyboru:** 1) nowszy iPhone z najnowszym iOS (np. pożyczony; instalacja przez TestFlight, nagranie z Centrum sterowania); 2) starszy iPhone z najnowszym iOS, jaki obsługuje, i ta informacja w notatce (aplikacja wymaga iOS ≥ 16.4, więc iPhone 8 z iOS 16.7 wystarczy); 3) symulator tylko w ostateczności.
+**Nagranie na iPhonie (wariant 1–2; wzór iPhone 17e, iOS 27, 22.11.2026):**
+1. Uaktualnij iOS do najnowszej wersji (Ustawienia → Ogólne → Uaktualnienia). Wersję i model wpisz potem w notatce dla Apple.
+2. Zainstaluj aplikację z TestFlight. To ten sam build, który jest w review; jeśli go nie ma, dodaj konto do testerów wewnętrznych.
+3. Dodaj przycisk nagrywania do Centrum sterowania: przeciągnij w dół od prawego górnego rogu → „+” w lewym górnym rogu (albo przytrzymaj puste miejsce) → „Dodaj element sterujący” → Nagrywanie ekranu.
+4. Przytrzymaj przycisk nagrywania i wyłącz mikrofon. Włącz Nie przeszkadzać. Format zrzutów ustaw na SDR, jeśli telefon ma tę opcję (Ustawienia → Ogólne → Zrzut ekranu).
+5. Na ekranie głównym: Centrum sterowania → nagrywanie → 3 s odliczania → zamknij Centrum → tap w ikonę aplikacji → scenariusz poniżej.
+6. Zatrzymaj nagranie czerwonym wskaźnikiem w lewym górnym rogu → Zatrzymaj (albo przyciskiem w Centrum sterowania). Film trafia do Zdjęć.
+7. Prześlij film AirDropem na Maca. iPhone nagrywa w HEVC, więc przed wgraniem sprawdź, czy film się odtwarza; w razie potrzeby przekonwertuj go do H.264 (bez przyspieszania i cięcia w środku).
+
+**Pułapki rejestracji na nagraniu (próba 22.11.2026):**
+- Link w mailu „potwierdź adres e-mail” był ważny **5 minut** (domyślne ustawienie Keycloaka); od 22.11.2026 jest ważny **1 godzinę** (Realm settings → Tokens). Otwieraj zawsze **najnowszy** mail i sprawdź jego godzinę. Kliknięcie starego maila daje „Przykro nam… Akcja wygasła”. Na skrzynce tymczasowej po odświeżeniu kolejność maili się zmienia.
+- Po „Rejestracja” nie klikaj nic w oknie logowania w aplikacji, póki link z maila nie zostanie otwarty. Stara strona w tym oknie daje „Strona wygasła”. Po potwierdzeniu maila i ustawieniu hasła zamknij okno (X) i zaloguj się od nowa.
+- Każda próba zostawia na produkcji konto z tym adresem („Nazwa użytkownika już istnieje”), więc przy powtórce bierz nowy adres.
+- Klawiatura iOS podpowiada prywatny e-mail właściciela telefonu. Przed nagraniem wyłącz Ustawienia → Ogólne → Klawiatura → Przewidywanie.
+
 Kroki z symulatorem poniżej zostają jako wariant awaryjny i do zrzutów ekranu.
 
 | Krok | Kto | Czas |
