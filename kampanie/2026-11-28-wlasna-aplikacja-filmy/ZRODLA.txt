@@ -1,0 +1,116 @@
+Diecik · pochodzenie materiałów · 28.11.2026
+Kampania: Diecik — prowadzenie podopiecznych i własna aplikacja od 285 zł netto
+
+1. UJĘCIA
+data: 2026-11-19 (aplikacja firmowa), 2026-11-09 (panel)
+ekrany: natywne zrzuty iOS 1206×2622 aplikacji firmowej firmy demonstracyjnej
+(te same, które są na diecik.com/aplikacja-dla-firmy) oraz zrzut panelu web
+1440×1000 z kartą fikcyjnej podopiecznej
+konto: konta demonstracyjne; bez danych realnych osób
+nagrania: materiał stockowy z pexels.com na licencji Pexels, użyty
+ilustracyjnie; pliki w zrodla/material (poza Git), kadry do plansz w
+zrodla/zdjecia
+obrobka: ekrany produktu: jednolite skalowanie i ramka, bez retuszu
+interfejsu; nagrania: kadr do pionu, tempo naturalne, wspólna korekcja barw,
+bez dźwięku oryginalnego
+
+zrodla/ekrany/aplikacja-firmy-wellness.webp — Aplikacja firmowa, styl Wellness: dieta od specjalisty z logo firmy
+zrodla/ekrany/aplikacja-firmy-sport.webp — Aplikacja firmowa, styl Sportowy: ten sam ekran w ciemnym stylu
+zrodla/zdjecia/kuchnia-telefon.jpg — Kadr z nagrania 6238332 (18 s): osoba z telefonem w kuchni
+  autor: Thirdman · licencja: Pexels License · https://www.pexels.com/video/a-woman-shopping-online-while-sitting-on-a-counter-top-6238332/
+zrodla/zdjecia/po-treningu-telefon.jpg — Kadr z nagrania 8551768 (2 s): osoba w stroju sportowym z telefonem
+  autor: Liliana Drew · licencja: Pexels License · https://www.pexels.com/video/a-woman-using-smartphone-8551768/
+zrodla/material/pexels-6238332.mp4 — Osoba z telefonem w kuchni
+  autor: Thirdman · licencja: Pexels License · https://www.pexels.com/video/a-woman-shopping-online-while-sitting-on-a-counter-top-6238332/
+zrodla/material/pexels-9787015.mp4 — Osoba przy posiłku, telefon na stole
+  autor: Marcus Aurelius · licencja: Pexels License · https://www.pexels.com/video/a-woman-using-her-cellphone-while-eating-9787015/
+zrodla/material/pexels-8551768.mp4 — Osoba w stroju sportowym z telefonem
+  autor: Liliana Drew · licencja: Pexels License · https://www.pexels.com/video/a-woman-using-smartphone-8551768/
+zrodla/material/pexels-6454295.mp4 — Trener obserwujący ćwiczącą osobę
+  autor: Julia Larson · licencja: Pexels License · https://www.pexels.com/video/a-woman-is-lifting-dumbbell-while-her-trainer-is-watching-6454295/
+zrodla/material/pexels-6326810.mp4 — Osoba z telefonem na siłowni
+  autor: Pavel Danilyuk · licencja: Pexels License · https://www.pexels.com/video/man-in-sleeveless-t-shirt-typing-on-phone-6326810/
+zrodla/material/pexels-9130469.mp4 — Specjalistka pisze na laptopie przy oknie
+  autor: Dario Fernandez Ruz · licencja: Pexels License · https://www.pexels.com/video/woman-using-laptop-at-home-9130469/
+
+2. DOWODY TWIERDZEŃ
+Buduj markę — dla dietetyków:
+- Podopieczny widzi plan od specjalisty w aplikacji z logo i kolorami firmy.
+  health-app-company-mobile/src/lib/tenant-theme.ts:8–16
+- Oferta ze strony: prowadzenie klientów i własna aplikacja od 285 zł netto
+miesięcznie; aplikacja z nazwą, logo i kolorami firmy w App Store i Google
+Play; publikacja i aktualizacje po stronie Diecika.
+  health-app-frontend/src/pages/PublicCompanyApp.tsx:166, 332
+Twoja marka, Twoje logo — dla dietetyków:
+- Podopieczny widzi plan od specjalisty w aplikacji z logo i kolorami firmy.
+  health-app-company-mobile/src/lib/tenant-theme.ts:8–16
+- Oferta ze strony: prowadzenie klientów i własna aplikacja od 285 zł netto
+miesięcznie; aplikacja z nazwą, logo i kolorami firmy w App Store i Google
+Play; publikacja i aktualizacje po stronie Diecika.
+  health-app-frontend/src/pages/PublicCompanyApp.tsx:166, 332
+Buduj markę — dla trenerów:
+- Podopieczny widzi plan od specjalisty w aplikacji z logo i kolorami firmy,
+także w ciemnym stylu Sportowym.
+  health-app-company-mobile/src/lib/app-style.ts:2–3
+- Oferta ze strony: prowadzenie klientów i własna aplikacja od 285 zł netto
+miesięcznie; aplikacja z nazwą, logo i kolorami firmy w App Store i Google
+Play; publikacja i aktualizacje po stronie Diecika.
+  health-app-frontend/src/pages/PublicCompanyApp.tsx:166, 332
+Twoja marka, Twoje logo — dla trenerów:
+- Podopieczny widzi plan od specjalisty w aplikacji z logo i kolorami firmy,
+także w ciemnym stylu Sportowym.
+  health-app-company-mobile/src/lib/app-style.ts:2–3
+- Oferta ze strony: prowadzenie klientów i własna aplikacja od 285 zł netto
+miesięcznie; aplikacja z nazwą, logo i kolorami firmy w App Store i Google
+Play; publikacja i aktualizacje po stronie Diecika.
+  health-app-frontend/src/pages/PublicCompanyApp.tsx:166, 332
+
+Stan repo produktu w chwili budowania:
+health-app-company-mobile HEAD 07816e09e058887a612f727d7f2706f4a78a0e64
+health-app-frontend HEAD 01e44c82b3e3e6829a8e370000207d8865f938ee
+
+3. OBRÓBKA
+Ekrany aplikacji są tylko jednolicie skalowane, oprawione w ramkę i kadrowane.
+Narzędzie nie dopisuje do interfejsu etykiet, przycisków, liczb ani treści.
+Nagrania grają w tempie 1×; cięcia mogą pomijać oczekiwanie, nie dodają
+kliknięć.
+
+4. FILMY I MUZYKA
+Film-Dietetyk-Buduj-marke-20s.mp4: 20 s, gotowy podkład marka/muzyka/kinowy-20s.wav.
+  nagranie kuchnia od 1 s, tempo 1×
+  nagranie kuchnia od 4.6 s, tempo 1×, rozmyte tło pod telefonem
+  nagranie biurkoOkno od 2 s, tempo 1×
+  nagranie posilek od 2 s, tempo 1×
+Film-Dietetyk-Twoja-marka-20s.mp4: 20 s, gotowy podkład marka/muzyka/kinowy-20s.wav.
+  nagranie kuchnia od 1 s, tempo 1×
+  nagranie kuchnia od 4.6 s, tempo 1×, rozmyte tło pod telefonem
+  nagranie biurkoOkno od 2 s, tempo 1×
+  nagranie posilek od 2 s, tempo 1×
+Film-Trener-Buduj-marke-20s.mp4: 20 s, gotowy podkład marka/muzyka/kinowy-20s.wav.
+  nagranie poTreningu od 0.4 s, tempo 1×
+  nagranie poTreningu od 4.2 s, tempo 1×, rozmyte tło pod telefonem
+  nagranie trenerNaSali od 1 s, tempo 1×
+  nagranie silowniaTelefon od 2 s, tempo 1×
+Film-Trener-Twoja-marka-20s.mp4: 20 s, gotowy podkład marka/muzyka/kinowy-20s.wav.
+  nagranie poTreningu od 0.4 s, tempo 1×
+  nagranie poTreningu od 4.2 s, tempo 1×, rozmyte tło pod telefonem
+  nagranie trenerNaSali od 1 s, tempo 1×
+  nagranie silowniaTelefon od 2 s, tempo 1×
+Podkłady to własna synteza dźwięku: bez sampli, nagrań osób, lektora i
+odgłosów udających dotknięcia. Format filmów: MP4 1440×2560 (kadr 4:5:
+1440×1800), 30 kl./s, H.264, yuv420p, BT.709, AAC 48 kHz stereo.
+Nagrania ludzi to materiał stockowy użyty ilustracyjnie: osoby na nagraniach
+nie są klientami ani użytkownikami Diecika i niczego nie rekomendują. Dźwięk
+oryginalny usunięty.
+
+5. ZAKRES PRZEKAZU
+- Cena „od 285 zł netto miesięcznie” i zakres oferty pochodzą ze strony
+diecik.com/aplikacja-dla-firmy, stan na 28.11.2026. Przed emisją potwierdź, że
+strona nadal je podaje. Do ceny dochodzą opłaty sklepów na koncie firmy (Apple
+99 USD rocznie, Google 25 USD jednorazowo) — są opisane na stronie.
+- Aplikacja jest publikowana na kontach deweloperskich firmy w App Store i
+Google Play. Nie obiecujemy publikacji pod nazwą klienta z konta Diecika.
+- Nie podajemy terminu wdrożenia ani nie obiecujemy pozyskania klientów lub
+wyniku finansowego.
+- Osoby na zdjęciach i nagraniach to materiał stockowy użyty ilustracyjnie:
+nie są klientami Diecika i niczego nie rekomendują.

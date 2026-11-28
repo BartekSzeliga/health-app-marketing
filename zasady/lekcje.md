@@ -124,3 +124,5 @@ Format wpisu: **data — temat.** Co się stało (jego słowa, jeśli są). → 
 - **Demo niedopracowane.** → Jeden wygenerowany dzień to nie odbiór marketingowy; autentyczne zdjęcia, ikony makro, wspólne podsumowania.
 - **Deck dla firmy odrzucony (Fabryka Ruchu).** Surowe zrzuty Diecika i obowiązki przerzucone na klienta.
   → Zasady decków w `zasady/proces.md`.
+
+**28.11.2026 — cena aplikacji dla firm.** Bartosz zmienił cennik („od 285 netto zamaist 600 brutto”). W filmach podajemy „od 285 zł netto miesięcznie”. Przy zmianie stawki sprawdź w cenniku także oznaczenie netto lub brutto i odczytaj je z wyeksportowanych plansz końcowych.
